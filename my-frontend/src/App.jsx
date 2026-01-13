@@ -7,13 +7,34 @@ import eyelidResult from './assets/goz_kapagı_sonuclar.jpeg'
 import clinicVideo from './assets/video1.mp4'
 
 function App() {
+  const handleSubmit = (event) => {
+    event.preventDefault()
+    const formData = new FormData(event.target)
+    const name = formData.get('from_name')
+    const email = formData.get('from_email')
+    const phone = formData.get('phone')
+    const subject = formData.get('subject')
+    const message = formData.get('message')
+
+    const mailtoBody = `Ad Soyad: ${name}
+E-posta: ${email}
+Telefon: ${phone}
+Danışma Konusu: ${subject}
+
+Mesaj:
+${message}`
+
+    const mailtoLink = `mailto:banu.begen76@gmail.com?subject=Randevu Talebi - ${subject}&body=${encodeURIComponent(mailtoBody)}`
+    window.location.href = mailtoLink
+  }
+
   return (
     <div className="app">
       <header className="site-header">
         <nav className="navbar navbar-expand-lg navbar-light">
           <div className="container">
             <a className="navbar-brand brand" href="#home">
-              Dr. Banu Begen
+              Op. Dr. Banu Begen
             </a>
             <button
               className="navbar-toggler"
@@ -74,7 +95,7 @@ function App() {
               <div className="row align-items-center g-4">
                 <div className="col-lg-7 hero-content">
                   <p className="eyebrow fade-up delay-1">
-                    DR. BANU BEGEN KLİNİĞİ
+                    OP. DR. BANU BEGEN KLİNİĞİ
                   </p>
                   <h1 className="hero-title fade-up delay-2">
                     Hoş geldiniz. Sağlıkta güven, şeffaflık ve konfor.
@@ -116,7 +137,7 @@ function App() {
                   <div className="hero-visual">
                     <img
                       src={heroPhoto}
-                      alt="Dr. Banu Begen portre"
+                      alt="Op. Dr. Banu Begen portre"
                       className="doctor-photo fade-up delay-3"
                     />
                     <div className="hero-badge fade-up delay-4">
@@ -151,68 +172,56 @@ function App() {
             </div>
             <div className="row g-4 service-grid">
               <div className="col-md-6 col-lg-3">
-                <div className="service-card fade-up delay-1">
-                  <div className="icon-sigil">01</div>
-                  <h3 className="service-title">Göz Kapağı Uygulamaları</h3>
-                  <p className="service-text">
-                    Doğal sonuçlara odaklı, güvenli ve kontrollü estetik
-                    yaklaşımlar.
-                  </p>
+                <div className="service-box fade-up delay-1">
+                  <h3 className="service-box-title">Göz Kapağı Uygulamaları</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-card fade-up delay-2">
-                  <div className="icon-sigil">02</div>
-                  <h3 className="service-title">Dermatolojik Bakım</h3>
-                  <p className="service-text">
-                    Cilt sağlığını koruyan, düzenli takip ve yenileme
-                    programları.
-                  </p>
+                <div className="service-box fade-up delay-2">
+                  <h3 className="service-box-title">Dermatolojik Bakım</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-card fade-up delay-3">
-                  <div className="icon-sigil">03</div>
-                  <h3 className="service-title">Sağlık Danışmanlığı</h3>
-                  <p className="service-text">
-                    Kişisel hedeflerinize uygun yaşam stili ve bakım rehberliği.
-                  </p>
+                <div className="service-box fade-up delay-3">
+                  <h3 className="service-box-title">Sağlık Danışmanlığı</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-card fade-up delay-4">
-                  <div className="icon-sigil">04</div>
-                  <h3 className="service-title">Kontrol ve Takip</h3>
-                  <p className="service-text">
-                    Düzenli kontrollerle sürdürülebilir ve güvenli bir süreç.
-                  </p>
+                <div className="service-box fade-up delay-4">
+                  <h3 className="service-box-title">Kontrol ve Takip</h3>
                 </div>
               </div>
             </div>
           </div>
         </section>
 
-        <section id="about" className="page-section soft-section">
+        <section id="about" className="page-section about-section">
           <div className="container">
             <div className="row g-4 align-items-center">
               <div className="col-lg-6">
-                <div className="section-heading">
-                  <p className="eyebrow">Hakkımızda</p>
-                  <h2 className="section-title">
-                    Profesyonel bakım, sıcak iletişim
+                <div className="section-heading about-heading">
+                  <p className="eyebrow about-eyebrow">Hakkımızda</p>
+                  <h2 className="section-title about-title">
+                    Op. Dr. Banu Begen
                   </h2>
-                  <p className="section-lead">
-                    Dr. Banu Begen, hastalarına güvenli bir klinik deneyimi
-                    sunmayı hedefler. Planlı muayene, şeffaf süreç yönetimi ve
-                    etik tıbbi yaklaşım önceliğimizdir.
-                  </p>
+                  <div className="about-bio">
+                    <p>
+                      Op. Dr. Banu Begen, 1976 yılında Niğde'de doğmuştur. 1999 yılında Ege Üniversitesi Tıp Fakültesi'nden mezun olmuştur. Mesleki kariyerinin ilk yıllarında acil tıp ve medikal estetik alanlarında deneyim kazanmıştır.
+                    </p>
+                    <p>
+                      2003 yılında Afyon Kocatepe Üniversitesi Tıp Fakültesi Kulak Burun Boğaz Hastalıkları Anabilim Dalı'nda uzmanlık eğitimine başlamış, 2009 yılında uzmanlık eğitimini tamamlayarak Kulak Burun Boğaz Hastalıkları Uzmanı unvanını almıştır. Uzmanlık sonrası kamu hastanelerinde uzun yıllar görev yapmış, hasta odaklı yaklaşımı ve klinik deneyimiyle öne çıkmıştır.
+                    </p>
+                    <p>
+                      KBB hastalıklarının cerrahi ve medikal tedavilerinin yanı sıra botoks, dolgu, mezoterapi ve ileri medikal estetik uygulamalarında yüksek hasta memnuniyeti ile çalışmalarını sürdürmektedir.
+                    </p>
+                  </div>
                 </div>
                 <div className="about-metrics">
-                  <div className="metric-card">
+                  <div className="metric-card about-metric">
                     <span className="metric-value">4.9/5</span>
                     <span className="metric-label">Hasta Memnuniyeti</span>
                   </div>
-                  <div className="metric-card">
+                  <div className="metric-card about-metric">
                     <span className="metric-value">40+</span>
                     <span className="metric-label">Kurumsal İş Birliği</span>
                   </div>
@@ -222,7 +231,7 @@ function App() {
                 <div className="about-panel">
                   <img
                     src={aboutPhoto}
-                    alt="Dr. Banu Begen klinik fotoğrafı"
+                    alt="Op. Dr. Banu Begen klinik fotoğrafı"
                     className="about-photo"
                   />
                   <div className="about-card">
@@ -378,41 +387,60 @@ function App() {
               <div className="col-lg-6">
                 <form
                   className="contact-card"
-                  onSubmit={(event) => event.preventDefault()}
+                  onSubmit={handleSubmit}
                 >
                   <div className="row g-3">
                     <div className="col-md-6">
-                      <label className="form-label" htmlFor="name">
+                      <label className="form-label" htmlFor="from_name">
                         Ad Soyad
                       </label>
                       <input
                         className="form-control"
-                        id="name"
+                        id="from_name"
+                        name="from_name"
                         type="text"
                         placeholder="Adınız"
+                        required
                       />
                     </div>
                     <div className="col-md-6">
-                      <label className="form-label" htmlFor="email">
+                      <label className="form-label" htmlFor="from_email">
                         E-posta
                       </label>
                       <input
                         className="form-control"
-                        id="email"
+                        id="from_email"
+                        name="from_email"
                         type="email"
                         placeholder="mail@ornek.com"
+                        required
                       />
                     </div>
                     <div className="col-12">
-                      <label className="form-label" htmlFor="service">
-                        İlgi alanı
+                      <label className="form-label" htmlFor="phone">
+                        Telefon
                       </label>
-                      <select className="form-select" id="service">
-                        <option>Göz Kapağı Uygulamaları</option>
-                        <option>Dermatolojik Bakım</option>
-                        <option>Sağlık Danışmanlığı</option>
-                        <option>Kontrol ve Takip</option>
-                      </select>
+                      <input
+                        className="form-control"
+                        id="phone"
+                        name="phone"
+                        type="tel"
+                        placeholder="05XX XXX XX XX"
+                        required
+                      />
+                    </div>
+                    <div className="col-12">
+                      <label className="form-label" htmlFor="subject">
+                        Danışma Konusu
+                      </label>
+                      <input
+                        className="form-control"
+                        id="subject"
+                        name="subject"
+                        type="text"
+                        placeholder="Danışmak istediğiniz konu"
+                        required
+                      />
                     </div>
                     <div className="col-12">
                       <label className="form-label" htmlFor="message">
@@ -421,8 +449,10 @@ function App() {
                       <textarea
                         className="form-control"
                         id="message"
+                        name="message"
                         rows="4"
                         placeholder="Kısa notunuzu paylaşın."
+                        required
                       ></textarea>
                     </div>
                     <div className="col-12">
@@ -441,7 +471,7 @@ function App() {
       <footer className="site-footer">
         <div className="container footer-grid">
           <div>
-            <h3 className="footer-brand">Dr. Banu Begen</h3>
+            <h3 className="footer-brand">Op. Dr. Banu Begen</h3>
             <p className="footer-text">
               Profesyonel klinik yaklaşım, güvenli süreç ve sürdürülebilir bakım.
             </p>
