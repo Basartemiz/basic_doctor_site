@@ -2,5 +2,10 @@ name: drbanubegen-web
 services:
   - name: frontend
     dockerfile_path: Dockerfile
-    source_dir: /
+    source_dir: /my-frontend
     http_port: 8080
+    domains:
+      - domain: drbanubegen.com
+        type: PRIMARY
+      - domain: www.drbanubegen.com
+        type: ALIAS

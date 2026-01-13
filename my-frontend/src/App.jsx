@@ -233,10 +233,6 @@ function App() {
                       <li>Her adımda açık iletişim ve bilgilendirme.</li>
                       <li>Sonrasında düzenli takip ve kontrol desteği.</li>
                     </ul>
-                    <div className="panel-footer">
-                      <span className="panel-tag">Yakın randevu</span>
-                      <span className="panel-time">Salı, 10:30</span>
-                    </div>
                   </div>
                 </div>
               </div>
