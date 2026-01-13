@@ -1,0 +1,44 @@
+<svg viewBox="0 0 400 520" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="coat" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2fbff" />
+      <stop offset="1" stop-color="#b6dcf5" />
+    </linearGradient>
+    <linearGradient id="scrubs" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36f5d6" />
+      <stop offset="1" stop-color="#6ab8ff" />
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#36f5d6" stop-opacity="0.5" />
+      <stop offset="1" stop-color="#36f5d6" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="70" y="40" width="260" height="440" rx="130" fill="url(#glow)" opacity="0.35" />
+  <circle cx="200" cy="140" r="58" fill="#f2d6c4" />
+  <path d="M142 160 Q200 92 258 160 L258 190 Q200 220 142 190 Z" fill="#1a2a38" />
+  <path
+    d="M90 240 Q200 170 310 240 L330 420 Q200 480 70 420 Z"
+    fill="url(#coat)"
+  />
+  <rect x="145" y="240" width="110" height="160" rx="22" fill="#f8fcff" />
+  <rect x="168" y="252" width="64" height="120" rx="14" fill="url(#scrubs)" />
+  <path
+    d="M138 260 Q200 290 262 260"
+    stroke="#1a2a38"
+    stroke-width="6"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.6"
+  />
+  <path
+    d="M150 280 Q200 330 250 280"
+    stroke="#1a2a38"
+    stroke-width="6"
+    stroke-linecap="round"
+    fill="none"
+    opacity="0.6"
+  />
+  <circle cx="200" cy="330" r="12" fill="#1a2a38" opacity="0.7" />
+  <path d="M120 260 L90 360 L110 366 L140 270 Z" fill="#d6ecf9" />
+  <path d="M280 260 L310 360 L290 366 L260 270 Z" fill="#d6ecf9" />
+</svg>
