@@ -1,0 +1,6 @@
+name: drbanubegen-web
+services:
+  - name: frontend
+    dockerfile_path: Dockerfile
+    source_dir: /
+    http_port: 8080
