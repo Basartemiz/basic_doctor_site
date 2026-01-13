@@ -1,6 +1,6 @@
-name: frontend-app
-static_sites:
+name: drbanubegen-web
+services:
   - name: frontend
+    dockerfile_path: Dockerfile
     source_dir: /
-    build_command: npm run build
-    output_dir: dist
+    http_port: 8080
