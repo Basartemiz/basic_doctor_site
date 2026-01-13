@@ -1,0 +1,6 @@
+name: frontend-app
+static_sites:
+  - name: frontend
+    source_dir: /
+    build_command: npm run build
+    output_dir: dist
