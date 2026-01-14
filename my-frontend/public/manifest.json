@@ -1,0 +1,27 @@
+{
+  "name": "Op. Dr. Banu Begen Klinigi",
+  "short_name": "Dr. Begen",
+  "description": "KBB Uzmani - Goz kapagi estetigi, botoks, dolgu ve dermatolojik bakim hizmetleri. Izmir Karsiyaka.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#2f6fa7",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "tr",
+  "categories": ["medical", "health"],
+  "icons": [
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

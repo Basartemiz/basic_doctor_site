@@ -1,0 +1,14 @@
+# robots.txt for drbanubegen.com
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://drbanubegen.com/sitemap.xml
+
+# Crawl-delay (optional)
+Crawl-delay: 1
+
+# Disallow admin and private paths
+Disallow: /admin
+Disallow: /private
+Disallow: /*.json$

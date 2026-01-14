@@ -1,4 +1,9 @@
 import './App.css'
+import CookieConsent from './components/CookieConsent'
+import WhatsAppButton from './components/WhatsAppButton'
+import FAQSection from './components/FAQSection'
+import ScrollToTop from './components/ScrollToTop'
+import ThemeToggle from './components/ThemeToggle'
 import heroPhoto from './assets/banu1.jpeg'
 import aboutPhoto from './assets/banu2.png'
 import clinicPhoto from './assets/foto1.jpeg'
@@ -30,8 +35,11 @@ ${message}`
 
   return (
     <div className="app">
+      <a href="#main-content" className="skip-link">
+        Ana icerigi atla
+      </a>
       <header className="site-header">
-        <nav className="navbar navbar-expand-lg navbar-light">
+        <nav className="navbar navbar-expand-lg navbar-light" aria-label="Ana navigasyon">
           <div className="container">
             <a className="navbar-brand brand" href="#home">
               Op. Dr. Banu Begen
@@ -83,12 +91,13 @@ ${message}`
               <a className="btn btn-sm btn-primary ms-lg-3" href="#contact">
                 Randevu Al
               </a>
+              <ThemeToggle />
             </div>
           </div>
         </nav>
       </header>
 
-      <main>
+      <main id="main-content">
         <section id="home" className="hero-section">
           <div className="container">
             <div className="hero-panel">
@@ -233,6 +242,7 @@ ${message}`
                     src={aboutPhoto}
                     alt="Op. Dr. Banu Begen klinik fotoğrafı"
                     className="about-photo"
+                    loading="lazy"
                   />
                   <div className="about-card">
                     <h3 className="panel-title">Neden bizi tercih ediyorlar?</h3>
@@ -266,7 +276,7 @@ ${message}`
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={clinicPhoto} alt="Klinik ortamı" />
+                  <img src={clinicPhoto} alt="Klinik ortamı" loading="lazy" />
                 </a>
                 <figcaption>Klinik ortamı</figcaption>
               </figure>
@@ -277,7 +287,7 @@ ${message}`
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={eyelidPhoto} alt="Göz kapağı uygulaması" />
+                  <img src={eyelidPhoto} alt="Göz kapağı uygulaması" loading="lazy" />
                 </a>
                 <figcaption>Göz kapağı uygulaması</figcaption>
               </figure>
@@ -288,7 +298,7 @@ ${message}`
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <img src={eyelidResult} alt="Göz kapağı sonuç görseli" />
+                  <img src={eyelidResult} alt="Göz kapağı sonuç görseli" loading="lazy" />
                 </a>
                 <figcaption>Uygulama sonucu</figcaption>
               </figure>
@@ -349,6 +359,8 @@ ${message}`
           </div>
         </section>
 
+        <FAQSection />
+
         <section id="contact" className="page-section">
           <div className="container">
             <div className="row g-4 align-items-center">
@@ -364,7 +376,9 @@ ${message}`
                 <div className="contact-info">
                   <div>
                     <span className="info-label">Telefon</span>
-                    <span className="info-value">0530 422 80 35</span>
+                    <a className="info-value info-link" href="tel:+905304228035">
+                      0530 422 80 35
+                    </a>
                   </div>
                   <div>
                     <span className="info-label">E-posta</span>
@@ -382,6 +396,18 @@ ${message}`
                       Karşıyaka/İzmir
                     </span>
                   </div>
+                </div>
+                <div className="map-container">
+                  <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3124.5!2d27.0953!3d38.4561!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzjCsDI3JzIyLjAiTiAyN8KwMDUnNDMuMSJF!5e0!3m2!1str!2str!4v1234567890"
+                    width="100%"
+                    height="200"
+                    style={{ border: 0, borderRadius: '12px', marginTop: '1.5rem' }}
+                    allowFullScreen=""
+                    loading="lazy"
+                    referrerPolicy="no-referrer-when-downgrade"
+                    title="Op. Dr. Banu Begen Klinik Konumu"
+                  ></iframe>
                 </div>
               </div>
               <div className="col-lg-6">
@@ -482,12 +508,43 @@ ${message}`
             <a href="#gallery">Galeri</a>
             <a href="#contact">İletişim</a>
           </div>
+          <div className="footer-social">
+            <a
+              href="https://www.instagram.com/drbanubegen?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Instagram'da takip edin"
+              className="social-link"
+            >
+              <svg viewBox="0 0 24 24" fill="currentColor" width="24" height="24" aria-hidden="true">
+                <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+              </svg>
+            </a>
+          </div>
           <div className="footer-meta">
             <span>Pazartesi - Cumartesi</span>
             <span>08:00 - 20:00</span>
           </div>
         </div>
+        <div className="container footer-bottom">
+          <div className="footer-legal">
+            <a href="#gizlilik">Gizlilik Politikasi</a>
+            <a href="#kvkk">KVKK Aydinlatma Metni</a>
+            <a href="#kullanim">Kullanim Sartlari</a>
+          </div>
+          <div className="footer-copyright">
+            <p>&copy; 2025 Op. Dr. Banu Begen. Tum haklari saklidir.</p>
+          </div>
+          <p className="footer-disclaimer">
+            Bu sitedeki bilgiler genel bilgilendirme amaciyla sunulmaktadir ve tibbi tavsiye yerine gecmez.
+            Herhangi bir saglik sorunu icin mutlaka bir saglik kurulusuna basvurunuz.
+          </p>
+        </div>
       </footer>
+
+      <CookieConsent />
+      <WhatsAppButton />
+      <ScrollToTop />
     </div>
   )
 }

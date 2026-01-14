@@ -1,0 +1,67 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 24px;
+  left: 24px;
+  width: 48px;
+  height: 48px;
+  background: var(--surface, #ffffff);
+  color: var(--accent, #2f6fa7);
+  border: 1px solid var(--line, #e2e8ef);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  z-index: 999;
+  transition: all 0.3s ease;
+  animation: fadeInUp 0.4s ease;
+}
+
+.scroll-to-top:hover {
+  background: var(--accent, #2f6fa7);
+  color: #ffffff;
+  border-color: var(--accent, #2f6fa7);
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(47, 111, 167, 0.25);
+}
+
+.scroll-to-top:active {
+  transform: translateY(-1px);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (max-width: 767px) {
+  .scroll-to-top {
+    bottom: 16px;
+    left: 16px;
+    width: 42px;
+    height: 42px;
+  }
+
+  .scroll-to-top svg {
+    width: 18px;
+    height: 18px;
+  }
+}
+
+/* Dark mode support */
+[data-theme="dark"] .scroll-to-top {
+  background: var(--surface, #1a2332);
+  border-color: var(--line, #2d3c4d);
+}
+
+[data-theme="dark"] .scroll-to-top:hover {
+  background: var(--accent, #4da3e0);
+  border-color: var(--accent, #4da3e0);
+}

@@ -23,6 +23,23 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+/* Dark Mode */
+[data-theme="dark"] {
+  --bg: #0f1419;
+  --surface: #1a2332;
+  --surface-soft: #151d28;
+  --ink: #e8eef4;
+  --muted: #8899a6;
+  --accent: #4da3e0;
+  --accent-dark: #3d8bc7;
+  --line: #2d3c4d;
+  --bs-body-color: var(--ink);
+}
+
+[data-theme="dark"] body {
+  background: linear-gradient(180deg, #0f1419 0%, #1a2332 100%);
+}
+
 *,
 *::before,
 *::after {
@@ -35,6 +52,7 @@ body {
   background: linear-gradient(180deg, #f9fbff 0%, #eef2f6 100%);
   color: var(--ink);
   font-family: var(--body-font);
+  transition: background 0.3s ease, color 0.3s ease;
 }
 
 a {
@@ -53,4 +71,37 @@ button {
 
 #root {
   min-height: 100vh;
+}
+
+/* Skip Link for Accessibility */
+.skip-link {
+  position: absolute;
+  top: -100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--accent);
+  color: #ffffff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0 0 8px 8px;
+  z-index: 10000;
+  transition: top 0.3s ease;
+}
+
+.skip-link:focus {
+  top: 0;
+}
+
+/* Focus Styles for Accessibility */
+:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible,
+textarea:focus-visible,
+select:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 2px;
 }
