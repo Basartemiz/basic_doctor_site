@@ -56,7 +56,7 @@
   overflow: hidden;
   color: #f8fbff;
   background:
-    linear-gradient(120deg, rgba(12, 28, 45, 0.78), rgba(12, 28, 45, 0.82)),
+    linear-gradient(120deg, rgba(20, 70, 50, 0.78), rgba(25, 80, 60, 0.82)),
     url('./assets/background.png');
   background-size: cover;
   background-position: center;
@@ -237,7 +237,7 @@
 .about-section {
   position: relative;
   background:
-    linear-gradient(120deg, rgba(12, 28, 45, 0.78), rgba(12, 28, 45, 0.82)),
+    linear-gradient(120deg, rgba(20, 70, 50, 0.78), rgba(25, 80, 60, 0.82)),
     url('./assets/background.png');
   background-size: cover;
   background-position: center;
