@@ -182,17 +182,17 @@ ${message}`
             <div className="row g-4 service-grid">
               <div className="col-md-6 col-lg-3">
                 <div className="service-box fade-up delay-1">
-                  <h3 className="service-box-title">Göz Kapağı Uygulamaları</h3>
+                  <h3 className="service-box-title">KBB Hastalıkları Tanı ve Tedavisi</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
                 <div className="service-box fade-up delay-2">
-                  <h3 className="service-box-title">Dermatolojik Bakım</h3>
+                  <h3 className="service-box-title">Cerrahi Operasyonlar</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
                 <div className="service-box fade-up delay-3">
-                  <h3 className="service-box-title">Sağlık Danışmanlığı</h3>
+                  <h3 className="service-box-title">Medikal Estetik Uygulamalar</h3>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
