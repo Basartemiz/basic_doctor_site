@@ -1,3 +1,4 @@
+import { useState } from 'react'
 import './App.css'
 import CookieConsent from './components/CookieConsent'
 import WhatsAppButton from './components/WhatsAppButton'
@@ -12,6 +13,92 @@ import eyelidResult from './assets/goz_kapagı_sonuclar.jpeg'
 import clinicVideo from './assets/video1.mp4'
 
 function App() {
+  const [expandedService, setExpandedService] = useState(null)
+
+  const serviceData = {
+    kbb: {
+      title: 'KBB Hastalıkları Tanı ve Tedavisi',
+      items: [
+        'Kulak enfeksiyonları ve orta kulak iltihabı tedavisi',
+        'İşitme kaybı değerlendirmesi ve tedavisi',
+        'Kulak çınlaması (tinnitus) tedavisi',
+        'Baş dönmesi ve denge bozuklukları tedavisi',
+        'Sinüzit ve burun tıkanıklığı tedavisi',
+        'Alerjik rinit tanı ve tedavisi',
+        'Burun kanaması tedavisi',
+        'Ses kısıklığı ve ses teli hastalıkları',
+        'Boğaz enfeksiyonları ve bademcik tedavisi',
+        'Geniz eti problemleri değerlendirmesi',
+        'Horlama ve uyku apnesi tanısı',
+        'Yutma güçlüğü değerlendirmesi',
+        'Koku ve tat alma bozuklukları tedavisi',
+        'Baş-boyun bölgesi kitle değerlendirmesi',
+        'Çocukluk dönemi KBB hastalıkları tedavisi'
+      ]
+    },
+    cerrahi: {
+      title: 'Cerrahi Operasyonlar',
+      items: [
+        'Bademcik ameliyatı (Tonsillektomi)',
+        'Geniz eti ameliyatı (Adenoidektomi)',
+        'Endoskopik sinüs cerrahisi',
+        'Burun eti ameliyatı (Konka cerrahisi)',
+        'Septoplasti (Burun kemiği eğriliği düzeltme)',
+        'Kulağa ventilasyon tüpü takılması',
+        'Kronik otit cerrahisi (Timpanoplasti)',
+        'Kemikçik cerrahisi (Stapedektomi)',
+        'Ses teli cerrahisi (Laringoskopi)',
+        'Tiroid ve paratiroid cerrahisi',
+        'Tükürük bezi cerrahisi',
+        'Boyun kitlesi ameliyatları',
+        'Horlama ve uyku apnesi cerrahisi',
+        'Gözyaşı kanalı ameliyatı (Dakriosistorinostomi)',
+        'Kepçe kulak ameliyatı (Otoplasti)'
+      ]
+    },
+    estetik: {
+      title: 'Medikal Estetik Uygulamalar',
+      items: [
+        'Botoks uygulaması (alın, kaş arası, kaz ayağı)',
+        'Dolgu uygulamaları (dudak, yanak, çene)',
+        'Yüz gençleştirme uygulamaları',
+        'Mezoterapi (yüz ve saç)',
+        'PRP tedavisi (cilt yenileme)',
+        'Göz altı ışık dolgusu',
+        'Burun dolgusu (non-cerrahi rinoplasti)',
+        'Çene ve jawline belirginleştirme',
+        'Nefertiti boyun germe',
+        'Gıdı eritme uygulamaları',
+        'Dudak dolgusu ve şekillendirme',
+        'Yanak dolgusu ve hacim artırma',
+        'İğneli radyofrekans (cilt sıkılaştırma)',
+        'Kimyasal peeling uygulamaları',
+        'Masseter botoks (yüz inceltme)'
+      ]
+    },
+    kontrol: {
+      title: 'Kontrol ve Takip',
+      items: [
+        'Ameliyat sonrası düzenli kontroller',
+        'Tedavi sürecinin takibi ve değerlendirmesi',
+        'İşitme testleri ve odyometri takibi',
+        'Endoskopik muayene kontrolleri',
+        'Alerji testleri ve takibi',
+        'Kronik hastalık yönetimi',
+        'İlaç tedavisi düzenlemesi',
+        'Rehabilitasyon programı takibi',
+        'Estetik uygulama kontrolleri',
+        'Hasta memnuniyeti değerlendirmesi',
+        'Uzun vadeli sağlık planlaması',
+        'Koruyucu sağlık önerileri'
+      ]
+    }
+  }
+
+  const toggleService = (serviceKey) => {
+    setExpandedService(expandedService === serviceKey ? null : serviceKey)
+  }
+
   const handleSubmit = (event) => {
     event.preventDefault()
     const formData = new FormData(event.target)
@@ -181,23 +268,75 @@ ${message}`
             </div>
             <div className="row g-4 service-grid">
               <div className="col-md-6 col-lg-3">
-                <div className="service-box fade-up delay-1">
-                  <h3 className="service-box-title">KBB Hastalıkları Tanı ve Tedavisi</h3>
+                <div
+                  className={`service-box fade-up delay-1 clickable ${expandedService === 'kbb' ? 'expanded' : ''}`}
+                  onClick={() => toggleService('kbb')}
+                >
+                  <h3 className="service-box-title">
+                    {serviceData.kbb.title}
+                    <span className="service-toggle-icon">{expandedService === 'kbb' ? '−' : '+'}</span>
+                  </h3>
+                  <div className={`service-dropdown ${expandedService === 'kbb' ? 'open' : ''}`}>
+                    <ul className="service-list">
+                      {serviceData.kbb.items.map((item, index) => (
+                        <li key={index}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-box fade-up delay-2">
-                  <h3 className="service-box-title">Cerrahi Operasyonlar</h3>
+                <div
+                  className={`service-box fade-up delay-2 clickable ${expandedService === 'cerrahi' ? 'expanded' : ''}`}
+                  onClick={() => toggleService('cerrahi')}
+                >
+                  <h3 className="service-box-title">
+                    {serviceData.cerrahi.title}
+                    <span className="service-toggle-icon">{expandedService === 'cerrahi' ? '−' : '+'}</span>
+                  </h3>
+                  <div className={`service-dropdown ${expandedService === 'cerrahi' ? 'open' : ''}`}>
+                    <ul className="service-list">
+                      {serviceData.cerrahi.items.map((item, index) => (
+                        <li key={index}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-box fade-up delay-3">
-                  <h3 className="service-box-title">Medikal Estetik Uygulamalar</h3>
+                <div
+                  className={`service-box fade-up delay-3 clickable ${expandedService === 'estetik' ? 'expanded' : ''}`}
+                  onClick={() => toggleService('estetik')}
+                >
+                  <h3 className="service-box-title">
+                    {serviceData.estetik.title}
+                    <span className="service-toggle-icon">{expandedService === 'estetik' ? '−' : '+'}</span>
+                  </h3>
+                  <div className={`service-dropdown ${expandedService === 'estetik' ? 'open' : ''}`}>
+                    <ul className="service-list">
+                      {serviceData.estetik.items.map((item, index) => (
+                        <li key={index}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
               <div className="col-md-6 col-lg-3">
-                <div className="service-box fade-up delay-4">
-                  <h3 className="service-box-title">Kontrol ve Takip</h3>
+                <div
+                  className={`service-box fade-up delay-4 clickable ${expandedService === 'kontrol' ? 'expanded' : ''}`}
+                  onClick={() => toggleService('kontrol')}
+                >
+                  <h3 className="service-box-title">
+                    {serviceData.kontrol.title}
+                    <span className="service-toggle-icon">{expandedService === 'kontrol' ? '−' : '+'}</span>
+                  </h3>
+                  <div className={`service-dropdown ${expandedService === 'kontrol' ? 'open' : ''}`}>
+                    <ul className="service-list">
+                      {serviceData.kontrol.items.map((item, index) => (
+                        <li key={index}>{item}</li>
+                      ))}
+                    </ul>
+                  </div>
                 </div>
               </div>
             </div>
