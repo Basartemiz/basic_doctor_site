@@ -1,4 +1,4 @@
-import { Helmet } from 'react-helmet-async'
+import { useEffect } from 'react'
 
 const SITE_NAME = 'Op. Dr. Banu Begen'
 const BASE_URL = 'https://www.drbanu-begen.com'
@@ -16,9 +16,29 @@ function SEOHead({
   const fullTitle = title ? `${title} | ${SITE_NAME}` : SITE_NAME
   const canonicalUrl = canonical ? `${BASE_URL}${canonical}` : null
 
+  // Handle JSON-LD schema injection
+  useEffect(() => {
+    if (schema) {
+      const existingScript = document.querySelector('script[data-schema="disease"]')
+      if (existingScript) {
+        existingScript.remove()
+      }
+
+      const script = document.createElement('script')
+      script.type = 'application/ld+json'
+      script.setAttribute('data-schema', 'disease')
+      script.textContent = JSON.stringify(schema)
+      document.head.appendChild(script)
+
+      return () => {
+        script.remove()
+      }
+    }
+  }, [schema])
+
   return (
-    <Helmet>
-      {/* Primary Meta Tags */}
+    <>
+      {/* React 19 native document metadata - automatically hoisted to <head> */}
       <title>{fullTitle}</title>
       <meta name="description" content={description} />
       {keywords.length > 0 && (
@@ -43,14 +63,7 @@ function SEOHead({
       <meta name="twitter:title" content={fullTitle} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={`${BASE_URL}${ogImage}`} />
-
-      {/* Schema.org JSON-LD */}
-      {schema && (
-        <script type="application/ld+json">
-          {JSON.stringify(schema)}
-        </script>
-      )}
-    </Helmet>
+    </>
   )
 }
 
