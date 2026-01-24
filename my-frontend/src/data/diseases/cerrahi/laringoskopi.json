@@ -1,0 +1,116 @@
+{
+  "id": "laringoskopi",
+  "slug": "laringoskopi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Laringoskopi",
+  "subtitle": "Giirtlak ve Ses Telleri Cerrahisi",
+  "definition": {
+    "title": "Laringoskopi Nedir?",
+    "content": "Laringoskopi, girtlagin (larinks) ve ses tellerinin ozel aletlerle incelenmesi ve gerektiginde cerrahi tedavisinin uygulanmasidir. Tanısal veya tedavi amaçli olabilir. Ses bozukluklari, yutma guclugu ve girtlak lezyonlarinin degerlendirilmesinde kullanilir."
+  },
+  "symptoms": {
+    "title": "Laringoskopi Gerektiren Durumlar",
+    "items": [
+      "2 haftadan uzun suren ses kisikligi",
+      "Ses teli nodulu veya polipi",
+      "Ses teli kisti",
+      "Ses teli felci",
+      "Laringeal papillom",
+      "Larinks kanseri suphesi",
+      "Yabanci cisim",
+      "Kronik oksuruk veya bogaz temizleme"
+    ]
+  },
+  "causes": {
+    "title": "Girtlak Sorunlarinin Nedenleri",
+    "items": [
+      "Ses telleri asiri kullaanimi",
+      "Sigara kullanimi",
+      "Laringofaringeal reflu",
+      "Viral enfeksiyonlar (papillom)",
+      "Travma",
+      "Norolojik hastaliklar",
+      "Tumorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Laringoskopi Oncesi Degerlendirme",
+    "content": "Girtlak yapissi ve ses telleri durumu degerlendirilir.",
+    "methods": [
+      "Indirek laringoskopi (ayna ile)",
+      "Fleksibl nazofaringolaringoskopi",
+      "Videolaringostroboskopi",
+      "Ses analizi",
+      "Boyun BT veya MR"
+    ]
+  },
+  "treatment": {
+    "title": "Laringoskopi Tedavi Yontemleri",
+    "content": "Tani sonrasi gerekirse mikrolaringoskopi ile cerrahi tedavi uygulanir.",
+    "options": [
+      {
+        "name": "Diagnostik Laringoskopi",
+        "description": "Tani amaçli inceleme ve biyopsi alma."
+      },
+      {
+        "name": "Mikrolaringoskopi",
+        "description": "Mikroskop altinda ses telleri cerrahisi. Nodul, polip, kist gikarilmasi."
+      },
+      {
+        "name": "Lazer Cerrahisi",
+        "description": "CO2 lazer ile ses teli lezyonlarinin tedavisi, papillom ablasyonu."
+      },
+      {
+        "name": "Enjeksiyon Laringoplasti",
+        "description": "Ses teli felcinde hacim artirici madde enjeksiyonu."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Laringeal cerrahi deneyimi",
+      "Videolaringostroboskopi imkani",
+      "Ses koruma odakli yaklasim",
+      "Erken kanser tanisi dikkati",
+      "Ses terapisti ile koordinasyon",
+      "Ameliyat sonrasi ses rehabilitasyonu"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Laringoskopi agrili mi?",
+      "answer": "Muayene seklinde yapilan laringoskopi rahatsiz edici olabilir. Cerrahi laringoskopi genel anestezi altinda yapilir."
+    },
+    {
+      "question": "Ameliyat sonrasi konusamaz miyim?",
+      "answer": "Ameliyat sonrasi 1-2 hafta ses istirahati onerilir. Bu donemde konusmak zarrarlıdir."
+    },
+    {
+      "question": "Ses teli nodulu ameliyat gerektirir mi?",
+      "answer": "Cogu nodul ses terapisi ile kuculur. Tedaviye direncli veya buyuk nodullerde cerrahi onerilir."
+    },
+    {
+      "question": "Ses teli felci iyilesir mi?",
+      "answer": "Nedenine bagli. Viral nedenli felcler genellikle 6-12 ayda duzılur. Kalici felclerde enjeksiyon veya cerrahi seçenekler vardir."
+    },
+    {
+      "question": "Larinks kanseri belirlileri nelerdir?",
+      "answer": "Uzun suren ses kisikligi, yutma guclugu, bogaz agrisi, kilo kaybi, boyunda sişlik kanser isareti olabilir."
+    }
+  ],
+  "seo": {
+    "title": "Laringoskopi Izmir - Ses Teli Cerrahisi | Op. Dr. Banu Begen",
+    "description": "Izmir'de laringoskopi ve ses teli cerrahisi. Ses kisikligi, ses teli nodulu, polip tedavisi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "laringoskopi",
+      "ses teli ameliyati",
+      "ses teli nodulu",
+      "ses teli polipi",
+      "girtlak cerrahisi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["ses-kisikligi", "yutma-guclugu", "bogaz-enfeksiyonlari"]
+}

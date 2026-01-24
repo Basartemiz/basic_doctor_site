@@ -1,0 +1,116 @@
+{
+  "id": "kulak-kiri-temizligi",
+  "slug": "kulak-kiri-temizligi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Kulak Kiri Temizligi",
+  "subtitle": "Profesyonel Kulak Kiri Temizleme",
+  "definition": {
+    "title": "Kulak Kiri Nedir?",
+    "content": "Kulak kiri (serumen), kulak kanalindaki bezlerin urettigi, kulagi koruyucu islevlere sahip dogal bir maddedir. Normalde kendiliginden disari atilir, ancak bazi durumlarda birikip tikaca neden olabilir. Yanlis temizlik yontemleri bu durumu kotulestirilebilir."
+  },
+  "symptoms": {
+    "title": "Kulak Kiri Tikaci Belirtileri",
+    "items": [
+      "Kulakta tikali veya dolu his",
+      "Isitme azalmasi",
+      "Kulak agrisi",
+      "Kulak cinlamasi",
+      "Kasinma",
+      "Oksuruk refleksi",
+      "Bas donmesi (nadir)",
+      "Kulakta koku",
+      "Isitme cihazi kullaniminda sorun"
+    ]
+  },
+  "causes": {
+    "title": "Kulak Kiri Birikme Nedenleri",
+    "items": [
+      "Dar veya egri kulak kanali yapisi",
+      "Asiri kulak kiri uretimi",
+      "Kulak cubugu ile itme",
+      "Kulaklik veya isitme cihazi kullanimi",
+      "Yuzme ve dalış",
+      "Cilt hastaliklari (egzama, sedef)",
+      "Ileri yas",
+      "Killi kulak kanali"
+    ]
+  },
+  "diagnosis": {
+    "title": "Kulak Kiri Degerlendirmesi",
+    "content": "Kulak kiri tikaci tanisi basit bir kulak muayenesi ile konur. Kulak zari ve kanal durumu degerlendirilir.",
+    "methods": [
+      "Otoskopik muayene",
+      "Endoskopik kulak muayenesi",
+      "Isitme degerlendirmesi (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Kulak Kiri Temizleme Yontemleri",
+    "content": "Kulak kiri temizligi guvenli yontemlerle uzman tarafindan yapilmalidir. Evde kulak cubugu kullanimi onerilmez.",
+    "options": [
+      {
+        "name": "Kuretaj ile Temizleme",
+        "description": "Ozel aletlerle kulak kirinin dikkatli bir sekilde cikarilmasi. En yaygin ve guvenli yontemdir."
+      },
+      {
+        "name": "Irrigasyon (Yikama)",
+        "description": "Ilik su veya serum fizyolojik ile kulak kanalinin yikanmasi. Kulak zari saglam olmalidir."
+      },
+      {
+        "name": "Mikroaspiirasyon",
+        "description": "Vakum sistemi ile kulak kirinin emilmesi. Hassas vakalarda tercih edilir."
+      },
+      {
+        "name": "Kulak Damlalari",
+        "description": "Sert kulak kirini yumusatmak icin islem oncesi birkaç gun damla kullanimi onerilebilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Guvenli ve agrisiz temizlik",
+      "Endoskopik goruntuleme esliginde islem",
+      "Cocuk hastalara uygun yaklasim",
+      "Modern ekipman kullanimi",
+      "Hijyenik klinik ortami",
+      "Kulak sagligi danismanligi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kulak cubugu kullanmak zararli mi?",
+      "answer": "Evet. Kulak cubugu kiri icerir iter, tikaca ve kulak zari hasarina neden olabilir. Kulak temizligi profesyonelce yapilmalidir."
+    },
+    {
+      "question": "Kulak kiri temizligi ne siklikta yapilmali?",
+      "answer": "Cogu insanda kulak kendini temizler. Sikayetiniz yoksa duzenli temizlik gerekmez. Belirtiler varsa hekime basvurun."
+    },
+    {
+      "question": "Kulak mumu (ear candling) guvenli mi?",
+      "answer": "Hayir. Kulak mumu bilimsel olarak etkisiz ve tehlikelidir. Yanik ve kulak zarı hasarina yol acabilir."
+    },
+    {
+      "question": "Kulak kiri temizligi agrili midir?",
+      "answer": "Uzman tarafindan dogru teknikle yapilan temizlik agrili degildir. Hafif bir rahatsizlik hissedilebilir."
+    },
+    {
+      "question": "Cocuklarda kulak kiri nasil temizlenir?",
+      "answer": "Cocuklarda kulak kiri temizligi mutlaka KBB uzmani tarafindan yapilmalidir. Ozel dikkat ve teknik gerektirir."
+    }
+  ],
+  "seo": {
+    "title": "Kulak Kiri Temizligi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de profesyonel kulak kiri temizligi. Kulak tikaci belirtileri ve guvenli temizleme yontemleri. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "kulak kiri temizligi",
+      "kulak tikaci",
+      "kulak temizleme",
+      "serumen",
+      "kulak bakimi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["kulak-enfeksiyonlari", "isitme-kaybi", "kulak-cinlamasi-tinnitus"]
+}

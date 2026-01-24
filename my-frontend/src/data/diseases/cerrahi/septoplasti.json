@@ -1,0 +1,120 @@
+{
+  "id": "septoplasti",
+  "slug": "septoplasti",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Septoplasti",
+  "subtitle": "Burun Egriliği Ameliyati",
+  "definition": {
+    "title": "Septoplasti Nedir?",
+    "content": "Septoplasti, burun boslugunu ikiye ayiran kikirdak ve kemik yapiyi (septum) duzeltmek icin yapilan cerrahi islemdir. Septum deviasyonu, dogumsal veya travma sonucu olusan egrilik, burun tikanikligina ve nefes alma guclugune neden olabilir. Septoplasti, fonksiyonel bir ameliyat olup burunun dis gorunumunu degistirmez."
+  },
+  "symptoms": {
+    "title": "Septum Deviasyonu Belirtileri",
+    "items": [
+      "Tek veya cift tarafli burun tikanikligi",
+      "Nefes almada zorluk",
+      "Tekrarlayan sinuzit enfeksiyonlari",
+      "Gece horlama ve uyku apnesi",
+      "Burun kanamasi",
+      "Yuz agrisi ve basinc hissi",
+      "Postnazal akinti",
+      "Agizdan nefes alma",
+      "Koku alma bozuklugu",
+      "Uyku kalitesinde dusus"
+    ]
+  },
+  "causes": {
+    "title": "Septum Deviasyonu Nedenleri",
+    "items": [
+      "Dogumsal (dogum sirasinda burun travmasi)",
+      "Cocukluk veya yetikinlik doneminde burun travmasi",
+      "Spor yaralanmalari",
+      "Trafik kazalari",
+      "Kavga veya dusme sonucu burun kirilmasi",
+      "Dogal gelisim sirasinda egri buyume"
+    ]
+  },
+  "diagnosis": {
+    "title": "Septoplasti Oncesi Degerlendirme",
+    "content": "Ameliyat karari icin detayli bir degerlendirme yapilir. Burun tikanikliginin gercek nedeni belirlenir ve ameliyat plani olusturulur.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Burun endoskopisi",
+      "Rinomanometri (burun hava akimi olcumu)",
+      "Paranazal sinus tomografisi",
+      "Alerji testleri (gerekirse)",
+      "Genel saglik degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Septoplasti Ameliyati",
+    "content": "Septoplasti, genel veya lokal anestezi altinda yapilir. Ameliyat burundaki kesi ile gerceklestirilir ve dis gorunumde iz kalmaz.",
+    "options": [
+      {
+        "name": "Klasik Septoplasti",
+        "description": "Burun icinden yapilan kesi ile egri kikirdak ve kemik doku duzeltilir veya cikarilir. Ameliyat 45-90 dakika surer."
+      },
+      {
+        "name": "Endoskopik Septoplasti",
+        "description": "Kamera yardimiyla yapilan minimal invaziv teknik. Daha az doku hasari ve daha hizli iyilesme saglar."
+      },
+      {
+        "name": "Septoplasti + Konka Cerrahisi",
+        "description": "Burun tikanikliginin tam duzelmesi icin gerekirse buyumis burun etleri de kucultulebilir."
+      },
+      {
+        "name": "Septoplasti + Rinoplasti",
+        "description": "Hem fonksiyonel hem estetik sorunlarin ayni seansta cozumu icin kombine ameliyat uygulanabilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuzlerce basarili septoplasti ameliyati deneyimi",
+      "Modern endoskopik cerrahi teknikleri",
+      "Kisisellestirilmis ameliyat plani",
+      "JCI akrediteli hastanelerde ameliyat",
+      "Ameliyat sonrasi yakin hasta takibi",
+      "Minimal agri ve hizli iyilesme odakli yaklasim"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Septoplasti ameliyati agrili midir?",
+      "answer": "Ameliyat genel anestezi altinda yapildigi icin islem sirasinda agri hissedilmez. Ameliyat sonrasi hafif-orta siddette rahatsizlik olabilir, agri kesicilerle kontrol altina alinir."
+    },
+    {
+      "question": "Septoplasti sonrasi iyilesme sureci nasil ilerler?",
+      "answer": "Ilk 1-2 hafta burun tikanikligi ve sislik olabilir. Tamponlar 1-3 gun icinde alinir. Cogu hasta 1 hafta sonra normal aktivitelere donebilir. Tam iyilesme 4-6 hafta surer."
+    },
+    {
+      "question": "Septoplasti ile rinoplasti arasindaki fark nedir?",
+      "answer": "Septoplasti burunun ic yapisini duzeltir ve nefes almayi iyilestirir, dis gorunum degismez. Rinoplasti ise burunun dis gorunumunu sekillendiren estetik cerrahidir."
+    },
+    {
+      "question": "Septoplasti SGK kapsaminda midir?",
+      "answer": "Evet, fonksiyonel amaçli septoplasti SGK tarafindan karsilanir. Detayli bilgi icin muayene sirasinda bilgilendirme yapilir."
+    },
+    {
+      "question": "Ameliyat sonrasi dikkat edilmesi gerekenler nelerdir?",
+      "answer": "Agir egzersizden 2-3 hafta kaçinmak, burnunu sifirmamak, sicak duş ve buhar almamak, gozluk takmamak ve doktor kontrollerine duzenli gitmek onemlidir."
+    }
+  ],
+  "seo": {
+    "title": "Septoplasti Izmir - Burun Egriliği Ameliyati | Op. Dr. Banu Begen",
+    "description": "Izmir'de septoplasti ameliyati. Burun tikanikligi ve septum deviasyonu tedavisi. Deneyimli KBB uzmani Op. Dr. Banu Begen. Ucretsiz on gorusme icin arayin.",
+    "keywords": [
+      "septoplasti",
+      "septoplasti ameliyati",
+      "burun egriliği ameliyati",
+      "septum deviasyonu",
+      "burun tikanikligi ameliyati",
+      "septoplasti izmir",
+      "burun ameliyati",
+      "KBB cerrahisi izmir"
+    ]
+  },
+  "relatedDiseases": ["burun-tikanikligi", "konka-cerrahisi", "rinoplasti", "sinuzit"]
+}

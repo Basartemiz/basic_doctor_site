@@ -1,0 +1,108 @@
+{
+  "id": "cene-jawline-dolgusu",
+  "slug": "cene-jawline-dolgusu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Cene ve Jawline Dolgusu",
+  "subtitle": "Cene Hatti Belirginlestirme",
+  "definition": {
+    "title": "Cene/Jawline Dolgusu Nedir?",
+    "content": "Cene ve jawline dolgusu, hyaluronik asit bazli dolgularla cene hattini belirginlestiren, ceneyi uzatan veya sekillendiren estetik prosedurdur. Keskin ve tanik bir cene hatti saglar, yuz profilini iyilestirir."
+  },
+  "symptoms": {
+    "title": "Cene Dolgusu Kimlere Uygulanir?",
+    "items": [
+      "Zayif veya geri kaçik cenesi olanlar",
+      "Cene hattini belirginlestirmek isteyenler",
+      "Yuz profilini iyilestirmek isteyenler",
+      "Gidik (cene ucu) isteyenler",
+      "Erkeksi veya kadinsi cene isteyenler",
+      "Cerrahi olmadan cene sekillendirme isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Cene Sekil Sorunlari Nedenleri",
+    "items": [
+      "Genetik yapisal ozellikler",
+      "Yaslanma ile hacim kaybi",
+      "Kemik yapisi",
+      "Yuz orani bozukluklari"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Yuz profili ve cene yapisi degerlendirilir.",
+    "methods": [
+      "Profil analizi",
+      "Cene olcumleri",
+      "Yuz simetrisi degerlendirmesi",
+      "Beklenti gorusmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Cene Dolgusu Uygulama",
+    "content": "Kanul veya igne ile cene hatti ve cene ucuna dolgu enjeksiyonu.",
+    "options": [
+      {
+        "name": "Jawline Belirginlestirme",
+        "description": "Cene hatti boyunca dolgu ile keskin hat olusturulur."
+      },
+      {
+        "name": "Cene Ucu (Gidik) Dolgusu",
+        "description": "Cene ucuna projeksiyon kazandirma."
+      },
+      {
+        "name": "Pre-jowl Dolgusu",
+        "description": "Cene koselerindeki cokmeler doldurulur."
+      },
+      {
+        "name": "Full Jawline",
+        "description": "Cene hatti, cene ucu ve koseler birlikte tedavi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuz anatomisi uzmanligi",
+      "Erkek ve kadin estetigi deneyimi",
+      "Orantili sonuclar",
+      "FDA onayli dolgular",
+      "Kanul ile guvenli uygulama"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Cene dolgusu ne kadar surer?",
+      "answer": "12-18 ay surer. Bu bolge az hareket ettigi icin dolgu uzun kkalir."
+    },
+    {
+      "question": "Agri olur mu?",
+      "answer": "Lokal anestezi ve dolgu icindeki lidokain ile minimal agri hissedilir."
+    },
+    {
+      "question": "Sonuc dogal gorunur mu?",
+      "answer": "Deneyimli hekim eliyle cok dogal ve orantili sonuclar alinir."
+    },
+    {
+      "question": "Erkeklere de uygulanir mi?",
+      "answer": "Evet. Erkeklerde daha keskin ve karisli bir cene hatti olusturulur."
+    },
+    {
+      "question": "Ne kadar dolgu gerekir?",
+      "answer": "Ihtiyaca gore 1-4ml dolgu kullanilabilir. Muayenede belirlenir."
+    }
+  ],
+  "seo": {
+    "title": "Cene Dolgusu Izmir - Jawline Filler | Op. Dr. Banu Begen",
+    "description": "Izmir'de cene dolgusu ve jawline dolgusu uygulamasi. Cene hatti belirginlestirme, yuz profili iyilestirme. Medikal estetik.",
+    "keywords": [
+      "cene dolgusu",
+      "jawline dolgusu",
+      "cene hatti dolgusu",
+      "chin filler",
+      "yuz dolgusu izmir"
+    ]
+  },
+  "relatedDiseases": ["dudak-dolgusu", "yanak-dolgusu", "nefertiti-boyun-germe"]
+}

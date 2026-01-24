@@ -1,0 +1,107 @@
+.disease-diagnosis {
+  padding: var(--space-3xl) 0;
+  background: var(--color-bg-soft);
+}
+
+.diagnosis-card {
+  background: var(--color-surface);
+  border-radius: var(--radius-lg);
+  padding: var(--space-2xl);
+  box-shadow: var(--shadow-md);
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.diagnosis-header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-lg);
+  margin-bottom: var(--space-xl);
+}
+
+.diagnosis-icon {
+  width: 56px;
+  height: 56px;
+  background: var(--color-primary-light);
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary-dark);
+  flex-shrink: 0;
+}
+
+.diagnosis-header h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.75rem;
+  color: var(--color-ink);
+  margin: 0;
+}
+
+.diagnosis-description {
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--color-muted);
+  margin: 0 0 var(--space-xl);
+}
+
+.diagnosis-methods h3 {
+  font-size: 1.125rem;
+  color: var(--color-ink);
+  margin: 0 0 var(--space-lg);
+  font-weight: 600;
+}
+
+.methods-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: var(--space-md);
+}
+
+.method-item {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  background: var(--color-bg-soft);
+  border-radius: var(--radius-md);
+}
+
+.method-number {
+  width: 32px;
+  height: 32px;
+  background: var(--color-primary);
+  color: white;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.875rem;
+  font-weight: 600;
+  flex-shrink: 0;
+}
+
+.method-text {
+  font-size: 0.9375rem;
+  color: var(--color-ink);
+}
+
+@media (max-width: 768px) {
+  .diagnosis-card {
+    padding: var(--space-xl);
+  }
+
+  .diagnosis-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--space-md);
+  }
+
+  .diagnosis-header h2 {
+    font-size: 1.5rem;
+  }
+
+  .methods-grid {
+    grid-template-columns: 1fr;
+  }
+}

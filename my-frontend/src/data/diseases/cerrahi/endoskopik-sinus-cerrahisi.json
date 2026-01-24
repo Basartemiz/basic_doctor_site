@@ -1,0 +1,119 @@
+{
+  "id": "endoskopik-sinus-cerrahisi",
+  "slug": "endoskopik-sinus-cerrahisi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Endoskopik Sinus Cerrahisi",
+  "subtitle": "Fonksiyonel Endoskopik Sinus Cerrahisi (FESS)",
+  "definition": {
+    "title": "Endoskopik Sinus Cerrahisi Nedir?",
+    "content": "Endoskopik sinus cerrahisi (FESS), burun deliklerinden girerek ozel kameralar ve aletlerle sinuslerin acildigi minimal invaziv bir cerrahi tekniktir. Yuz kemiklerinde kesi yapilmaz. Kronik sinuzit, burun polipleri ve diger sinus hastaliklarinin tedavisinde kullanilir."
+  },
+  "symptoms": {
+    "title": "Ameliyat Gerektiren Durumlar",
+    "items": [
+      "Medikal tedaviye yanit vermeyen kronik sinuzit",
+      "Tekrarlayan akut sinuzit ataklari",
+      "Burun polipleri",
+      "Mantar topu (fungal sinuzit)",
+      "Sinus mukoseli",
+      "Sinus tümorüleri",
+      "Beyin omurlilik sivisi sizintisi",
+      "Goz cukuru komplikasyonlari",
+      "Burun tikanikligi ve bas agrisi"
+    ]
+  },
+  "causes": {
+    "title": "Sinus Hastaliklari Nedenleri",
+    "items": [
+      "Kronik sinuzit",
+      "Alerjik fungal sinuzit",
+      "Burun polipleri",
+      "Anatomik bozukluklar",
+      "Kiistik fibrozis",
+      "Bagisiklik sistemi bozukluklari",
+      "Aspirin duyarliiligi",
+      "Reflu"
+    ]
+  },
+  "diagnosis": {
+    "title": "Ameliyat Oncesi Degerlendirme",
+    "content": "Cerrahi karari icin kapsamli degerlendirme yapilir. Tomografi cerrahi planlama icin kritik oneme sahiptir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Burun endoskopisi",
+      "Paranazal sinus BT",
+      "Alerji testleri",
+      "Patolojik inceleme (gerekirse)",
+      "Ameliyat oncesi kan testleri"
+    ]
+  },
+  "treatment": {
+    "title": "Endoskopik Sinus Cerrahisi Islem Detaylari",
+    "content": "Ameliyat genel anestezi altinda yapilir. Sinuslarin dogal draanj yollari acılır ve hasta doku temizlenir.",
+    "options": [
+      {
+        "name": "Minimal FESS",
+        "description": "Sinir bolgelerine (ostiomeatal kompleks) odaklanan sinirli cerrahi. Daha az kapsamli hastalik icin."
+      },
+      {
+        "name": "Tam FESS",
+        "description": "Tum sinuslerin (maksiller, etmoid, frontal, sfenoid) acildigi kapsamli cerrahi."
+      },
+      {
+        "name": "Image-Guided Cerrahi",
+        "description": "Bilgisayar navigasyonu esliginde yapılan hassas cerrahi. Komplike vakalarda tercih edilir."
+      },
+      {
+        "name": "Balon Sinuplasti",
+        "description": "Seçilmiş vakalarda sinus agiızlarının balonla genisletilmesi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Endoskopik sinus cerrahisi deneyimi",
+      "Modern endoskopik ekipman",
+      "Minimal invaziv yaklasiim",
+      "Dusuk komplikasyon orani",
+      "Ameliyat sonrasi yakin takip",
+      "Recidiv (nuks) onleme stratejileri"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ameliyat agrili mi?",
+      "answer": "Ameliyat genel anestezi altinda yapilir. Ameliyat sonrasi agri genellikle hafif-orta duzeydedir ve agri kesicilerle kontrol edilir."
+    },
+    {
+      "question": "Ameliyat sonrasi tampon konuyor mu?",
+      "answer": "Modern cerrahide eriyen veya hafif tamponlar kullanilabilir. Bazi hastalarda tampon gerekmeyebilir."
+    },
+    {
+      "question": "Ne kadar surede iyilesilir?",
+      "answer": "Cogu hasta 1 hafta icinde islere donebilir. Tam mukozal iyilesme 4-6 hafta surer."
+    },
+    {
+      "question": "Hastalik tekrarlar mi?",
+      "answer": "Ozellikle polipli hastalarda nuks riski vardir. Ameliyat sonrasi medikal tedavi ve takip onemlidir."
+    },
+    {
+      "question": "Ameliyat iz birakir mi?",
+      "answer": "Hayir. Ameliyat burun deliklerinden yapildigi icin yuzde hicbir iz kalmaz."
+    }
+  ],
+  "seo": {
+    "title": "Endoskopik Sinus Cerrahisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de endoskopik sinus cerrahisi (FESS). Kronik sinuzit, burun polipleri cerrahisi. Minimal invaziv sinus ameliyati. KBB uzmani.",
+    "keywords": [
+      "endoskopik sinus cerrahisi",
+      "FESS",
+      "sinus ameliyati",
+      "kronik sinuzit cerrahisi",
+      "burun polipi ameliyati",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["sinuzit", "septoplasti", "konka-cerrahisi"]
+}

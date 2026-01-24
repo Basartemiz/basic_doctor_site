@@ -1,0 +1,109 @@
+{
+  "id": "prp-tedavisi",
+  "slug": "prp-tedavisi",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "PRP Tedavisi",
+  "subtitle": "Trombositten Zengin Plazma Tedavisi",
+  "definition": {
+    "title": "PRP Tedavisi Nedir?",
+    "content": "PRP (Platelet Rich Plasma), kendi kaninizdan elde edilen trombositten zengin plazmanin cilde enjekte edilmesidir. Buyume faktorleri iceren trombositler cilt yenilenmesini ve kollajen uretimini uyarir."
+  },
+  "symptoms": {
+    "title": "PRP Tedavisi Kimlere Uygulanir?",
+    "items": [
+      "Cilt yenileme isteyenler",
+      "Ince cizgi ve kirisiklari olanlar",
+      "Sac dokulmesi sorunu olanlar",
+      "Akne izleri olanlar",
+      "Dogal tedavi tercih edenler",
+      "Kolajen uyarimi isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Cilt Yaslanmasi Nedenleri",
+    "items": [
+      "Kolajen kaybi",
+      "Buyume faktoru azalmasi",
+      "Yaslanma",
+      "Gunes hasari",
+      "Cevresel faktorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Cilt durumu ve hedefler belirlenir.",
+    "methods": [
+      "Cilt analizi",
+      "Saglik oykusu",
+      "Kan testleri (gerekirse)",
+      "Hedef belirleme"
+    ]
+  },
+  "treatment": {
+    "title": "PRP Uygulama",
+    "content": "Kan alinir, santrifuj edilir ve elde edilen plazma enjekte edilir.",
+    "options": [
+      {
+        "name": "Yuz PRP",
+        "description": "Vampir yuz bakimi olarak bilinen yuz yenileme."
+      },
+      {
+        "name": "Sac PRP",
+        "description": "Sac dokulmesinde sac koklerini canlandirma."
+      },
+      {
+        "name": "PRP + Mezoterapi",
+        "description": "PRP ve vitamin kokteyli kombinasyonu."
+      },
+      {
+        "name": "PRP + Microneedling",
+        "description": "Dermaroller ile PRP kombinasyonu."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kaliteli PRP kitleri",
+      "Steril islem ortami",
+      "Dogal tedavi yaklasimi",
+      "Kombine tedavi seçenekleri",
+      "Deneyimli hekim uygulamasi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "PRP guvenli mi?",
+      "answer": "Kendi kaninizdan elde edildigi icin alerji riski yoktur. Cok guvenlidir."
+    },
+    {
+      "question": "Kac seans gerekir?",
+      "answer": "Genellikle 3-4 seans onerilir. 3-4 hafta arayla yapilir."
+    },
+    {
+      "question": "Sonuc ne zaman gorulur?",
+      "answer": "Kolajen uretimi zaman alir. Tam etki 2-3 ay sonra gorunur."
+    },
+    {
+      "question": "Sac dokulmesinde etkili mi?",
+      "answer": "Evet. Androgenetik alopeside sac kalitesini arttirir ve dokulmeyyi yavatlatir."
+    },
+    {
+      "question": "Islem agrili mi?",
+      "answer": "Minimal agri vardir. Istenirse topikal anestezi uygulanabilir."
+    }
+  ],
+  "seo": {
+    "title": "PRP Tedavisi Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de PRP tedavisi. Cilt yenileme, sac PRP, vampir yuz bakimi. Kendi kaninizla dogal tedavi.",
+    "keywords": [
+      "PRP tedavisi",
+      "vampir yuz bakimi",
+      "sac PRP",
+      "PRP izmir",
+      "cilt yenileme"
+    ]
+  },
+  "relatedDiseases": ["mezoterapi", "kimyasal-peeling", "radyofrekans"]
+}

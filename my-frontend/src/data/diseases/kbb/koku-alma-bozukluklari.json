@@ -1,0 +1,121 @@
+{
+  "id": "koku-alma-bozukluklari",
+  "slug": "koku-alma-bozukluklari",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Koku Alma Bozukluklari",
+  "subtitle": "Koku Kaybi ve Koku Alma Problemleri",
+  "definition": {
+    "title": "Koku Alma Bozuklugu Nedir?",
+    "content": "Koku alma bozukluklari; kokulari hic alamama (anosmi), azalmis koku alma (hiposmi) veya kokulari yanlis algilama (parosmi) seklinde ortaya cikabilir. Burun ve sinus hastaliklari, viral enfeksiyonlar veya norolojik nedenler sorumlu olabilir."
+  },
+  "symptoms": {
+    "title": "Koku Alma Bozuklugu Belirtileri",
+    "items": [
+      "Kokulari alamama veya zor alma",
+      "Tatları seçememe (tat almayı etkiler)",
+      "Kokulari farkli algilama",
+      "Hoş olmayan kokular duyma (fantosmia)",
+      "Yemek yeme istahsizligi",
+      "Tehlikeleri fark edememe (gaz kacagi vs)",
+      "Depresyon ve anksiyete",
+      "Sosyal iliksilerde zorluk",
+      "Yasam kalitesinde dusus"
+    ]
+  },
+  "causes": {
+    "title": "Koku Alma Bozuklugu Nedenleri",
+    "items": [
+      "Viral enfeksiyonlar (COVID-19 dahil)",
+      "Kronik sinuzit ve burun polipleri",
+      "Alerjik rinit",
+      "Kafa travmasi",
+      "Yaslanma",
+      "Parkinson ve Alzheimer hastaligi",
+      "Septum deviasyonu",
+      "Ilac yan etkileri",
+      "Sigara kullanimi",
+      "Kongenital (dogumsal) nedenler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Koku Alma Tani Yontemleri",
+    "content": "Koku alma fonksiyonu ozel testlerle degerlendirulir ve altta yatan neden araştirilir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Burun endoskopisi",
+      "Koku testleri (UPSIT, Sniffin Sticks)",
+      "Paranazal sinus BT",
+      "Kranial MR",
+      "Alerji testleri"
+    ]
+  },
+  "treatment": {
+    "title": "Koku Alma Bozuklugu Tedavisi",
+    "content": "Tedavi altta yatan nedene gore planlanir. Bazi durumlarda koku egitimi (olfaktuar rehabilitasyon) etkili olabilir.",
+    "options": [
+      {
+        "name": "Medikal Tedavi",
+        "description": "Sinuzit ve alerjide nazal steroidler, antibiyotikler kullanilir. Bazi vakalarda oral steroid onerilebilir."
+      },
+      {
+        "name": "Cerrahi Tedavi",
+        "description": "Burun polipleri, kronik sinuzit veya septum deviasyonunda cerrahi mudahale yapilabilir."
+      },
+      {
+        "name": "Koku Egitimi",
+        "description": "Belirli kokular kullanilarak koku sinirlerinin uyarilmasi ve iyilesmenin desteklenmesi."
+      },
+      {
+        "name": "Destek Tedavisi",
+        "description": "A vitamini, alfa lipoik asit ve omega-3 takviyelerinin faydasi arastiriiliyor."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kapsamli koku fonksiyon degerlendirmesi",
+      "Nedenin dogru tespiti",
+      "Guncel tedavi yaklasimlari",
+      "Koku rehabilitasyonu rehberligi",
+      "Multidisipliner yaklasim",
+      "Uzun vadeli takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "COVID-19 sonrasi koku kaybi ne kadar surer?",
+      "answer": "Cogu hastada koku 2-4 hafta icinde doner. Bazi hastalarda aylar surebilir. Koku egitimi iyilesmeyi hizlandirabilir."
+    },
+    {
+      "question": "Koku kaybi kalici olabilir mi?",
+      "answer": "Bazi durumlarda (ciddi kafa travmasi, ileri yas) koku kaybi kalici olabilir. Erken tedavi basari sansini artirir."
+    },
+    {
+      "question": "Koku egitimi nasil yapilir?",
+      "answer": "Her gun 4 farkli koku (gul, limon, okaliptus, karanfil) 20 saniye kokllanir. Bu islem gunde 2 kez, en az 4 ay surdurulur."
+    },
+    {
+      "question": "Koku kaybi tehlikeli mi?",
+      "answer": "Dogrudan tehlikeli olmasa da gaz kacagi, bozuk yiyecek gibi tehlikeleri fark edememe riski tasir. Alarm sistemleri kullanimi onerilir."
+    },
+    {
+      "question": "Tat almayı da etkiler mi?",
+      "answer": "Evet. Koku ve tat duyulari birbiriyle baglidir. Koku kaybi olan cogu hasta tat almada da zorluk yasar."
+    }
+  ],
+  "seo": {
+    "title": "Koku Alma Bozuklugu Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de koku kaybi (anosmi) tedavisi. COVID sonrasi koku kaybi, kronik sinuzit ve koku egitimi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "koku kaybi",
+      "anosmi tedavisi",
+      "koku alamama",
+      "covid koku kaybi",
+      "koku egitimi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["sinuzit", "alerjik-rinit", "burun-tikanikligi"]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "kaz-ayagi-botoksu",
+  "slug": "kaz-ayagi-botoksu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Kaz Ayagi Botoksu",
+  "subtitle": "Goz Cevresi Kirisiklik Tedavisi",
+  "definition": {
+    "title": "Kaz Ayagi Botoksu Nedir?",
+    "content": "Kaz ayagi botoksu, goz dis koseelerinde olusan kirisikliklarin (crow's feet) tedavisinde kullanilan botulinum toksin uygulamasidir. Guldugunuzde belirginlesen bu cizgiler, botoks ile onemli olcude azaltılır."
+  },
+  "symptoms": {
+    "title": "Kaz Ayagi Botoksu Kimlere Uygulanir?",
+    "items": [
+      "Goz kenarinda cizgileri olanlar",
+      "Guldugunde belirgin kirisiklari olanlar",
+      "Goz cevresinde genc gorunum isteyenler",
+      "Onleyici botoks isteyenler",
+      "Goz kisma aliskanligi olanlar"
+    ]
+  },
+  "causes": {
+    "title": "Kaz Ayagi Kirisiklik Nedenleri",
+    "items": [
+      "Gulme ve goz kisma hareketleri",
+      "Gunes hasari",
+      "Goz kirsarak bakma",
+      "Ince goz cevresi cildi",
+      "Yaslanma",
+      "Genetik faktorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Goz cevresi yapisi ve cizgi karakteri degerlendirilir.",
+    "methods": [
+      "Goz cevresi muayenesi",
+      "Dinamik ve statik cizgi ayrimi",
+      "Gülme testi",
+      "Cilt elastikiyeti degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Kaz Ayagi Botoksu Uygulama",
+    "content": "Her goz icin 3-4 noktaya enjeksiyon yapilir. Islem 10 dakika surer.",
+    "options": [
+      {
+        "name": "Klasik Kaz Ayagi Tedavisi",
+        "description": "Orbicularis oculi kasina hedefli enjeksiyon."
+      },
+      {
+        "name": "Alt Goz Kapagi Kombinasyonu",
+        "description": "Kaz ayagi ile birlikte alt goz kapagi cizgilerinin tedavisi."
+      },
+      {
+        "name": "Full Upper Face",
+        "description": "Kaz ayagi, alin ve kas arasi birlikte tedavi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Hassas goz cevresi uygulamasi",
+      "Dogal gülus koruma",
+      "Asimetri onleme",
+      "FDA onayli urunler",
+      "Deneyimli hekim eli"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Goz cevresi botoksu guvenli mi?",
+      "answer": "Evet. Deneyimli ellerde goz cevresine guvenle uygulanır."
+    },
+    {
+      "question": "Gülme ifadem degisir mi?",
+      "answer": "Dogru dozajla dogal gülus korunur. Yalnizca kirisikliklar azalir."
+    },
+    {
+      "question": "Alt goz kapağına uygulanir mi?",
+      "answer": "Dikkatli sekilde uygulanabilir. Dusuk doz ve ozel teknik gerektirir."
+    },
+    {
+      "question": "Ne zaman etki gorulur?",
+      "answer": "3-5 gunde baslar, 10-14 gunde tam etki gorulur."
+    },
+    {
+      "question": "Kaz ayagi cizgileri tamamen gecmer mi?",
+      "answer": "Dinamik cizgiler cok iyi yanit verir. Cok derin statik cizgiler hafifler."
+    }
+  ],
+  "seo": {
+    "title": "Kaz Ayagi Botoksu Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de kaz ayagi botoksu uygulamasi. Goz cevresi kirisikliklari tedavisi. Medikal estetik uzmani.",
+    "keywords": [
+      "kaz ayagi botoksu",
+      "goz cevresi botoks",
+      "crow's feet tedavisi",
+      "goz kirisikligi",
+      "botoks izmir"
+    ]
+  },
+  "relatedDiseases": ["alin-botoksu", "kas-arasi-botoks", "goz-alti-isik-dolgusu"]
+}

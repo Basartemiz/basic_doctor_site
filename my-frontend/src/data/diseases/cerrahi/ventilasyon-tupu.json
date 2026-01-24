@@ -1,0 +1,110 @@
+{
+  "id": "ventilasyon-tupu",
+  "slug": "ventilasyon-tupu",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Ventilasyon Tupu",
+  "subtitle": "Kulak Tupu Takma Ameliyati",
+  "definition": {
+    "title": "Ventilasyon Tupu Nedir?",
+    "content": "Ventilasyon tupu (timpanostomi tupu, grommet), kulak zarına yerleştirilen kücük bir tüptür. Orta kulaktaki siviyi bosaltir ve havalandirmayi saglar. Tekrarlayan orta kulak enfeksiyonlari ve seröz otit medianin tedavisinde kullanilir."
+  },
+  "symptoms": {
+    "title": "Ventilasyon Tupu Gerektiren Durumlar",
+    "items": [
+      "Tekrarlayan akut otit media (yilda 4+)",
+      "Kronik seroz otit media (3+ ay suren)",
+      "Isitme kaybi",
+      "Konusma gecikmesi (cocuklarda)",
+      "Okul basarisinda dusus",
+      "Denge sorunlari",
+      "Antibiyotik tedavisine direnc"
+    ]
+  },
+  "causes": {
+    "title": "Orta Kulak Sivisi Nedenleri",
+    "items": [
+      "Östaki tupu disfonksiyonu",
+      "Buyumis geniz eti",
+      "Alerjiler",
+      "Ust solunum yolu enfeksiyonlari",
+      "Pasif sigara maruziyeti",
+      "Emzik kullanimi",
+      "Kreş ortami"
+    ]
+  },
+  "diagnosis": {
+    "title": "Ventilasyon Tupu Oncesi Degerlendirme",
+    "content": "Orta kulak sivisi ve isitme durumu degerlendirilir.",
+    "methods": [
+      "Otoskopik muayene",
+      "Timpanometri",
+      "Odyometri",
+      "Burun ve adenoid degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Ventilasyon Tupu Islemi",
+    "content": "Kisa ve basit bir ameliyattir. Cocuklarda genel, erişkinlerde lokal anestezi ile yapilabilir.",
+    "options": [
+      {
+        "name": "Standart Tup",
+        "description": "6-12 ay kalir ve kendiliginden duser. Cogu vakada ilk tercih."
+      },
+      {
+        "name": "Uzun Sureli (T-Tup)",
+        "description": "2-4 yil kalabilir. Tekrarlayan sivilarda veya Ostaki disfonksiyonunda tercih edilir."
+      },
+      {
+        "name": "Adenoidektomi ile Birlikte",
+        "description": "Buyumis geniz eti varsa ayni seansta cikarilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Cocuk hastalarda deneyim",
+      "Hizli ve guvenli islem",
+      "Dogru endikasyon degerlendirmesi",
+      "Minimal komplikasyon",
+      "Aile ile detayli bilgilendirme",
+      "Ameliyat sonrasi takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Tup takilmasi agrili mi?",
+      "answer": "Ameliyat anestezi altinda yapilir, agri hissedilmez. Ameliyat sonrasi hafif rahatsizlik olabilir."
+    },
+    {
+      "question": "Tup ne kadar kalir?",
+      "answer": "Standart tupler 6-12 ayda kendiliginden duser. T-tupler daha uzun kalir ve cerrah tarafindan cikarilir."
+    },
+    {
+      "question": "Tup takili iken suya girilir mi?",
+      "answer": "Yuzey suyu genellikle sorun yaratmaz. Dalma ve sabunlu su icin kulak tikaci onerilir."
+    },
+    {
+      "question": "Tup dustukten sonra kulak zari kapanir mi?",
+      "answer": "Cogu zaman kendliginden kapanır. Nadiren kalici delik kalabilir ve onarim gerekebilir."
+    },
+    {
+      "question": "Birden fazla kez tup takilabilir mi?",
+      "answer": "Evet. Tekrarlayan siviarda 2-3 kez tup takılması gerekebilir."
+    }
+  ],
+  "seo": {
+    "title": "Ventilasyon Tupu Takma Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de kulak tupu takma ameliyati. Cocuklarda tekrarlayan kulak enfeksiyonu ve seroz otit tedavisi. KBB uzmani.",
+    "keywords": [
+      "ventilasyon tupu",
+      "kulak tupu",
+      "grommet",
+      "seroz otit tedavisi",
+      "cocuk kulak ameliyati",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["kulak-enfeksiyonlari", "isitme-kaybi", "bademcik-geniz-eti"]
+}

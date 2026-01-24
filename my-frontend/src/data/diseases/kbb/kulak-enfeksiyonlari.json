@@ -1,0 +1,122 @@
+{
+  "id": "kulak-enfeksiyonlari",
+  "slug": "kulak-enfeksiyonlari",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Kulak Enfeksiyonlari",
+  "subtitle": "Dis, Orta ve Ic Kulak Enfeksiyonlari Tedavisi",
+  "definition": {
+    "title": "Kulak Enfeksiyonu Nedir?",
+    "content": "Kulak enfeksiyonlari, dis kulak (otitis eksterna), orta kulak (otitis media) veya ic kulak bolgelerini etkileyen iltihaplanmalardir. En sik cocuklarda gorulen orta kulak iltihabı, eriskinlerde de onemli bir saglik sorunudur. Tedavi edilmezse isitme kaybi ve diger komplikasyonlara yol acabilir."
+  },
+  "symptoms": {
+    "title": "Kulak Enfeksiyonu Belirtileri",
+    "items": [
+      "Kulak agrisi (siddetli veya zonklayici)",
+      "Kulakta dokunurluk ve hassasiyet",
+      "Kulaktan akinti (berrak, sari veya kanli)",
+      "Isitme azalmasi veya tikali his",
+      "Ates (ozellikle cocuklarda)",
+      "Denge bozuklugu veya bas donmesi",
+      "Kulakta kasinma",
+      "Huzursuzluk ve uyku bozuklugu",
+      "Istahsizlik",
+      "Kulak cinlamasi"
+    ]
+  },
+  "causes": {
+    "title": "Kulak Enfeksiyonu Nedenleri",
+    "items": [
+      "Bakteriyel enfeksiyonlar",
+      "Viral enfeksiyonlar (soguk alginligi sonrasi)",
+      "Yuzmeden sonra kulakta kalan su",
+      "Kulak kiri birikimi",
+      "Kulak temizligi sirasinda travma",
+      "Alerji ve sinuzit",
+      "Buyuk geniz eti (adenoid)",
+      "Zayif bagisiklik sistemi",
+      "Emzik kullanimi (bebeklerde)",
+      "Pasif sigara dumani maruziyeti"
+    ]
+  },
+  "diagnosis": {
+    "title": "Kulak Enfeksiyonu Tanisi",
+    "content": "Tani, detayli kulak muayenesi ve gerekli testlerle konur. Kulak zari ve orta kulak degerlendirmesi onemlidir.",
+    "methods": [
+      "Otoskopik kulak muayenesi",
+      "Timpanometri",
+      "Odyometri (isitme testi)",
+      "Kulak akintisi kulturi",
+      "Endoskopik kulak muayenesi",
+      "Temporal kemik BT (komplike vakalarda)"
+    ]
+  },
+  "treatment": {
+    "title": "Kulak Enfeksiyonu Tedavisi",
+    "content": "Tedavi enfeksiyonun tipine ve siddetine gore planlanir. Erken tedavi komplikasyonlari onler.",
+    "options": [
+      {
+        "name": "Antibiyotik Tedavisi",
+        "description": "Bakteriyel enfeksiyonlarda agizdan veya damla seklinde antibiyotik kullanilir."
+      },
+      {
+        "name": "Agri Kesici ve Ates Dusurucu",
+        "description": "Belirtilerin hafifletilmesi icin uygun dozda agri kesici ve antipiretik verilir."
+      },
+      {
+        "name": "Kulak Damlalari",
+        "description": "Dis kulak enfeksiyonlarinda antibiyotikli veya antiseptik damlalar kullanilir."
+      },
+      {
+        "name": "Ventilasyon Tupu",
+        "description": "Tekrarlayan orta kulak enfeksiyonlarinda sivi bosaltimi ve havalandirma icin tup takilabilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Pediatrik ve eriskin kulak enfeksiyonlarinda uzmanlik",
+      "Ileri endoskopik tani imkanlari",
+      "Kisisellestirilmis tedavi yaklasimi",
+      "Minimal invaziv cerrahi secenekler",
+      "Cocuk hastalara ozel yakklasim",
+      "Ameliyat sonrasi detayli takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kulak enfeksiyonu ne kadar surede gecer?",
+      "answer": "Dogru tedavi ile akut kulak enfeksiyonlari genellikle 7-14 gun icinde iyilesir. Kronik veya tekrarlayan enfeksiyonlarda tedavi sureci daha uzun olabilir."
+    },
+    {
+      "question": "Kulak enfeksiyonu bulasici midir?",
+      "answer": "Kulak enfeksiyonunun kendisi bulasici degildir, ancak enfeksiyona neden olan soguk alginligi gibi viral hastaliklar bulasici olabilir."
+    },
+    {
+      "question": "Kulak enfeksiyonunu onlemek icin ne yapmaliyim?",
+      "answer": "Elleri sik yikamak, soguk alginligindan korunmak, yuzmeden sonra kulaklari kurulamak ve sigara dumanindan uzak durmak onemlidir."
+    },
+    {
+      "question": "Cocugumun kulagi surekli iltihaplaniyor, ne yapmaliyim?",
+      "answer": "Tekrarlayan kulak enfeksiyonlarinda KBB uzmanina basvurmak gerekir. Geniz eti buyuklugu ve ventilasyon tupu ihtiyaci degerlendirilmelidir."
+    },
+    {
+      "question": "Kulak enfeksiyonu isitme kaybina neden olur mu?",
+      "answer": "Tedavi edilmeyen veya tekrarlayan enfeksiyonlar gecici veya kalici isitme kaybina neden olabilir. Bu nedenle erken tedavi onemlidir."
+    }
+  ],
+  "seo": {
+    "title": "Kulak Enfeksiyonu Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de kulak enfeksiyonu tedavisi. Dis kulak, orta kulak iltihabı belirtileri ve tedavi yontemleri. Cocuk ve eriskin KBB uzmani.",
+    "keywords": [
+      "kulak enfeksiyonu",
+      "otitis media",
+      "kulak iltihabı tedavisi",
+      "kulak agrisi",
+      "cocuk kulak enfeksiyonu",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["isitme-kaybi", "kulak-cinlamasi-tinnitus", "kulak-kiri-temizligi"]
+}

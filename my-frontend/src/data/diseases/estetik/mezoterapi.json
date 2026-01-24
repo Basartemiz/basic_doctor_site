@@ -1,0 +1,110 @@
+{
+  "id": "mezoterapi",
+  "slug": "mezoterapi",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Mezoterapi",
+  "subtitle": "Cilt Yenileme ve Canlandirma",
+  "definition": {
+    "title": "Mezoterapi Nedir?",
+    "content": "Mezoterapi, vitaminler, mineraller, aminoasitler ve hyaluronik asit iceren kokteyllerin cilt altina mikro enjeksiyonlarla verildigi tedavidir. Cilt kalitesini arttirir, nem saglar ve genc gorunum destekler."
+  },
+  "symptoms": {
+    "title": "Mezoterapi Kimlere Uygulanir?",
+    "items": [
+      "Donuk ve solgun ciltli olanlar",
+      "Cilt nemini arttirmak isteyenler",
+      "Ince cizgileri azaltmak isteyenler",
+      "Cilt kalitesini iyilestirmek isteyenler",
+      "Sac dokulmesi sorunu olanlar",
+      "Seluliti azaltmak isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Cilt Yorgunlugu Nedenleri",
+    "items": [
+      "Yaslanma",
+      "Cevresel faktorler",
+      "Stres",
+      "Yetersiz uyku",
+      "Dengesiz beslenme",
+      "Dehidrasyon"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Cilt tipi ve ihtiyaclar belirlenir.",
+    "methods": [
+      "Cilt analizi",
+      "Nem olcumu",
+      "Sorun bolgelerinin belirlenmesi",
+      "Hedef belirleme"
+    ]
+  },
+  "treatment": {
+    "title": "Mezoterapi Uygulama",
+    "content": "Cok ince ignelerle cilt altina vitamin kokteyli enjekte edilir.",
+    "options": [
+      {
+        "name": "Yuz Mezoterapisi",
+        "description": "Yuz cildi nem ve parlaklik icin."
+      },
+      {
+        "name": "Boyun ve Dekolte",
+        "description": "Boyun ve dekolte bolgesi yenileme."
+      },
+      {
+        "name": "Sac Mezoterapisi",
+        "description": "Sac dokulmesinde sac follikullerinin beslenmesi."
+      },
+      {
+        "name": "Vucut Mezoterapisi",
+        "description": "Selulit ve bolgesel zayiflama."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kaliteli mezoterapi kokteylleri",
+      "Kisisellestirilmis formullasyon",
+      "Steril klinik ortami",
+      "Deneyimli hekim uygulamasi",
+      "Seans planlamasi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Mezoterapi kac seans gerektirir?",
+      "answer": "Genellikle 4-6 seans onerilir. 2-4 hafta arayla uygulanir."
+    },
+    {
+      "question": "Sonuc ne zaman gorunur?",
+      "answer": "Ilk seanstan sonra parlaklik gorulebilir. Tam etki seanslar tamamlandiktan sonra."
+    },
+    {
+      "question": "Agrili midir?",
+      "answer": "Cok ince igneler kullanilir. Minimal rahatsizlik hissedilir."
+    },
+    {
+      "question": "Yan etkileri nelerdir?",
+      "answer": "Gecici kizariklik ve hafif sislik olabilir. Ciddi yan etki nadirdir."
+    },
+    {
+      "question": "Ne siklikla tekrarlanmali?",
+      "answer": "Bakim icin 3-6 ayda bir tekrarlanabilir."
+    }
+  ],
+  "seo": {
+    "title": "Mezoterapi Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de mezoterapi uygulamasi. Cilt yenileme, yuz mezoterapisi, sac mezoterapisi. Medikal estetik uzmani.",
+    "keywords": [
+      "mezoterapi",
+      "mezoterapi izmir",
+      "cilt yenileme",
+      "sac mezoterapisi",
+      "yuz mezoterapisi"
+    ]
+  },
+  "relatedDiseases": ["prp-tedavisi", "kimyasal-peeling", "radyofrekans"]
+}

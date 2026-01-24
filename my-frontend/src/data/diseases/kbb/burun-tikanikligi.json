@@ -1,0 +1,122 @@
+{
+  "id": "burun-tikanikligi",
+  "slug": "burun-tikanikligi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Burun Tikanikligi",
+  "subtitle": "Burun Tikanikligi Neden ve Tedavisi",
+  "definition": {
+    "title": "Burun Tikanikligi Nedir?",
+    "content": "Burun tikanikligi, burun hava yolunun daralması veya kapanması sonucu nefes almada yaşanan zorluktur. Tek veya çift taraflı olabilir. Yapısal bozukluklar, mukoza şişliği veya her ikisinin kombinasyonu neden olabilir."
+  },
+  "symptoms": {
+    "title": "Burun Tikanikligi Belirtileri",
+    "items": [
+      "Burundan nefes almada zorluk",
+      "Agizdan nefes alma",
+      "Horlama",
+      "Uyku bozuklugu",
+      "Burun akintisi",
+      "Koku alma azalmasi",
+      "Bas agrisi",
+      "Yorgunluk",
+      "Agiz kurulugu",
+      "Bogaz agrisi"
+    ]
+  },
+  "causes": {
+    "title": "Burun Tikanikligi Nedenleri",
+    "items": [
+      "Septum deviasyonu (burun egrilligi)",
+      "Konka hipertrofisi (burun eti buyumesi)",
+      "Alerjik rinit",
+      "Kronik sinuzit",
+      "Burun polipleri",
+      "Adenoid buyumesi",
+      "Soguk alginligi",
+      "Ilac riniti (dekonpektana bagimlili)",
+      "Hormonal degisiklikler",
+      "Tumoral olusumlar"
+    ]
+  },
+  "diagnosis": {
+    "title": "Burun Tikanikligi Degerlendirmesi",
+    "content": "Tikanikligin nedeni ve derecesini belirlemek icin kapsamli degerlendirme yapilir.",
+    "methods": [
+      "Anterior rinoskopi",
+      "Burun endoskopisi",
+      "Rinomanometri",
+      "Alerji testleri",
+      "Paranazal sinus BT",
+      "Uyku testi (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Burun Tikanikligi Tedavisi",
+    "content": "Tedavi nedene gore planlanir. Medikal tedavi yetersiz kaldiginda cerrahi secenekler degerlendirilir.",
+    "options": [
+      {
+        "name": "Medikal Tedavi",
+        "description": "Nazal steroid spreyler, antihistaminikler ve burun yikamasi ile semptomlar kontrol altina alinabilir."
+      },
+      {
+        "name": "Septoplasti",
+        "description": "Burun egrilligi (septum deviasyonu) duzeltilmesi icin yapilan cerrahi islem."
+      },
+      {
+        "name": "Konka Cerrahisi",
+        "description": "Buyumis burun etlerinin (konka) kucultulemesi icin radyofrekans veya cerrahi teknakler."
+      },
+      {
+        "name": "Kombine Cerrahi",
+        "description": "Septoplasti, konka cerrahisi ve gerekirse sinues cerrahisinin birlikte yapilmasi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kapsamli tikaniklik degerlendirmesi",
+      "Kisisellestirilmis tedavi plani",
+      "Modern cerrahi teknikler",
+      "Minimal invaziv yaklasmlar",
+      "Hizli iyilesme odakli tedavi",
+      "Ameliyat sonrasi yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Burun tikanikligi ameliyat gerektirir mi?",
+      "answer": "Her burun tikanikligi ameliyat gerektirmez. Once neden belirlenir, medikal tedavi denenir. Yapisal sorunlarda cerrahi gerekebilir."
+    },
+    {
+      "question": "Burun spreyi bagimliligi nedir?",
+      "answer": "Dekonpektanli burun spreylerinin uzun sure kullanilmasi ilaç rinitine yol acar. Ilac birakilddiginda tikaniklık artar. Tedavi icin uzman desteği gerekir."
+    },
+    {
+      "question": "Burun tikanikligi uyku apnesine neden olur mu?",
+      "answer": "Evet. Ciddi burun tikanikligi horlama ve uyku apnesine katkida bulunabilir. Her iki sorunun birlikte degerlendirilmesi onemlidir."
+    },
+    {
+      "question": "Cerrahi sonrasi burun tamamen acilir mi?",
+      "answer": "Cogu hastada cerrahi sonrasi belirgin iyilesme saglanir. Eslik eden alerji veya sinuzit varsa ek tedavi gerekebilir."
+    },
+    {
+      "question": "Burun tikanikligi cocuklarda nasil tedavi edilir?",
+      "answer": "Cocuklarda sik nedenler arasinda adenoid buyumesi ve alerji yer alir. Tedavi nedene gore planlanir."
+    }
+  ],
+  "seo": {
+    "title": "Burun Tikanikligi Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de burun tikanikligi tedavisi. Septum deviasyonu, konka hipertrofisi ve alerji kaynakli tikaniklik. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "burun tikanikligi",
+      "burun tikanikligi tedavisi",
+      "septum deviasyonu",
+      "konka hipertrofisi",
+      "burun ameliyati",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["septoplasti", "alerjik-rinit", "sinuzit", "horlama-uyku-apnesi"]
+}

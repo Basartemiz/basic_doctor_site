@@ -1,0 +1,73 @@
+.disease-hero {
+  background: linear-gradient(135deg, var(--color-bg-soft) 0%, var(--color-bg) 100%);
+  padding: var(--space-xl) 0 var(--space-3xl);
+}
+
+.disease-hero-content {
+  max-width: 800px;
+}
+
+.disease-category {
+  display: inline-block;
+  padding: var(--space-xs) var(--space-md);
+  background: var(--color-primary);
+  color: white;
+  border-radius: var(--radius-full);
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-bottom: var(--space-md);
+}
+
+.disease-hero h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: clamp(2rem, 5vw, 3rem);
+  font-weight: 700;
+  color: var(--color-ink);
+  margin: 0 0 var(--space-md);
+  line-height: 1.2;
+}
+
+.disease-subtitle {
+  font-size: 1.25rem;
+  color: var(--color-muted);
+  margin-bottom: var(--space-xl);
+  line-height: 1.6;
+}
+
+.disease-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-md);
+}
+
+.disease-hero-actions .btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+}
+
+.disease-hero-actions .btn-whatsapp {
+  background: #25D366;
+  color: white;
+  border: none;
+}
+
+.disease-hero-actions .btn-whatsapp:hover {
+  background: #128C7E;
+}
+
+/* Mobile */
+@media (max-width: 576px) {
+  .disease-hero {
+    padding: var(--space-lg) 0 var(--space-2xl);
+  }
+
+  .disease-hero-actions {
+    flex-direction: column;
+  }
+
+  .disease-hero-actions .btn {
+    width: 100%;
+    justify-content: center;
+  }
+}

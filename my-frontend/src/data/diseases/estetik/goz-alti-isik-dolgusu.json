@@ -1,0 +1,101 @@
+{
+  "id": "goz-alti-isik-dolgusu",
+  "slug": "goz-alti-isik-dolgusu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Goz Alti Isik Dolgusu",
+  "subtitle": "Goz Alti Morluk ve Cokukluk Tedavisi",
+  "definition": {
+    "title": "Goz Alti Isik Dolgusu Nedir?",
+    "content": "Goz alti isik dolgusu (tear trough dolgusu), goz alti cokukluklerini ve morluklarini tedavi eden hyaluronik asit enjeksiyonudur. Yorgun gorunumu ortadan kaldirarak dinlenmis ve genc bir bski saglar."
+  },
+  "symptoms": {
+    "title": "Goz Alti Dolgusu Kimlere Uygulanir?",
+    "items": [
+      "Goz alti cokuklugu olanlar",
+      "Koyu goz alti halkalari olanlar",
+      "Yorgun gorunumu olanlar",
+      "Genetik goz alti olougu olanlar",
+      "Goz cevresinde genc gorunum isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Goz Alti Sorunlari Nedenleri",
+    "items": [
+      "Genetik faktorler",
+      "Yaslanma ve hacim kaybi",
+      "Uyku bozuklugu",
+      "Alerji",
+      "Dehidrasyon",
+      "Ince cilt yapisi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Goz alti yapisi ve uygun adaylik belirlenir.",
+    "methods": [
+      "Goz cevresi muayenesi",
+      "Goz alti olugu derinligi",
+      "Morluk tipi belirleme",
+      "Goz torbalari degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Goz Alti Dolgusu Uygulama",
+    "content": "Cok ince kanul ile derin plana dolgu yerlestiirilir. Hassas bir islemdir.",
+    "options": [
+      {
+        "name": "Tear Trough Dolgusu",
+        "description": "Goz alti olugu icine dusuk yogunluklu hyaluronik asit."
+      },
+      {
+        "name": "Goz Cevresi Kombinasyonu",
+        "description": "Goz alti, yanak usstu ve sakak birlikte tedavi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Hassas goz cevresi uygulamasi",
+      "Kanul teknigi ile guvenlik",
+      "Dogal isik yansimasi",
+      "Tyndall efekti onleme deneyimi",
+      "Ozel goz alti dolgu urunleri"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Goz alti dolgusu guveilii mi?",
+      "answer": "Deneyimli ellerde guvenlidir. Kanul teknigi komplikasyon riskini azaltir."
+    },
+    {
+      "question": "Morluklar tamamen gecer mi?",
+      "answer": "Hacim kaybina bagli morluklar cok iyi yanit verir. Pigmentasyon kaynakli renk degisiklikleri icin ek tedavi gerekebilir."
+    },
+    {
+      "question": "Ne kadar surer?",
+      "answer": "12-18 ay etkili kalabilir. Bu bolge az hareket eder."
+    },
+    {
+      "question": "Tyndall efekti nedir?",
+      "answer": "Dolgunun cilde mavi renk vermesidir. Dogru derinlik ve urun secimi ile onlenir."
+    },
+    {
+      "question": "Goz torbalarina uygulanir mi?",
+      "answer": "Goz alti dolgusu goz torbalari icin uygun degildir. Torba icin cerrahi gerekir."
+    }
+  ],
+  "seo": {
+    "title": "Goz Alti Dolgusu Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de goz alti isik dolgusu uygulamasi. Tear trough dolgusu, goz alti morluk ve cokukluk tedavisi. Medikal estetik.",
+    "keywords": [
+      "goz alti dolgusu",
+      "tear trough dolgusu",
+      "goz alti morluk tedavisi",
+      "goz alti cokukluk",
+      "isik dolgusu izmir"
+    ]
+  },
+  "relatedDiseases": ["yanak-dolgusu", "kaz-ayagi-botoksu", "mezoterapi"]
+}

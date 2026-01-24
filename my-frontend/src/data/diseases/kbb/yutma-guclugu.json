@@ -1,0 +1,122 @@
+{
+  "id": "yutma-guclugu",
+  "slug": "yutma-guclugu",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Yutma Guclugu",
+  "subtitle": "Disfaji Tani ve Tedavisi",
+  "definition": {
+    "title": "Yutma Guclugu (Disfaji) Nedir?",
+    "content": "Disfaji, yiyecek veya içeceklerin agizdan mideye ulasmasinda yasanan zorluktur. Agiz, bogazz veya yemek borusu duzeyinde olabilir. Yasam kalitesini etkiler ve aspitrasyon pnomonisi riski taşır."
+  },
+  "symptoms": {
+    "title": "Yutma Guclugu Belirtileri",
+    "items": [
+      "Yutarken agri (odinofaji)",
+      "Yiyeceklerin takıllma hissi",
+      "Yutarken oksurme veya bogulma",
+      "Yemek yerken oksuruk",
+      "Sese su gelmesi",
+      "Agizda asiri tukuluruk veya kuruluk",
+      "Kilo kaybi",
+      "Tekrarlayan akiciger enfeksiyonlari",
+      "Regurjitasyon (yiyeceklerin geri gelmesi)",
+      "Gıda korkusu"
+    ]
+  },
+  "causes": {
+    "title": "Yutma Guclugu Nedenleri",
+    "items": [
+      "Ozofageal darlık",
+      "Ozofajit (yemek borusu iltihabı)",
+      "Zenker divertikulu",
+      "Norolojik hastaliklar (inme, parkinson, MS)",
+      "Bas-boyun tumorleri",
+      "Gastroozofageal reflu",
+      "Özofagus kanseri",
+      "Tiroid buyumesi",
+      "Servikal omurga sorunlari",
+      "Yaslilik (presbiofaji)"
+    ]
+  },
+  "diagnosis": {
+    "title": "Yutma Guclugu Degerlendirmesi",
+    "content": "Disfaji ciddiye alinmasi gereken bir semptomdur. Sistemik degerlendirme ile altta yatan neden belirlenir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Fleksible endoskopik yutma degerlendirmesi (FEES)",
+      "Videofloroskopik yutma calismasi",
+      "Ozofagoskopi",
+      "Boyun ve toraks BT",
+      "Norolojik degerlendirme"
+    ]
+  },
+  "treatment": {
+    "title": "Yutma Guclugu Tedavisi",
+    "content": "Tedavi nedene gore belirlenir. Multidisipliner yaklasim siklıkla gerekir.",
+    "options": [
+      {
+        "name": "Yutma Terapisi",
+        "description": "Yutma teknikleri ve egzersizleri ile yutma fonksiyonunun iyilestirilmesi."
+      },
+      {
+        "name": "Diyet Modifikasyonu",
+        "description": "Yiyecek ve ieceklerin kivaminin ayarlanmasi (kalinlastirma, yumusaklastirma)."
+      },
+      {
+        "name": "Medikal Tedavi",
+        "description": "Reflu ilaclari, steroidler veya botoks enjeksiyonu (akalazya icin)."
+      },
+      {
+        "name": "Cerrahi/Endoskopik Mudahale",
+        "description": "Darliklarin genişletilmesi, tumoor cerrahisi veya divertikul onarimi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "FEES ile kapsamli yutma degerlendirmesi",
+      "Multidisipliner tedavi yaklasimi",
+      "Bas-boyun cerrahisi deneyimi",
+      "Norolojik hastalarla calisma tecrubesi",
+      "Yutma terapisti koordinasyonu",
+      "Guvenli beslenme planlamasi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Yutma guclugu tehlikeli mi?",
+      "answer": "Evet. Yutma guclugu aspirasyon pnomonisine, beslenme bozukluguna ve kilo kaybina neden olabilir. Nedeni de onemli olabilir."
+    },
+    {
+      "question": "Hangi durumlarda acil basvurmaliyim?",
+      "answer": "Ani baslayan yutamama, nefes darliği, tıkali bir yabanci cisim veya siddetli agri varsa acil basvurun."
+    },
+    {
+      "question": "Yaslilikta yutma guclugu normal mi?",
+      "answer": "Yaşlanma ile yutma fonksiyonu zayiflayabilir, ancak ciddi zorluk normallestirilmemelidir. Degerlendirme onerilir."
+    },
+    {
+      "question": "Yutma guclugu nasil iyilestirilir?",
+      "answer": "Nedeninin tedavisi, yutma egzersizleri, diyet ayarlamalari ve gerekirse cerrahi mudahale ile iyilesme saglanabilir."
+    },
+    {
+      "question": "Inme sonrasi yutma guclugu duzelir mi?",
+      "answer": "Cogu hastada zaman ve rehabilitasyon ile iyilesme goruulur. Yogun yutma terapisi iyilesmeyi hizlandirir."
+    }
+  ],
+  "seo": {
+    "title": "Yutma Guclugu (Disfaji) Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de yutma guclugu tedavisi. Disfaji nedenleri, belirtileri ve tedavi secenekleri. FEES degerlendirmesi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "yutma guclugu",
+      "disfaji tedavisi",
+      "yutamama",
+      "yemek takılması",
+      "yutma terapisi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["bogaz-enfeksiyonlari", "ses-kisikligi", "laringoskopi"]
+}

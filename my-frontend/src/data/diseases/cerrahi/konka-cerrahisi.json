@@ -1,0 +1,116 @@
+{
+  "id": "konka-cerrahisi",
+  "slug": "konka-cerrahisi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Konka Cerrahisi",
+  "subtitle": "Burun Eti Kuculte Ameliyati",
+  "definition": {
+    "title": "Konka Cerrahisi Nedir?",
+    "content": "Konka cerrahisi, buyumis burun etlerinin (konka hipertrofisi) kucultulldugu cerrahi islemdir. Konkaiar burun icindeki yapilar olup havayı ısıtir, nemlendirir ve filtreler. Buyuduklerinde burun tikanikligina neden olur."
+  },
+  "symptoms": {
+    "title": "Konka Hipertrofisi Belirtileri",
+    "items": [
+      "Kronik burun tikanikligi",
+      "Burun spreyi bagimliligi",
+      "Agizdan nefes alma",
+      "Horlama",
+      "Burun akintisi",
+      "Uyku bozuklugu",
+      "Bas agrisi",
+      "Koku alma azalmasi"
+    ]
+  },
+  "causes": {
+    "title": "Konka Buyumesi Nedenleri",
+    "items": [
+      "Kronik alerjik rinit",
+      "Vazomotor rinit",
+      "Dekonpektan sprey bagimliligi",
+      "Hormonal degisiklikler",
+      "Kronik sinuzit",
+      "Cevre kirliligi",
+      "Kompanzatuvar hipertrofi (septum deviasyonu karsisi)"
+    ]
+  },
+  "diagnosis": {
+    "title": "Konka Hipertrofisi Degerlendirmesi",
+    "content": "Burun muayenesi ve endoskopi ile konkalarıın buyuklugu ve tikanikliga katkisi belirlenir.",
+    "methods": [
+      "Anterior rinoskopi",
+      "Burun endoskopisi",
+      "Rinomanometri",
+      "Alerji testleri",
+      "Paranazal sinus BT"
+    ]
+  },
+  "treatment": {
+    "title": "Konka Cerrahisi Yontemleri",
+    "content": "Farkli teknikler mevcuttur. Yaklasim konka yapisina ve hastanin durumuna gore secilir.",
+    "options": [
+      {
+        "name": "Radyofrekans Konka Reduksiyonu",
+        "description": "Dusuk sicaklik enerjisi ile konka icindeki doku kucultulur. Ofis ortaminda lokal anesteziyle uygulanabilir."
+      },
+      {
+        "name": "Submukozal Rezeksiyon",
+        "description": "Konka mukozasi korunarak alt doku cikarilir. Konka fonksiyonu korunur."
+      },
+      {
+        "name": "Parsiyel Turkbinektomi",
+        "description": "Konkanin bir kisminin cerrahi olarak cikarilmasi."
+      },
+      {
+        "name": "Konka Outfraktur",
+        "description": "Konka kiriginin disariya itilerek hava yolunun acilmasi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Farkli konka cerrahisi tekniklerinde deneyim",
+      "Fonksiyon koruyucu yaklasim",
+      "Radyofrekans imkani",
+      "Septoplasti ile kombine edilebilir",
+      "Hizli iyilesme",
+      "Uzun vadeli sonuc takibi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Konka cerrahisi agrili mi?",
+      "answer": "Ameliyat anestezi altinda yapilir. Ameliyat sonrasi hafif agri ve rahatsizlik olabilir, agri kesicilerle kontrol edilir."
+    },
+    {
+      "question": "Ameliyat sonrasi tampon konuyor mu?",
+      "answer": "Kullanilan teknik gore tampon gerekebilir veya gerekmeyebilir. Radyofrekansda genellikle tampon kullanilmaz."
+    },
+    {
+      "question": "Konka cerrahisi kalici mi?",
+      "answer": "Cogu hastada sonuclar kalicidir. Ancak alerjinin iyi kontrolu nuks riskini azaltir."
+    },
+    {
+      "question": "Empty nose sendromu nedir?",
+      "answer": "Asiri konka alindiginda burunun kurumasi ve paradoksal tikaniklik hissidir. Dogru teknik ve parcial rezeksiyon ile onlenir."
+    },
+    {
+      "question": "Radyofrekans mi cerrahi mi tercih edilmeli?",
+      "answer": "Hafif-orta hipertrofide radyofrekans, ciddi buyumelerde cerrahi tercih edilir. Muayene sonrasi karar verilir."
+    }
+  ],
+  "seo": {
+    "title": "Konka Cerrahisi Izmir - Burun Eti Ameliyati | Op. Dr. Banu Begen",
+    "description": "Izmir'de konka cerrahisi. Burun eti buyumesi, radyofrekans tedavisi ve cerrahi secenekler. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "konka cerrahisi",
+      "burun eti ameliyati",
+      "konka radyofrekans",
+      "burun tikanikligi ameliyati",
+      "turbinektomi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["burun-tikanikligi", "septoplasti", "alerjik-rinit"]
+}

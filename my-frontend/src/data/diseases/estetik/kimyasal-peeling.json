@@ -1,0 +1,105 @@
+{
+  "id": "kimyasal-peeling",
+  "slug": "kimyasal-peeling",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Kimyasal Peeling",
+  "subtitle": "Cilt Soyma ve Yenileme",
+  "definition": {
+    "title": "Kimyasal Peeling Nedir?",
+    "content": "Kimyasal peeling, cilde ozel asit solüsyonlari uygulayarak ust cilt katmanlarinin soyulmasi ve yeni, saglikli cildin ortaya cikmasini saglayan tedavidir. Cilt lekesi, akne izi, ince cizgi ve cilt dokusu bozukluklarinda etkilidir."
+  },
+  "symptoms": {
+    "title": "Kimyasal Peeling Kimlere Uygulanir?",
+    "items": [
+      "Cilt lekeleri olanlar",
+      "Akne ve akne izleri olanlar",
+      "Ince cizgi ve kirisiklari olanlar",
+      "Cilt dokusu bozuklugu olanlar",
+      "Mat ve yorgun ciltli olanlar",
+      "Gozenek problemi olanlar"
+    ]
+  },
+  "causes": {
+    "title": "Cilt Problemleri Nedenleri",
+    "items": [
+      "Gunes hasari ve lekeler",
+      "Akne ve izleri",
+      "Yaslanma",
+      "Hormonal degisiklikler",
+      "Genetik faktorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Cilt tipi ve sorunlar degerlendirilir, uygun peeling tipi secilir.",
+    "methods": [
+      "Cilt analizi",
+      "Fitzpatrick cilt tipi belirleme",
+      "Leke ve iz degerlendirmesi",
+      "Hassasiyet testi"
+    ]
+  },
+  "treatment": {
+    "title": "Kimyasal Peeling Turleri",
+    "content": "Derinlige gore farkli peeling turleri uygulanir.",
+    "options": [
+      {
+        "name": "Yuzeyel Peeling",
+        "description": "AHA, BHA asitleri. Hafta sonu peeling. Minimal iyilesme suresi."
+      },
+      {
+        "name": "Orta Derinlikte Peeling",
+        "description": "TCA peeling. Leke ve ince cizgiler icin etkili."
+      },
+      {
+        "name": "Derin Peeling",
+        "description": "Fenol peeling. Derin kirisikliklar icin. Uzun iyilesme suresi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Cilt tipine uygun peeling secimi",
+      "Kaliteli peeling urunleri",
+      "Guvenli uygulama protokolü",
+      "Komplikasyon yonetimi deneyimi",
+      "Sonrası bakim rehberligi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Peeling agrili mi?",
+      "answer": "Yuzeyel peelinglerde hafif yanma hissi olabilir. Derin peelinglerde anestezi uygulanır."
+    },
+    {
+      "question": "Iyilesme sureci ne kadar?",
+      "answer": "Yuzeyel: 2-3 gun, Orta: 7-10 gun, Derin: 2-3 hafta."
+    },
+    {
+      "question": "Kac seans gerekir?",
+      "answer": "Yuzeyel peelingler seri halinde, orta-derin peelingler tek seans uygulanir."
+    },
+    {
+      "question": "Gunes korumasi gerekli mi?",
+      "answer": "Evet. Peeling sonrasi gunes korumasi cok onemlidir."
+    },
+    {
+      "question": "Hangi mevsimde yapilmali?",
+      "answer": "Gunes isinininin az oldugu sonbahar-kis aylari idealdir."
+    }
+  ],
+  "seo": {
+    "title": "Kimyasal Peeling Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de kimyasal peeling uygulamasi. Cilt lekesi, akne izi, kirisiklik tedavisi. TCA peeling. Medikal estetik.",
+    "keywords": [
+      "kimyasal peeling",
+      "cilt lekesi tedavisi",
+      "akne izi tedavisi",
+      "TCA peeling",
+      "peeling izmir"
+    ]
+  },
+  "relatedDiseases": ["mezoterapi", "prp-tedavisi", "radyofrekans"]
+}

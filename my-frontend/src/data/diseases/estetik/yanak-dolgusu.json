@@ -1,0 +1,105 @@
+{
+  "id": "yanak-dolgusu",
+  "slug": "yanak-dolgusu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Yanak Dolgusu",
+  "subtitle": "Yanak Hacim ve Kontur Tedavisi",
+  "definition": {
+    "title": "Yanak Dolgusu Nedir?",
+    "content": "Yanak dolgusu, hyaluronik asit bazli dolgu maddeleri kullanilarak yanak bolgesine hacim kazandiran ve yuzu sekillendiren estetik prosedurdur. Yas kaybedilen hacmi geri kazanmak veya yanak kemigini belirginlestirmek icin uygulanir."
+  },
+  "symptoms": {
+    "title": "Yanak Dolgusu Kimlere Uygulanir?",
+    "items": [
+      "Yanak hacmi kaybedenler",
+      "Yanak kemigini belirginlestirmek isteyenler",
+      "Yorgun gorunumu olanlar",
+      "Yuz asimetrisi olanlar",
+      "Genc ve dolgun yuz isteyenler",
+      "Cokmus yanak gorunumu olanlar"
+    ]
+  },
+  "causes": {
+    "title": "Yanak Hacim Kaybi Nedenleri",
+    "items": [
+      "Yaslanma",
+      "Yag dokusu kaybi",
+      "Kilo kaybi",
+      "Genetik faktorler",
+      "Kolajen azalmasi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Yuz yapisi ve ihtiyaclar degerlendirilir.",
+    "methods": [
+      "Yuz analizi",
+      "Hacim kaybi degerlendirmesi",
+      "Asimetri kontrolu",
+      "Beklenti gorusmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Yanak Dolgusu Uygulama",
+    "content": "Kanul veya igne ile yanak bolgesine dolgu enjeksiyonu yapilir.",
+    "options": [
+      {
+        "name": "Yanak Kemigi Vurgulama",
+        "description": "Zigomatik bolgeye dolgu ile yanak kemigi belirginlestirilir."
+      },
+      {
+        "name": "Hacim Artirma",
+        "description": "Cokmus yanakllara hacim kazandirma."
+      },
+      {
+        "name": "Tam Yuz Yenileme",
+        "description": "Yanak, sakak ve goz cevresi birlikte tedavi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuz anatomisi uzmanligi",
+      "Dogal ve orantili sonuclar",
+      "FDA onayli dolgular",
+      "Kanul teknigi ile guvenlik",
+      "Kisisellestirilmis yaklasim"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Yanak dolgusu ne kadar surer?",
+      "answer": "Kalici dolgu tipine bagli 12-18 ay surer."
+    },
+    {
+      "question": "Sonuc hemen gorunur mu?",
+      "answer": "Evet, aninda sonuc alinir. Sislik indikten sonra tam sonuc gorunur."
+    },
+    {
+      "question": "Dogal gorunur mu?",
+      "answer": "Dogru teknik ve dozajla cok dogal gorunur."
+    },
+    {
+      "question": "Yan etkileri nelerdir?",
+      "answer": "Gecici sislik, morarma olabilir. Ciddi yan etkiler nadirdir."
+    },
+    {
+      "question": "Dolgu eritilebilir mi?",
+      "answer": "Evet. Hyaluronik asit dolgular hyaluronidaz enzimi ile eritilebilir."
+    }
+  ],
+  "seo": {
+    "title": "Yanak Dolgusu Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de yanak dolgusu uygulamasi. Yanak hacim artirma, yanak kemigi belirginlestirme. Medikal estetik uzmani.",
+    "keywords": [
+      "yanak dolgusu",
+      "cheek filler",
+      "yanak hacmi",
+      "yuz dolgusu",
+      "medikal estetik izmir"
+    ]
+  },
+  "relatedDiseases": ["dudak-dolgusu", "cene-jawline-dolgusu", "goz-alti-isik-dolgusu"]
+}

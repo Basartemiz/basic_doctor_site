@@ -1,0 +1,123 @@
+{
+  "id": "isitme-kaybi",
+  "slug": "isitme-kaybi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Isitme Kaybi",
+  "subtitle": "Isitme Bozukluklari Tani ve Tedavisi",
+  "definition": {
+    "title": "Isitme Kaybi Nedir?",
+    "content": "Isitme kaybi, sesleri duyma yeteneginin kismi veya tam olarak azalmasidir. Iletim tipi (dis veya orta kulak kaynakli) veya sensorinorel tip (ic kulak veya isitme siniri kaynakli) olabilir. Her yas grubunda gorulebilir ve yasam kalitesini onemli olcude etkiler."
+  },
+  "symptoms": {
+    "title": "Isitme Kaybi Belirtileri",
+    "items": [
+      "Sesleri duymada zorluk",
+      "Televizyon veya radyo sesini yukseltme ihtiyaci",
+      "Konusmalari anlama guclugu",
+      "Kalabalik ortamlarda iletisim sorunlari",
+      "Surekli 'ne dedin?' diye sorma",
+      "Kulak cinlamasi (tinnitus)",
+      "Sosyal ortamlardan kacinma",
+      "Yorgunluk ve dikkat bozuklugu",
+      "Denge sorunlari",
+      "Tek kulakta belirgin zorluk"
+    ]
+  },
+  "causes": {
+    "title": "Isitme Kaybi Nedenleri",
+    "items": [
+      "Yaslanma (presbiyakuzi)",
+      "Gurultiye uzun sure maruziyet",
+      "Kulak enfeksiyonlari",
+      "Kulak zari delinmesi",
+      "Otoskleroz",
+      "Meniere hastaligi",
+      "Isitme siniri tumoru",
+      "Genetik faktorler",
+      "Ototoksik ilaclar",
+      "Kafa travmasi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Isitme Kaybi Tanisi",
+    "content": "Isitme kaybi tanisi icin kapsamli bir odyolojik degerlendirme yapilir. Kaybin tipi, derecesi ve nedeni belirlenir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Saf ses odyometrisi",
+      "Timpanometri",
+      "Otoakustik emisyon testi",
+      "Isitme beyinsapi cevaplari (ABR)",
+      "Temporal kemik BT veya MR"
+    ]
+  },
+  "treatment": {
+    "title": "Isitme Kaybi Tedavisi",
+    "content": "Tedavi, isitme kaybinin nedenine ve tipine gore belirlenir. Medikal, cerrahi veya rehabilitasyon yontemleri uygulanabilir.",
+    "options": [
+      {
+        "name": "Medikal Tedavi",
+        "description": "Enfeksiyon veya iltihaba bagli kayiplarda antibiyotik ve steroid tedavisi uygulanir."
+      },
+      {
+        "name": "Isitme Cihazi",
+        "description": "Sensorinorel isitme kayiplarinda modern dijital isitme cihazlari onerilir."
+      },
+      {
+        "name": "Orta Kulak Cerrahisi",
+        "description": "Kulak zari tamiri, kemikçik zincir rekonstruksiyonu veya stapedektomi yapilabilir."
+      },
+      {
+        "name": "Koklear Implant",
+        "description": "Cok ileri dereceli isitme kayiplarinda isitme cihazi yetersiz kaldiginda cerrahi olarak implant takilabilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kapsamli odyolojik degerlendirme imkani",
+      "Kulak cerrahisi uzmanligi",
+      "Guncel tedavi protokolleri",
+      "Isitme cihazi ve implant danismanligi",
+      "Multidisipliner yaklasim",
+      "Hasta odakli tedavi plani"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Isitme kaybi geri donusumlü mudur?",
+      "answer": "Iletim tipi isitme kayiplari genellikle tedavi edilebilir. Sensorinorel kayiplarda ise erken mudahale onemlidir, ancak tam iyilesme her zaman mumkun olmayabilir."
+    },
+    {
+      "question": "Isitme cihazi kullanmak utanilacak bir sey mi?",
+      "answer": "Kesinlikle hayir. Modern isitme cihazlari cok kucuk ve estetik tasarimlidir. Isitme kaybi yasam kalitesini cok etkiler, cihaz kullanmak bu kaliteyi arttirir."
+    },
+    {
+      "question": "Cocuklarda isitme kaybi nasil anlasilir?",
+      "answer": "Seslere tepkisizlik, konusma gecikmesi, okul basarisinda dusus ve dikkat bozuklugu belirtileri olabilir. Supheli durumlarda mutlaka odyolojik test yaptirin."
+    },
+    {
+      "question": "Gurultuye bagli isitme kaybi onlenebilir mi?",
+      "answer": "Evet. Gurultulu ortamlarda kulak koruyucu kullanmak, yuksek sesle muzik dinlememek ve ses seviyelerini kontrol etmek onemlidir."
+    },
+    {
+      "question": "Ani isitme kaybinda ne yapmaliyim?",
+      "answer": "Ani isitme kaybi acil bir durumdur. 24-48 saat icinde KBB uzmanina basvurmak gerekir. Erken tedavi basari sansini artirir."
+    }
+  ],
+  "seo": {
+    "title": "Isitme Kaybi Tedavisi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de isitme kaybi tedavisi. Isitme testi, isitme cihazi ve kulak cerrahisi. Ani isitme kaybi, yaslilik isitme kaybi tedavisi. KBB uzmani.",
+    "keywords": [
+      "isitme kaybi",
+      "isitme kaybi tedavisi",
+      "isitme testi izmir",
+      "odyometri",
+      "isitme cihazi",
+      "kulak cerrahisi",
+      "ani isitme kaybi"
+    ]
+  },
+  "relatedDiseases": ["kulak-enfeksiyonlari", "kulak-cinlamasi-tinnitus", "bas-donmesi-vertigo"]
+}

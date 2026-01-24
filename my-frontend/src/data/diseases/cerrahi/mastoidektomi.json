@@ -1,0 +1,113 @@
+{
+  "id": "mastoidektomi",
+  "slug": "mastoidektomi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Mastoidektomi",
+  "subtitle": "Mastoid Kemik Cerrahisi",
+  "definition": {
+    "title": "Mastoidektomi Nedir?",
+    "content": "Mastoidektomi, kulak arkasindaki mastoid kemigin enfekte veya hasta dokularinin cerrahi olarak temizlenmesidir. Kronik orta kulak iltihabı, kolesteatom veya mastoid apse tedavisinde uygulanir."
+  },
+  "symptoms": {
+    "title": "Mastoidektomi Gerektiren Durumlar",
+    "items": [
+      "Kronik supuratif otitis media",
+      "Kolesteatom",
+      "Mastoid apse",
+      "Tekrarlayan kulak akintisi",
+      "Isitme kaybi",
+      "Yuz felci riski",
+      "Intrakraniyal komplikasyon riski"
+    ]
+  },
+  "causes": {
+    "title": "Mastoid Hastaliginin Nedenleri",
+    "items": [
+      "Tedavi edilmeyen kronik otit media",
+      "Kolesteatom (cilt kisesi)",
+      "Akut mastoidit",
+      "Tüberküloz otit media",
+      "Travma"
+    ]
+  },
+  "diagnosis": {
+    "title": "Mastoidektomi Oncesi Degerlendirme",
+    "content": "Hastaligin yayilimi ve komplikasyon riski belirlenir.",
+    "methods": [
+      "Detayli kulak muayenesi",
+      "Otoendoskopi",
+      "Yuksek cozunurluklu temporal kemik BT",
+      "MR (intrakraniyal yayilim supphesi)",
+      "Odyometri"
+    ]
+  },
+  "treatment": {
+    "title": "Mastoidektomi Cerrahi Yaklasimlar",
+    "content": "Hastaligin tipi ve yayilimina gore farkli teknikler uygulanir.",
+    "options": [
+      {
+        "name": "Kortikal Mastoidektomi",
+        "description": "Mastoid hücrelerin temizlenmesi, kulak kanali korunur. Akut mastoidit ve implant cerrahisi oncesi uygulanir."
+      },
+      {
+        "name": "Kanal Duvar Yukari Mastoidektomi",
+        "description": "Kulak kanali arka duvari korunur. Kolesteatom temizligi ve timpanoplasti ile kombine edilir."
+      },
+      {
+        "name": "Kanal Duvar Asagi (Radikal) Mastoidektomi",
+        "description": "Kulak kanali ile mastoid tek kavite olusturulur. Yaygin hastalikta tercih edilir."
+      },
+      {
+        "name": "Modifiye Radikal Mastoidektomi",
+        "description": "Hastalık temizligi ile birlikte isitme koruma cabalari."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Otolojik cerrahi deneyimi",
+      "Hastalik tamamen temizleme odagi",
+      "Isitme koruma cabalari",
+      "Komplikasyon yonetimi tecrubesi",
+      "Modern cerrahi teknikler",
+      "Uzun vadeli takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Mastoidektomi tehlikeli mi?",
+      "answer": "Deneyimli ellerde guvenli bir ameliyattir. Tedavi edilmemesi daha tehlikelidir - menenjit ve beyin apsesine yol acabilir."
+    },
+    {
+      "question": "Ameliyat sonrasi isitme kaybi olur mu?",
+      "answer": "Hastaliga bagli zaten isitme kaybi vardir. Cerrahi sonrası isitme korunur veya iyilesir, nadiren kotulesir."
+    },
+    {
+      "question": "Kolesteatom nedir?",
+      "answer": "Kulak zarinin orta kulaga dogru buyumesi ile olusan cilt kisesidir. Kemik yikimina neden olur, cerrahi gerektirir."
+    },
+    {
+      "question": "Ameliyat sonrasi dikkat edilmesi gerekenler?",
+      "answer": "Kulagi kuru tutmak, ani basinc degisikliklerinden kacinmak ve kontrollere duzgun gitmek onemlidir."
+    },
+    {
+      "question": "Hastalik tekrarlar mi?",
+      "answer": "Kolesteatom tekrarlama riski tasir. Duzenli takip ve gerekirse ikinci cerrahi gerekebilir."
+    }
+  ],
+  "seo": {
+    "title": "Mastoidektomi Izmir - Mastoid Cerrahisi | Op. Dr. Banu Begen",
+    "description": "Izmir'de mastoidektomi ameliyati. Kronik kulak iltihabı, kolesteatom cerrahisi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "mastoidektomi",
+      "mastoid ameliyati",
+      "kolesteatom cerrahisi",
+      "kronik otit tedavisi",
+      "kulak cerrahisi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["timpanoplasti", "kulak-enfeksiyonlari", "isitme-kaybi"]
+}

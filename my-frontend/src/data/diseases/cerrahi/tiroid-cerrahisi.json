@@ -1,0 +1,115 @@
+{
+  "id": "tiroid-cerrahisi",
+  "slug": "tiroid-cerrahisi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Tiroid Cerrahisi",
+  "subtitle": "Tiroid Bezi Ameliyatlari",
+  "definition": {
+    "title": "Tiroid Cerrahisi Nedir?",
+    "content": "Tiroid cerrahisi, boyun on kismindaki tiroid bezinin kismi veya tamamen alinmasi islemidir. Tiroid nodulleri, guatr, tiroid kanseri ve hipertiroidi tedavisinde uygulanir. Deneyim gerektiren onemli bir cerrahi alandir."
+  },
+  "symptoms": {
+    "title": "Tiroid Cerrahisi Gerektiren Durumlar",
+    "items": [
+      "Buyuk tiroid nodulleri",
+      "Kanser supheli noduller",
+      "Tiroid kanseri",
+      "Basinc belirtileri yaratan guatr",
+      "Ilaca direncli hipertiroidi",
+      "Kozmetik kaygılar",
+      "Multinodüler guatr"
+    ]
+  },
+  "causes": {
+    "title": "Tiroid Hastaliklari Nedenleri",
+    "items": [
+      "Iyot eksikligi",
+      "Otoimmun hastaliklar (Hashimoto, Graves)",
+      "Genetik faktorler",
+      "Radyasyon maruziyeti",
+      "Bilinmeyen nedenler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Tiroid Cerrahisi Oncesi Degerlendirme",
+    "content": "Nodulun tipi ve cerrahii gerekliligi belirlenir.",
+    "methods": [
+      "Boyun muayenesi",
+      "Tiroid ultrasonografisi",
+      "Ince iğne aspirasyon biyopsisi",
+      "Tiroid fonksiyon testleri",
+      "Ses teli degerlendirmesi",
+      "Kalsiyum ve parathormon olcumu"
+    ]
+  },
+  "treatment": {
+    "title": "Tiroid Cerrahisi Tipleri",
+    "content": "Cerrahi tipi hastalığa gore belirlenir.",
+    "options": [
+      {
+        "name": "Lobektomi",
+        "description": "Tiroidin bir lobunun alinmasi. Tek tarafli noduller veya dusuk riskli kanserlerde."
+      },
+      {
+        "name": "Total Tiroidektomi",
+        "description": "Tum tiroid bezinin alinmasi. Kanser, multinodüler guatr veya Graves hastalıgında."
+      },
+      {
+        "name": "Subtotal Tiroidektomi",
+        "description": "Tiroidin büyük kisminin alinması, kücük bir parça bırakılması."
+      },
+      {
+        "name": "Tamamlayici Tiroidektomi",
+        "description": "Lobektomi sonrasi kanser tanisi konulursa geri kalan lobun cikarilmasi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Tiroid cerrahisi deneyimi",
+      "Sinir koruma teknikleri",
+      "Minimal iz birakaan kesi",
+      "Paratiroid koruma cabalari",
+      "Dusuk komplikasyon orani",
+      "Ameliyat sonrasi detayli takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Tiroid cerrahisi tehlikeli mi?",
+      "answer": "Deneyimli ellerde guvenli bir ameliyattir. Ses teli siniri ve paratiroid bezleri hassasiyetle korunur."
+    },
+    {
+      "question": "Ameliyat sonrasi ilac kullanmam gerekir mi?",
+      "answer": "Total tiroidektomi sonrasi omur boyu tiroid hormonu takviyesi gerekir. Lobektomi sonrasi genellikle gerekmez."
+    },
+    {
+      "question": "Ameliyat izi belirgin olur mu?",
+      "answer": "Kesi boyun kivrımina yapilir ve zamanla solar. Cogu hastada neredeyse gorunmez olur."
+    },
+    {
+      "question": "Ses kisilkligi riski var mi?",
+      "answer": "Ses teli siniri hasari riskin %1-2 civarindadir. Gecici ses değisiklikleri daha sik gorulebilir."
+    },
+    {
+      "question": "Kalsiyum eksikligi olur mu?",
+      "answer": "Total tiroidektomide paratiroid bezleri etkilenebilir. Genellikle gecicidir, kalici olması nadirdir."
+    }
+  ],
+  "seo": {
+    "title": "Tiroid Cerrahisi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de tiroid cerrahisi. Tiroid nodulu, guatr, tiroid kanseri ameliyati. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "tiroid cerrahisi",
+      "tiroid ameliyati",
+      "tiroidektomi",
+      "tiroid nodulu ameliyati",
+      "guatr cerrahisi",
+      "tiroid kanseri tedavisi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["ses-kisikligi", "yutma-guclugu"]
+}

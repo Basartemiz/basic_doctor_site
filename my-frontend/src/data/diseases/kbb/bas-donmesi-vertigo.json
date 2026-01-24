@@ -1,0 +1,123 @@
+{
+  "id": "bas-donmesi-vertigo",
+  "slug": "bas-donmesi-vertigo",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Bas Donmesi (Vertigo)",
+  "subtitle": "Vertigo ve Denge Bozukluklari Tedavisi",
+  "definition": {
+    "title": "Vertigo Nedir?",
+    "content": "Vertigo, cevrenin veya kisinin kendisinin donuyor hissi yaratan bir denge bozuklugudur. Ic kulaktaki vestibular sistem, beyincik veya beyin sapindaki sorunlardan kaynaklanabilir. En sik nedeni ic kulak kaynakli periferik vertigodur. Ani bas hareketleriyle tetiklenebilir ve bulanti-kusma eslik edebilir."
+  },
+  "symptoms": {
+    "title": "Vertigo Belirtileri",
+    "items": [
+      "Donme hissi (cevrenin veya kendinin)",
+      "Bulanti ve kusma",
+      "Denge kaybı ve yurume guclugu",
+      "Nistagmus (goz titresmesi)",
+      "Kulak cinlamasi",
+      "Isitme kaybi (bazi tiplerde)",
+      "Kulakta dolgunluk hissi",
+      "Terleme",
+      "Solgunluk",
+      "Ani bas hareketleriyle artis"
+    ]
+  },
+  "causes": {
+    "title": "Vertigo Nedenleri",
+    "items": [
+      "BPPV (iyi huylu pozisyonel vertigo)",
+      "Meniere hastaligi",
+      "Vestibular norit",
+      "Labirentit",
+      "Akustik noroma",
+      "Migren iliskili vertigo",
+      "Beyin sapi veya beyincik sorunlari",
+      "Boyun problemleri",
+      "Ilac yan etkileri",
+      "Tansiyon degisiklikleri"
+    ]
+  },
+  "diagnosis": {
+    "title": "Vertigo Tanisi",
+    "content": "Vertigo tanisinda detayli oykü ve fizik muayene kritik oneme sahiptir. Vertigo tipi ve nedeni belirlenerek uygun tedavi planlanır.",
+    "methods": [
+      "Norolojik ve KBB muayenesi",
+      "Dix-Hallpike ve Roll testleri",
+      "Videonistagmografi (VNG)",
+      "Odyometri ve timpanometri",
+      "Kranial MR",
+      "Kan testleri"
+    ]
+  },
+  "treatment": {
+    "title": "Vertigo Tedavisi",
+    "content": "Vertigo tedavisi nedene yonelik olarak planlanir. BPPV gibi bazi tipler basit manevralarla tedavi edilebilir.",
+    "options": [
+      {
+        "name": "Epley Manevrasi",
+        "description": "BPPV tedavisinde kullanilan, ic kulaktaki kristalleri yerlestiren etkili bir pozisyon manevrasi."
+      },
+      {
+        "name": "Vestibular Rehabilitasyon",
+        "description": "Ozel egzersizlerle denge sisteminin guclendirildigi fizyoterapi programi."
+      },
+      {
+        "name": "Medikal Tedavi",
+        "description": "Vestibular supresanlar, antiemetikler ve Meniere icin diuretikler kullanilabilir."
+      },
+      {
+        "name": "Cerrahi Tedavi",
+        "description": "Nadir durumlarda, tedaviye direncli vakalarda cerrahi secenekler degerlendirilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Vertigo tani ve tedavisinde uzmanlik",
+      "Epley ve diger manevralar icin deneyim",
+      "Kapsamli denge testleri",
+      "Multidisipliner yaklasim",
+      "Vestibular rehabilitasyon yonlendirmesi",
+      "Hasta egitimi ve takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "BPPV nedir ve nasil tedavi edilir?",
+      "answer": "BPPV, ic kulaktaki kristallerin yer degistirmesiyle olusan en sik vertigo nedenidir. Epley manevrası ile genellikle tek seansta tedavi edilebilir."
+    },
+    {
+      "question": "Vertigo tehlikeli midir?",
+      "answer": "Cogu vertigo ic kulak kaynakli olup tehlikeli degildir. Ancak ciddi bas agrisi, konusma bozuklugu, uyusma veya guc kaybi varsa acil degerlendirme gerekir."
+    },
+    {
+      "question": "Vertigo atagi sirasinda ne yapmaliyim?",
+      "answer": "Guvenli bir yere oturun veya uzanin. Ani hareketlerden kacinin. Gozlerinizi bir noktaya sabitleyin. Ataktan sonra KBB uzmanina basvurun."
+    },
+    {
+      "question": "Vertigo tekrarlar mi?",
+      "answer": "BPPV tekrarlayabilir ancak yeniden manevralarla tedavi edilir. Meniere ve diger durumlarda uzun vadeli yonetim gerekebilir."
+    },
+    {
+      "question": "Denge egzersizleri faydali mi?",
+      "answer": "Evet. Vestibular rehabilitasyon egzersizleri beynin dengeleme mekanizmalarini gelisitrir ve semptomlari azaltir."
+    }
+  ],
+  "seo": {
+    "title": "Vertigo (Bas Donmesi) Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de vertigo tedavisi. Bas donmesi, BPPV, Meniere hastaligi ve denge bozukluklari. Epley manevrası. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "vertigo tedavisi",
+      "bas donmesi",
+      "BPPV tedavisi",
+      "epley manevrasi",
+      "denge bozuklugu",
+      "meniere hastaligi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["kulak-cinlamasi-tinnitus", "isitme-kaybi", "kulak-enfeksiyonlari"]
+}

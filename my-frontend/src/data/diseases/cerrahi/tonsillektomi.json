@@ -1,0 +1,113 @@
+{
+  "id": "tonsillektomi",
+  "slug": "tonsillektomi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Tonsillektomi",
+  "subtitle": "Bademcik Ameliyati",
+  "definition": {
+    "title": "Tonsillektomi Nedir?",
+    "content": "Tonsillektomi, bogaz iki yanindaki bademciklerin (palatiin tonsil) cerrahi olarak cikarilmasidir. Tekrarlayan enfeksiyonlar, uyku apnesi veya bademcik buyuklugune bagli sorunlarin tedavisinde uygulanir."
+  },
+  "symptoms": {
+    "title": "Tonsillektomi Gerektiren Durumlar",
+    "items": [
+      "Tekrarlayan tonsillit (yilda 7+, 2 yilda 5+, 3 yilda 3+)",
+      "Kronik tonsillit",
+      "Peritonsilier apse oykusu",
+      "Buyuk bademciklere bagli yutma guclugu",
+      "Horlama ve uyku apnesi",
+      "Bademcik tas¸lari (tonsillolith)",
+      "Bademcik kanseri suphesi"
+    ]
+  },
+  "causes": {
+    "title": "Bademcik Sorunlarinin Nedenleri",
+    "items": [
+      "Tekrarlayan bakteriyel enfeksiyonlar",
+      "Kronik inflamasyon",
+      "Genetik yatkinlik",
+      "Bagisiklik sistemi ozellikleri",
+      "Cevre faktorleri"
+    ]
+  },
+  "diagnosis": {
+    "title": "Tonsillektomi Oncesi Degerlendirme",
+    "content": "Ameliyat endikasyonu ve genel saglik durumu degerlendirilir.",
+    "methods": [
+      "Bogaz muayenesi",
+      "Enfeksiyon gecmisi sorgulamasi",
+      "Uyku degerlendirmesi",
+      "Tam kan sayimi",
+      "Kanama-pihtilasma testleri"
+    ]
+  },
+  "treatment": {
+    "title": "Tonsillektomi Cerrahi Teknikleri",
+    "content": "Ameliyat genel anestezi altinda yapilir. Farkli teknikler mevcuttur.",
+    "options": [
+      {
+        "name": "Soguk Disseksiyon",
+        "description": "Geleneksel yontem. Biisturi ile bademciklerin cikarilmasi."
+      },
+      {
+        "name": "Elektrokoter",
+        "description": "Isitilmis alet ile kesme ve kanammayi durdurma birlikte yapilir."
+      },
+      {
+        "name": "Koblatör (Radyofrekans)",
+        "description": "Dusuk sicaklikta doku buhaarlastirilir. Daha az agri iddia edilir."
+      },
+      {
+        "name": "Intrakapsüller Tonsillektomi",
+        "description": "Bademcik kapsulu korunarak ic kisim alinir. Daha az agri ancak nuks riski."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuzlerce basarili ameliyat deneyimi",
+      "Cocuk ve eriskin hastalarda uzmanlik",
+      "Guvenli cerrahi teknikler",
+      "Agri yonetimi protokolleri",
+      "Dusuk komplikasyon orani",
+      "Ameliyat sonrasi 7/24 ulasılabilirlik"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Tonsillektomi agrili mi?",
+      "answer": "Ameliyat sonrasi bogaz agrisi olur ve 7-14 gun surer. Duzenli agri kesici kullanimi ile kontrol edilir."
+    },
+    {
+      "question": "Iyilesme sureci nasil ilerler?",
+      "answer": "Ilk 3-5 gun en zor donemdir. Cogu hasta 7-10 gunde normale doner. Tam iyilesme 2-3 hafta surer."
+    },
+    {
+      "question": "Ameliyat sonrasi kanama olur mu?",
+      "answer": "Ameliyat sonrasi kanama %2-4 oraninda gorulebilir. Genellikle 5-10. gunlerde olur. Acil mudahale gerektirir."
+    },
+    {
+      "question": "Bademcik almak bagisikligi zayiflatir mi?",
+      "answer": "Hayir. Vucutta baska lenfoid dokular bu gorevi ustlenir. Ameliyat sonrası enfeksiyon sikligi genellikle azalir."
+    },
+    {
+      "question": "Ameliyat sonrasi ne yiyebilirim?",
+      "answer": "Ilk gunler soguk, yumusak gidallar (dondurma, yogurt, pudingg). Sicak, asitli ve sert yiyeceklerden kacinilmali."
+    }
+  ],
+  "seo": {
+    "title": "Tonsillektomi Izmir - Bademcik Ameliyati | Op. Dr. Banu Begen",
+    "description": "Izmir'de tonsillektomi ameliyati. Tekrarlayan bademcik iltihabı, uyku apnesi tedavisi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "tonsillektomi",
+      "bademcik ameliyati",
+      "bademcik aldirma",
+      "tonsillit cerrahisi",
+      "cocuk bademcik ameliyati",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["bademcik-geniz-eti", "bogaz-enfeksiyonlari", "horlama-uyku-apnesi"]
+}

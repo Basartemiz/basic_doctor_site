@@ -1,0 +1,122 @@
+{
+  "id": "bogaz-enfeksiyonlari",
+  "slug": "bogaz-enfeksiyonlari",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Bogaz Enfeksiyonlari",
+  "subtitle": "Farenjit, Tonsillit ve Larenjit Tedavisi",
+  "definition": {
+    "title": "Bogaz Enfeksiyonu Nedir?",
+    "content": "Bogaz enfeksiyonlari; yutak (farenjit), bademcik (tonsillit) ve girtlak (larenjit) bolgesini etkileyen iltihaplanmalardir. Viral veya bakteriyel kaynakli olabilir. En sik soguk alginligi ile birlikte gorulur."
+  },
+  "symptoms": {
+    "title": "Bogaz Enfeksiyonu Belirtileri",
+    "items": [
+      "Bogaz agrisi",
+      "Yutma guclugu",
+      "Bogaz yanmasi",
+      "Ses kisikligi",
+      "Ates",
+      "Bademciklerde silik ve beyazlik",
+      "Boyun lenf bezlerinde silik",
+      "Bas agrisi",
+      "Halsizlik ve yorgunluk",
+      "Oksuruk"
+    ]
+  },
+  "causes": {
+    "title": "Bogaz Enfeksiyonu Nedenleri",
+    "items": [
+      "Viral enfeksiyonlar (%80-90)",
+      "Streptokok bakterisi (A grubu beta hemolitik)",
+      "Diger bakteriler (stafilokok vs)",
+      "Souk alginligi ve grip",
+      "Mantar enfeksiyonlari (nadir)",
+      "Kuru hava ve kirli ortam",
+      "Sigara dumani",
+      "Alerji",
+      "Reflu",
+      "Bagisiklik sistemi zayifligi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Bogaz Enfeksiyonu Tanisi",
+    "content": "Viral ve bakteriyel enfeksiyon ayrimi tedavi planlamasi icin onemlidir.",
+    "methods": [
+      "Detayli bogaz muayenesi",
+      "Hizli streptokok testi",
+      "Bogaz kuluru",
+      "Tam kan sayimi",
+      "CRP ve sedimantasyon",
+      "Monospot testi (EBV icin)"
+    ]
+  },
+  "treatment": {
+    "title": "Bogaz Enfeksiyonu Tedavisi",
+    "content": "Tedavi enfeksiyonun tipine gore belirlenir. Viral enfeksiyonlarda destek tedavisi, bakteriyel enfeksiyonlarda antibiyotik kullanilir.",
+    "options": [
+      {
+        "name": "Destek Tedavisi",
+        "description": "Bol sivi, gargaravistirahat, nem ve agri kesiciler viral enfeksiyonlarin tedavisinde yeterlidir."
+      },
+      {
+        "name": "Antibiyotik Tedavisi",
+        "description": "Streptokok enfeksiyonlarinda penisilin grubu antibiyotikler 10 gun kullanilir."
+      },
+      {
+        "name": "Topikal Tedaviler",
+        "description": "Bogaz spreyileri, pastiller ve gargaralar rahatlatici etki saglar."
+      },
+      {
+        "name": "Bademcik Ameliyati",
+        "description": "Tekrarlayan enfeksiyonlarda tonsillektomi (bademcik ameliyati) onerilabilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Dogru tani ile gereksiz antibiyotik kullanimi onlenir",
+      "Hizli streptokok testi imkani",
+      "Cocuk ve eriskin hasta deneyimi",
+      "Tekrarlayan enfeksiyonlarda kapsamli degerlendirme",
+      "Cerrahi tedavi gerektiginde uzmanlik",
+      "Koruyucu saglik danismanligi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Her bogaz agrisinda antibiyotik gerekli mi?",
+      "answer": "Hayir. Cogu bogaz agrisi viral kaynaklidir ve antibiyotik gerektirmez. Yalnizca bakteriyel enfeksiyonlarda antibiyotik kullanilir."
+    },
+    {
+      "question": "Streptokok bogaz enfeksiyonu tehlikeli mi?",
+      "answer": "Tedavi edilmezse romatizmal ates ve bobrek iltihabı gibi komplikasyonlara yol acabilir. Bu nedenle antibiyotik tedavisi tamamlanmalidir."
+    },
+    {
+      "question": "Cocugumun bademcikleri sik sik iltihaplanıyor, ne yapmaliyim?",
+      "answer": "Yilda 7 veya daha fazla enfeksiyon varsa bademcik ameliyati degerlendirilmelidir. KBB uzmanina daniaşin."
+    },
+    {
+      "question": "Bogaz enfeksiyonu bulasici mi?",
+      "answer": "Evet. Hem viral hem bakteriyel bogaz enfeksiyonlari damlacik yoluyla bulasabilir. El yikamak ve ortak esya kullanmamak onemlidir."
+    },
+    {
+      "question": "Bogaz agrisi evde nasil hafifletilir?",
+      "answer": "Ilik tuzlu su gargarasi, bol sivi, balli limonlu içecekler ve nem rahatlatici olabilir. Ates ve agri icin ilac alinabilir."
+    }
+  ],
+  "seo": {
+    "title": "Bogaz Enfeksiyonu Tedavisi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de bogaz enfeksiyonu tedavisi. Farenjit, tonsillit, streptokok bogaz enfeksiyonu belirtileri ve tedavisi. KBB uzmani.",
+    "keywords": [
+      "bogaz enfeksiyonu",
+      "bogaz agrisi tedavisi",
+      "tonsillit",
+      "farenjit",
+      "streptokok enfeksiyonu",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["ses-kisikligi", "bademcik-geniz-eti", "yutma-guclugu"]
+}

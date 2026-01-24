@@ -1,0 +1,118 @@
+{
+  "id": "dudak-dolgusu",
+  "slug": "dudak-dolgusu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Dudak Dolgusu",
+  "subtitle": "Dogal ve Estetik Dudak Sekillendirme",
+  "definition": {
+    "title": "Dudak Dolgusu Nedir?",
+    "content": "Dudak dolgusu, hyaluronik asit bazli dolgu maddeleri kullanilarak dudaklara hacim kazandiran ve sekillendiren non-invaziv bir estetik prosedurdur. Ince dudaklari dolgunlastirmak, asimetriyi duzelltmek, dudak hatlarini belirginlestirmek ve yaslanmayla kaybedilen hacmi geri kazanmak icin uygulanir. Sonuclar aninda gorunur ve dogal bir gorunum hedeflenir."
+  },
+  "symptoms": {
+    "title": "Dudak Dolgusu Kimlere Uygulanir?",
+    "items": [
+      "Dogal olarak ince dudaklari olanlar",
+      "Yaslanmayla dudak hacmi kaybedenler",
+      "Dudak asimetrisi olanlar",
+      "Dudak hattini belirginlestirmek isteyenler",
+      "Dudak cevresindeki ince cizgileri azaltmak isteyenler",
+      "Daha dolu ve sekilli dudaklar isteyenler",
+      "Cupid yayini (ust dudak V sekli) belirginlestirmek isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Dudak Dolgusu Tercih Nedenleri",
+    "items": [
+      "Genetik olarak ince dudak yapisi",
+      "Yaslanmayla birlikte dudak hacmi kaybi",
+      "Kolajen uretiminin azalmasi",
+      "Dudak hatlarinin belirsizlesmesi",
+      "Orantisiz yuz gorunumu",
+      "Ozguven artisi istegi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Dudak dolgusu oncesi detayli bir konsultasyon yapilir. Yuz anatomisi, beklentiler ve uygun dolgu miktari belirlenir.",
+    "methods": [
+      "Yuz analizi ve olcum",
+      "Beklenti ve hedef belirleme",
+      "Saglik gecmisi degerlendirmesi",
+      "Alerji sorgulamasi",
+      "Onceki estetik islem gecmisi",
+      "Fotograf dokumantasyonu"
+    ]
+  },
+  "treatment": {
+    "title": "Dudak Dolgusu Uygulama Yontemleri",
+    "content": "Dudak dolgusu, lokal anestezi sonrasi ince ignelerle uygulanir. Islem 15-30 dakika surer ve aninda sonuc alinir.",
+    "options": [
+      {
+        "name": "Hacim Artirici Dolgu",
+        "description": "Ince dudaklara hacim kazandirmak icin uygulanan standart dolgu teknigi. Dogal ve orantili sonuclar hedeflenir."
+      },
+      {
+        "name": "Dudak Hatti Belirleme",
+        "description": "Dudak sinirlarina uygulanan ince dolgu ile hat belirginlestirilir. Ozellikle makyaj yaparken daha belirgin dudak hatti saglar."
+      },
+      {
+        "name": "Russian Lip Teknigi",
+        "description": "Dudaga dikey enjeksiyonlarla yukari dogru hacim kazandiran teknik. Daha belirgin cupid yayi ve kalp seklinde dudak olusturur."
+      },
+      {
+        "name": "Asimetri Duzeltme",
+        "description": "Dudaklar arasindaki orantisizligi gideren hedefli dolgu uygulamasi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Tibbi uzmanlik ve estetik bakis açisinin birlesimi",
+      "FDA onayli, guvenilir dolgu maddeleri",
+      "Dogal sonuc odakli yaklasim",
+      "Yuz anatomisi uzmanligi (KBB ve yuz cerrahisi gecmisi)",
+      "Steril klinik ortami",
+      "Kisisellestirilmis tedavi plani",
+      "Uygulama sonrasi takip ve destek"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Dudak dolgusu ne kadar surer?",
+      "answer": "Hyaluronik asit bazli dudak dolgulari genellikle 6-12 ay surer. Etki suresi kisinin metabolizmasina, yasam tarzina ve kullanilan dolgu tipine gore degisir."
+    },
+    {
+      "question": "Dudak dolgusu agrili midir?",
+      "answer": "Islem oncesi topikal veya lokal anestezi uygulanir. Ayrica cogu dolgu icinde anestezik madde bulunur. Hafif bir rahatsizlik hissedilebilir ancak agrili degildir."
+    },
+    {
+      "question": "Dudak dolgusu dogal gorunur mu?",
+      "answer": "Dogru teknik ve uygun miktarda dolgu kullanildiginda sonuc cok dogal gorunur. Abartili gorunumden kaçinmak icin asiri dolgu yapilmaz."
+    },
+    {
+      "question": "Dudak dolgusu sonrasi sislik olur mu?",
+      "answer": "Islem sonrasi 2-3 gun hafif sislik ve morarma olabilir. Buz uygulamasi ile azaltilabilir. 1 hafta icinde tamamen gecer ve nihai sonuc gorunur."
+    },
+    {
+      "question": "Dudak dolgusu geri donusumsuz mudur?",
+      "answer": "Hayir, hyaluronik asit bazli dolgular geri donusumludur. Istenmeyen durumlarda hyaluronidaz enzimi ile eritilebilir."
+    }
+  ],
+  "seo": {
+    "title": "Dudak Dolgusu Izmir | Dogal Sonuclar - Op. Dr. Banu Begen",
+    "description": "Izmir'de dudak dolgusu uygulamasi. Dogal gorunumlu, FDA onayli hyaluronik asit dolgularla dudak sekillendirme. Op. Dr. Banu Begen Medikal Estetik.",
+    "keywords": [
+      "dudak dolgusu",
+      "dudak dolgusu izmir",
+      "lip filler",
+      "hyaluronik asit dolgu",
+      "dudak kalinlastirma",
+      "dudak sekillendirme",
+      "medikal estetik izmir",
+      "dogal dudak dolgusu"
+    ]
+  },
+  "relatedDiseases": ["yanak-dolgusu", "cene-jawline-dolgusu", "burun-dolgusu"]
+}

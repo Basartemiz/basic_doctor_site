@@ -1,0 +1,110 @@
+{
+  "id": "radyofrekans",
+  "slug": "radyofrekans",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Radyofrekans",
+  "subtitle": "Cilt Sikilastirma ve Kollajen Uyarimi",
+  "definition": {
+    "title": "Radyofrekans Tedavisi Nedir?",
+    "content": "Radyofrekans (RF), radyo dalgalari kullanarak cilt altini isitan ve kollajen uretimini uyaran non-invaziv cilt sikilastirma tedavisidir. Ciilt gevssekligi, kirisikliklar ve vucut konturlama icin kullanilir."
+  },
+  "symptoms": {
+    "title": "Radyofrekans Kimlere Uygulanir?",
+    "items": [
+      "Cilt gevssekligi olanlar",
+      "Kirisiklik ve ince cizgileri olanlar",
+      "Cene ve boyun sarkmasi olanlar",
+      "Ameliyat istemeyenler",
+      "Vucut sikilastirma isteyenler",
+      "Selulit sorunu olanlar"
+    ]
+  },
+  "causes": {
+    "title": "Cilt Gevssekligi Nedenleri",
+    "items": [
+      "Yaslanma",
+      "Kolajen ve elastin kaybi",
+      "Gunes hasari",
+      "Kilo kaybi",
+      "Genetik faktorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Cilt durumu ve hedefler belirlenir.",
+    "methods": [
+      "Cilt elastikiyeti degerlendirmesi",
+      "Sarkma derecesi tespiti",
+      "Hedef bolge belirleme",
+      "Beklenti gorusmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Radyofrekans Uygulama",
+    "content": "Ozel baslik cilde tutularak RF enerjisi verilir. Agrisiz bir islemdir.",
+    "options": [
+      {
+        "name": "Yuz RF",
+        "description": "Yuz ve boyun bolgesinde sikilastirma."
+      },
+      {
+        "name": "Goz Cevresi RF",
+        "description": "Goz cevresi cizgi ve gevssekligi icin."
+      },
+      {
+        "name": "Vucut RF",
+        "description": "Karin, kol, bacak sikilastirma ve selulit tedavisi."
+      },
+      {
+        "name": "Mikroiğneli RF",
+        "description": "Daha derin etki icin mikroigneler ile kombine."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kaliteli RF cihazlari",
+      "Deneyimli uygulama",
+      "Kombine tedavi seçenekleri",
+      "Non-invaziv alternatifler",
+      "Duzenli bakim protokolleri"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Radyofrekans agrili mi?",
+      "answer": "Agrisizdir. Sicaklik hissi vardir, rahatsiz edici degildir."
+    },
+    {
+      "question": "Kac seans gerekir?",
+      "answer": "Genellikle 4-6 seans onerilir. Haftalik veya 2 haftalik araklarla."
+    },
+    {
+      "question": "Sonuc ne zaman gorulur?",
+      "answer": "Her seans sonrasi kismi etki gorunur. Tam kollajen uretimi 2-3 ay surer."
+    },
+    {
+      "question": "Etki ne kadar kalici?",
+      "answer": "Kollajen uretimi devam ettikce etki artar. Yilda 1-2 bakim seansi onerilir."
+    },
+    {
+      "question": "Ameliyat yerine gecer mi?",
+      "answer": "Hafif-orta gevvseklikte iyi sonuc verir. Ileri sarkmalarda cerrahi gerekir."
+    }
+  ],
+  "seo": {
+    "title": "Radyofrekans Tedavisi Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de radyofrekans tedavisi. Cilt sikilastirma, yuz germe, selulit tedavisi. Non-invaziv medikal estetik.",
+    "keywords": [
+      "radyofrekans",
+      "cilt sikilastirma",
+      "RF tedavisi",
+      "yuz germe",
+      "selulit tedavisi",
+      "radyofrekans izmir"
+    ]
+  },
+  "relatedDiseases": ["mezoterapi", "prp-tedavisi", "kimyasal-peeling"]
+}

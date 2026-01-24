@@ -1,0 +1,114 @@
+{
+  "id": "timpanoplasti",
+  "slug": "timpanoplasti",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Timpanoplasti",
+  "subtitle": "Kulak Zari Onarimi Ameliyati",
+  "definition": {
+    "title": "Timpanoplasti Nedir?",
+    "content": "Timpanoplasti, yirtik veya hasarli kulak zarinin onarilmasi icin yapilan cerrahi islemdir. Kronik orta kulak iltihabı sonucu olusan kulak zari perforsyonlari, isitme kaybina ve tekrarlayan enfeksiyonlara neden olabilir."
+  },
+  "symptoms": {
+    "title": "Timpanoplasti Gerektiren Durumlar",
+    "items": [
+      "Kulak zarinda delik (perforasyon)",
+      "Tekrarlayan kulak akintisi",
+      "Isitme kaybi",
+      "Kulak cinlamasi",
+      "Kulaga su kacinca enfeksiyon",
+      "Kronik orta kulak iltihabı"
+    ]
+  },
+  "causes": {
+    "title": "Kulak Zari Perforsyonu Nedenleri",
+    "items": [
+      "Kronik orta kulak iltihabı",
+      "Akut otit media komplikasyonu",
+      "Travma (kulak cubugu, sili, tokat)",
+      "Basinc degisiklikleri (dalma, ucak)",
+      "Ventilasyon tupu sonrasi",
+      "Kulak cerrahisi komplikasyonu"
+    ]
+  },
+  "diagnosis": {
+    "title": "Timpanoplasti Oncesi Degerlendirme",
+    "content": "Ameliyat oncesi kulak durumu ve isitme seviyesi detayli degerlendirilir.",
+    "methods": [
+      "Otoskopik muayene",
+      "Otoendoskopi",
+      "Saf ses odyometrisi",
+      "Timpanometri",
+      "Temporal kemik BT (gerekirse)",
+      "Isitme kemigi degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Timpanoplasti Cerrahi Teknikleri",
+    "content": "Ameliyat kulak arkasi veya kulak kanali yoluyla yapilabilir. Yama materyali genellikle kendi dokularinizdan alinir.",
+    "options": [
+      {
+        "name": "Tip I Timpanoplasti (Miringoplasti)",
+        "description": "Yalnizca kulak zarinin onarimi. Kemikçik zinciri saglam vakalarda uygulanir."
+      },
+      {
+        "name": "Tip II-IV Timpanoplasti",
+        "description": "Kulak zari onarimi ile birlikte kemikçik zinciri rekonstruksiyonu yapilir."
+      },
+      {
+        "name": "Timpanoplasti + Mastoidektomi",
+        "description": "Kronik mastoidit eslik ettiginde mastoid kemik de temizlenir."
+      },
+      {
+        "name": "Endoskopik Timpanoplasti",
+        "description": "Endoskop yardimiyla kulak kanali yoluyla yapilan minimal invaziv yaklasim."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kulak cerrahisi deneyimi",
+      "Endoskopik ve klasik teknikler",
+      "Yuksek basari orani",
+      "Isitme koruma ve iyilestirme odagi",
+      "Modern cerrahi ekipman",
+      "Ameliyat sonrasi yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Timpanoplasti basari orani nedir?",
+      "answer": "Basari orani %80-95 arasindadir. Perforasyonun buyuklugu, yeri ve eslik eden hastaliklar sonucu etkiler."
+    },
+    {
+      "question": "Ameliyat sonrasi isitme duzlir mi?",
+      "answer": "Cogu hastada isitme duzlir. Kemikçik sorunu yoksa tam iyilesme beklenir."
+    },
+    {
+      "question": "Iyilesme sureci nasil ilerler?",
+      "answer": "Kulak icindeki tamponlar 2-3 haftada cikar. Tam iyilesme 6-8 hafta surer. Bu surede kulagi kuru tutmak onemlidir."
+    },
+    {
+      "question": "Ameliyat sonrasi yuzmeye baslayabilir miyim?",
+      "answer": "Tam iyilesme saglandiktan sonra (genellikle 2-3 ay) yuzmeye baslanabilir."
+    },
+    {
+      "question": "Kulak zari kendisi iyilesir mi?",
+      "answer": "Kucuk perforasyonlar kendilliginden kapanabilir. 3 aydan uzun suren veya buyuk perforasyonlarda cerrahi gerekir."
+    }
+  ],
+  "seo": {
+    "title": "Timpanoplasti Izmir - Kulak Zari Onarimi | Op. Dr. Banu Begen",
+    "description": "Izmir'de timpanoplasti ameliyati. Kulak zari perforasyonu onarimi, isitme kaybi tedavisi. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "timpanoplasti",
+      "kulak zari ameliyati",
+      "kulak zari perforasyonu",
+      "kulak zari onarimi",
+      "miringoplasti",
+      "kulak cerrahisi izmir"
+    ]
+  },
+  "relatedDiseases": ["kulak-enfeksiyonlari", "isitme-kaybi", "mastoidektomi"]
+}

@@ -1,0 +1,123 @@
+{
+  "id": "alerjik-rinit",
+  "slug": "alerjik-rinit",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Alerjik Rinit",
+  "subtitle": "Mevsimsel ve Yilboyu Alerji Tedavisi",
+  "definition": {
+    "title": "Alerjik Rinit Nedir?",
+    "content": "Alerjik rinit, burun mukozasinin alerjenlere karsi asiri duyarlilik reaksiyonudur. Mevsimsel (saman nezlesi) veya yilboyu (pereniyal) olabilir. Polen, toz akarilari, kuf mantarlari ve hayvan tuyleri en sik alerjenlerdir. Yasam kalitesini onemli olcude etkiler."
+  },
+  "symptoms": {
+    "title": "Alerjik Rinit Belirtileri",
+    "items": [
+      "Burun tikanikligi",
+      "Burun akintisi (berrak, sulu)",
+      "Ardarda aksirma nobetleri",
+      "Burun ve damak kasintisi",
+      "Gozlerde kasinma, kirazma ve sullanma",
+      "Bogaz kasintisi",
+      "Oksuruk",
+      "Bas agrisi",
+      "Koku alma bozuklugu",
+      "Yorgunluk ve konsantrasyon guclugu"
+    ]
+  },
+  "causes": {
+    "title": "Alerjik Rinit Nedenleri ve Tetikleyicileri",
+    "items": [
+      "Agac, cimen ve ot polenleri",
+      "Ev tozu akarilari",
+      "Kuf ve kuf mantari sporlari",
+      "Evcil hayvan tuyleri ve derileri",
+      "Hamam bocegi alerjenleri",
+      "Genetik yatkinlik",
+      "Hava kirliligi",
+      "Sigara dumani",
+      "Parfum ve kimyasal kokular",
+      "Ani hava degisiklikleri"
+    ]
+  },
+  "diagnosis": {
+    "title": "Alerjik Rinit Tanisi",
+    "content": "Tani, detayli hasta oykusu, fizik muayene ve alerji testleri ile konur. Tetikleyici alerjenlerin belirlenmesi tedavi icin onemlidir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Burun endoskopisi",
+      "Deri prick testi",
+      "Kanda spesifik IgE olcumu",
+      "Nazal sitoloji",
+      "Paranazal sinus BT (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Alerjik Rinit Tedavisi",
+    "content": "Tedavi, alerjen kacınma, medikal tedavi ve immunoterapi seceneklerini icerir. Bireysel tedavi plani olusturulur.",
+    "options": [
+      {
+        "name": "Alerjen Kacınma",
+        "description": "Tetikleyici alerjenlere maruziyetin azaltilmasi icin cevre duzenleme onerileri verilir."
+      },
+      {
+        "name": "Antihistaminikler",
+        "description": "Aksirma, kasinma ve akinti belirtilerini azaltan ilaclar kullanilir."
+      },
+      {
+        "name": "Nazal Kortikosteroidler",
+        "description": "Burun tikanikligi ve iltihaplanmayi azaltan en etkili medikal tedavi yontemidir."
+      },
+      {
+        "name": "Immunoterapi (Allerji Asisi)",
+        "description": "Uzun vadeli tedavi icin alerjenlere karsi bagisgiklik sistemi toleransinin gelistirilmesi saglanir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kapsamli alerji degerlendirmesi",
+      "Guncel tedavi protokolleri",
+      "Immunoterapi deneyimi",
+      "Kisisellestirilmis tedavi plani",
+      "Eslik eden sorunlarin tedavisi",
+      "Uzun vadeli takip ve destek"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Alerjik rinit tedavi edilebilir mi?",
+      "answer": "Alerjik rinit tam olarak ortadan kaldirilamaz, ancak belirtiler iyi kontrol altina alinabilir. Immunoterapi ile uzun vadeli rahatlama saglanabilir."
+    },
+    {
+      "question": "Alerji testleri agrili midir?",
+      "answer": "Deri prick testi minimal rahatsizlik verir ve agrili degildir. Kan testleri ise basit kan ornegi alinmasiyla yapilir."
+    },
+    {
+      "question": "Mevsimsel alerji nasil onlenir?",
+      "answer": "Polen mevsiminde disarida gunes gozlugu takin, eve gelince dus alin, pencere kapalı tutun ve hava filtreleri kullanin."
+    },
+    {
+      "question": "Cocuklarda alerjik rinit nasil tedavi edilir?",
+      "answer": "Cocuklarda da benzer tedavi prensipleri uygulanir. Yas grubuna uygun ilaclar ve dozlar kullanilir."
+    },
+    {
+      "question": "Alerjik rinit astima yol acar mi?",
+      "answer": "Alerjik rinit ve astim birbiriyle iliskilidir. Alerjik rinitin iyi tedavisi astim kontrolunde de yardimci olur."
+    }
+  ],
+  "seo": {
+    "title": "Alerjik Rinit Tedavisi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de alerjik rinit ve saman nezlesi tedavisi. Alerji testleri, immunoterapi ve medikal tedavi secenekleri. KBB uzmani.",
+    "keywords": [
+      "alerjik rinit",
+      "alerji tedavisi",
+      "saman nezlesi",
+      "burun alerjisi",
+      "alerji testi izmir",
+      "immunoterapi",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["sinuzit", "burun-tikanikligi", "koku-alma-bozukluklari"]
+}

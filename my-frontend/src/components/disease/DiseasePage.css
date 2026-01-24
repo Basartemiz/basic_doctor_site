@@ -1,0 +1,34 @@
+.disease-page {
+  min-height: 100vh;
+}
+
+/* Ensure consistent section spacing */
+.disease-page section {
+  position: relative;
+}
+
+/* Container consistency */
+.disease-page .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+}
+
+@media (max-width: 768px) {
+  .disease-page .container {
+    padding: 0 var(--space-md);
+  }
+}
+
+/* Print styles */
+@media print {
+  .disease-page {
+    background: white;
+  }
+
+  .disease-hero-actions,
+  .disease-cta,
+  .disease-related {
+    display: none;
+  }
+}

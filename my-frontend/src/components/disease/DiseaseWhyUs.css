@@ -1,0 +1,74 @@
+.disease-why-us {
+  padding: var(--space-3xl) 0;
+  background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
+}
+
+.why-us-card {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.why-us-badge {
+  width: 64px;
+  height: 64px;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto var(--space-lg);
+  color: white;
+}
+
+.why-us-card h2 {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.75rem;
+  color: white;
+  margin: 0 0 var(--space-2xl);
+}
+
+.why-us-points {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: var(--space-md);
+  text-align: left;
+}
+
+.why-us-point {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius-md);
+  backdrop-filter: blur(4px);
+}
+
+.point-check {
+  width: 28px;
+  height: 28px;
+  background: white;
+  border-radius: var(--radius-full);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-primary);
+  flex-shrink: 0;
+}
+
+.why-us-point span:last-child {
+  color: white;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 768px) {
+  .why-us-card h2 {
+    font-size: 1.5rem;
+  }
+
+  .why-us-points {
+    grid-template-columns: 1fr;
+  }
+}

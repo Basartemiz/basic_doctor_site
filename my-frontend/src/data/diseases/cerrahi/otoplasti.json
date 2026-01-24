@@ -1,0 +1,110 @@
+{
+  "id": "otoplasti",
+  "slug": "otoplasti",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Otoplasti",
+  "subtitle": "Kepce Kulak Duzeltme Ameliyati",
+  "definition": {
+    "title": "Otoplasti Nedir?",
+    "content": "Otoplasti, one dogru cikik kulakllarin (kepce kulak) duzeltilmesi icin yapilan estetik cerrahi islemdir. Kulak kikirrdaginin yeniden sekillendirilmesi ile kulaklar basa yakinlastiirilir. Hem cocuklarda hem eriskinlerde uygulanabilir."
+  },
+  "symptoms": {
+    "title": "Otoplasti Kimlere Uygulanir?",
+    "items": [
+      "One cikik kulaklar (kepce kulak)",
+      "Kulaklar arasi asimetri",
+      "Buyuk kulak yapisi",
+      "Kulak kivrimlarinin yoklugu",
+      "Psikolojik rahatsizlik ve ozguven sorunu",
+      "Okul caginda alay konusu olma"
+    ]
+  },
+  "causes": {
+    "title": "Kepce Kulak Nedenleri",
+    "items": [
+      "Antiheliks kivrimi gelisim bozuklugu",
+      "Asiri gelismis konka (kulak cukuru)",
+      "Genetik faktorler",
+      "Dogumsal yapisal ozellik"
+    ]
+  },
+  "diagnosis": {
+    "title": "Otoplasti Oncesi Degerlendirme",
+    "content": "Kulak yapisi ve beklentiler detayli degerlendirilir.",
+    "methods": [
+      "Kulak yapisinin muayenesi",
+      "Fotografik dokumantasyon",
+      "Kulak olcumleri",
+      "Hasta/ebeveyn beklenti gorusmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Otoplasti Cerrahi Teknikleri",
+    "content": "Ameliyat kulak arkasi kesisi ile yapilir. Farkli teknikler kombine edilebilir.",
+    "options": [
+      {
+        "name": "Mustarde Teknigi",
+        "description": "Antiheliks kivrimi olusturmak icin dikis teknigi kullanilir."
+      },
+      {
+        "name": "Konka Rezeksiyonu",
+        "description": "Buyuk konka kikirdagindan parca cikarilerek kulak basaa yakinlasstirilir."
+      },
+      {
+        "name": "Konka Setback",
+        "description": "Konka kikirdagi mastoid kemige dikilerek basa yakinlastirilir."
+      },
+      {
+        "name": "Kombine Teknikler",
+        "description": "Kulak yapisina gore birden fazla teknik birlikte uygulanır."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Otoplasti deneyimi",
+      "Dogal ve simetrik sonuclar",
+      "Cocuk hastalara uygun yaklasim",
+      "Minimal iz birakaan teknik",
+      "Detayli ameliyat oncesi planlama",
+      "Ameliyat sonrasi yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Otoplasti kac yasinda yapilabilir?",
+      "answer": "Kulak 5-6 yasinda eriskin boyutuna ulasir. Okul oncesi (5-6 yas) ideal zamandır, ancak her yasta yapilabilir."
+    },
+    {
+      "question": "Otoplasti agrili mi?",
+      "answer": "Ameliyat anestezi altinda yapilir. Ameliyat sonrasi hafif agri vardir, agri kesicilerle kontrol edilir."
+    },
+    {
+      "question": "Iyilesme sureci nasil ilerler?",
+      "answer": "Bandaj 1-2 gunde alinir, dikisler 7-10 gunde alinir. 4-6 hafta gece bantli kullanilir."
+    },
+    {
+      "question": "Ameliyat izi kalir mi?",
+      "answer": "Kesi kulak arkasinda yapilir, iz zamanla soler ve neredeyse gorunmez olur."
+    },
+    {
+      "question": "Sonuc kalici mi?",
+      "answer": "Evet. Dogru yapilan otoplasti kalici sonuc verir. Nadir durumlarda kismi gevşeme olabilir."
+    }
+  ],
+  "seo": {
+    "title": "Otoplasti Izmir - Kepce Kulak Ameliyati | Op. Dr. Banu Begen",
+    "description": "Izmir'de otoplasti ameliyati. Kepce kulak duzeltme, kulak estetigi. Cocuk ve eriskin KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "otoplasti",
+      "kepce kulak ameliyati",
+      "kulak estetigi",
+      "kulak duzeltme",
+      "cocuk otoplasti",
+      "KBB cerrahisi izmir"
+    ]
+  },
+  "relatedDiseases": ["rinoplasti", "timpanoplasti"]
+}

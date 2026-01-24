@@ -1,0 +1,123 @@
+{
+  "id": "horlama-uyku-apnesi",
+  "slug": "horlama-uyku-apnesi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Horlama ve Uyku Apnesi",
+  "subtitle": "Obstruktif Uyku Apne Sendromu Tedavisi",
+  "definition": {
+    "title": "Horlama ve Uyku Apnesi Nedir?",
+    "content": "Horlama, uyku sirasinda ust solunum yollarinin daralmasi sonucu ortaya cıkan sestir. Obstruktif uyku apnesi (OUAS) ise uyku sirasinda tekrarlayan nefes durmalari veya azalmalaridir. Ciddi saglik sorunlarina yol acabilir."
+  },
+  "symptoms": {
+    "title": "Horlama ve Uyku Apnesi Belirtileri",
+    "items": [
+      "Gece yuksek sesle horlama",
+      "Partner tarafindan gozlemlenen nefes durmalari",
+      "Bogulma hissiyle uyanma",
+      "Gunduz asiri uykuluk",
+      "Sabah bas agrisi",
+      "Konsantrasyon guclugu",
+      "Hafiza zayifligi",
+      "Irritabilite ve depresyon",
+      "Gece sik idrara cikma",
+      "Cinsel istteksizlik"
+    ]
+  },
+  "causes": {
+    "title": "Horlama ve Uyku Apnesi Nedenleri",
+    "items": [
+      "Obezite",
+      "Burun tikanikligi",
+      "Buyuk bademcikler",
+      "Uzun yumusak damak ve kucuk dil",
+      "Kucuk veya geri cekilmis cene",
+      "Buyuk dil",
+      "Ileri yas",
+      "Alkol ve sedatif kullanimii",
+      "Sigara",
+      "Erkek cinsiyeti"
+    ]
+  },
+  "diagnosis": {
+    "title": "Horlama ve Uyku Apnesi Tanisi",
+    "content": "Tani icin uyku calismasi (polisomnografi) altin standarttir. KBB degerlendirmesi tikaniklik bolgesini belirler.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Burun ve bogaz endoskopisi",
+      "Polisomnografi (uyku testi)",
+      "Ev tipi uyku testi",
+      "Muller manevrasi",
+      "Drug-induced sleep endoscopy (DISE)"
+    ]
+  },
+  "treatment": {
+    "title": "Horlama ve Uyku Apnesi Tedavisi",
+    "content": "Tedavi hastalligın siddeitine ve anatomik bulgulara gore planlanir. Yasam tarzi degisikliklerinden cerrahiye kadar genis bir yelpaze vardir.",
+    "options": [
+      {
+        "name": "Yasam Tarzi Degisiklikleri",
+        "description": "Kilo verme, alkol ve sedatiflerden kacınma, yan yatarak uyuma, sigara birakma."
+      },
+      {
+        "name": "CPAP Tedavisi",
+        "description": "Pozitif hava yolu basinci sagglayan cihaz. Orta-ağır uyku apnesinde en etkili tedavi."
+      },
+      {
+        "name": "Oral Aparey",
+        "description": "Alt çeneyi öne cikaran ağızlık. Hafif-orta dereceli hastalıkta kullanılabilir."
+      },
+      {
+        "name": "Cerrahi Tedavi",
+        "description": "Burun cerrahisi, yumuşak damak cerrahisi, bademcik ameliyati veya dil kökü cerrahisi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Kapsamli horlama ve apne degerlendirmesi",
+      "DISE ile kisiye ozel tedavi plani",
+      "Coklu tedavi seceeneği sunumu",
+      "Modern cerrahi teknikler",
+      "Uyku tibbi ile koordineli calisma",
+      "Tedavi sonrası yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Horlama tehlikeli midir?",
+      "answer": "Basit horlama genellikle zararsizdir, ancak uyku apnesi eslik ediyorsa kalp hastaligi, inme ve kaza riski artar."
+    },
+    {
+      "question": "Uyku apnesi nasil anlasilir?",
+      "answer": "Partner nefes durmasi fark edebilir. Gunduz uykuluk, sabah bas agrisi ve konsantrasyon bozuklugu isaret edebilir."
+    },
+    {
+      "question": "CPAP kullanmak zorunda miyim?",
+      "answer": "Orta-agir uyku apnesinde CPAP en etkili tedavidir. Cerrahi veya oral aparey alternatiif olabilir."
+    },
+    {
+      "question": "Horlama ameliyatla gecmer mi?",
+      "answer": "Anatomik neden varsa cerrahi etkili olabilir. Basari orani hasta secimi ve teknik ile degisir."
+    },
+    {
+      "question": "Kilo vermek horlamayi azaltir mi?",
+      "answer": "Evet. Kilo kaybı horlamayı ve uyku apnesini belirgin olcude azaltabilir veya tamamen ortadan kaldirabilir."
+    }
+  ],
+  "seo": {
+    "title": "Horlama ve Uyku Apnesi Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de horlama ve uyku apnesi tedavisi. OUAS belirtileri, uyku testi ve tedavi secenekleri. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "horlama tedavisi",
+      "uyku apnesi",
+      "OUAS",
+      "polisomnografi",
+      "CPAP",
+      "horlama ameliyati",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["burun-tikanikligi", "septoplasti", "bademcik-geniz-eti"]
+}

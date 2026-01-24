@@ -1,0 +1,117 @@
+{
+  "id": "bademcik-geniz-eti",
+  "slug": "bademcik-geniz-eti",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Bademcik ve Geniz Eti",
+  "subtitle": "Bademcik ve Adenoid Hastaliklari",
+  "definition": {
+    "title": "Bademcik ve Geniz Eti Nedir?",
+    "content": "Bademcikler (tonsiller) bogaz iki yaninda, geniz eti (adenoid) ise burun arkasinda bulunan lenfoid dokulardır. Bagisiklik sisteminin parcasidir ancak buyuduklerinde veya sik enfekte oldugunda sorun yaratir. Ozellikle cocuklarda sık gorulur."
+  },
+  "symptoms": {
+    "title": "Bademcik ve Geniz Eti Sorunlari Belirtileri",
+    "items": [
+      "Tekrarlayan bogaz enfeksiyonlari",
+      "Yutma guclugu",
+      "Horlama ve agızdan nefes alma",
+      "Uyku apnesi belirtileri",
+      "Burun tikanikligi",
+      "Burun akintisi",
+      "Konusmada genlizleme",
+      "Agiz kokusu",
+      "Buyume ve gelisim geriliği",
+      "Dikkat eksikligi"
+    ]
+  },
+  "causes": {
+    "title": "Bademcik ve Geniz Eti Buyumesi Nedenleri",
+    "items": [
+      "Tekrarlayan enfeksiyonlar",
+      "Alerji",
+      "Viral enfeksiyonlar",
+      "Cevresel faktorler (sigara dumani, kirlilik)",
+      "Genetik yatkinlik",
+      "Bagisiklik sistemi aktivasyonu"
+    ]
+  },
+  "diagnosis": {
+    "title": "Bademcik ve Geniz Eti Degerlendirmesi",
+    "content": "Fizik muayene ve endoskopik degerlendirme ile buyukluk ve enfeksiyon durumu belirlenir.",
+    "methods": [
+      "Bogaz muayenesi",
+      "Burun endoskopisi",
+      "Lateral boyun graffisi (nadir)",
+      "Odyometri ve timpanometri",
+      "Polisomnografi (uyku problemi varsa)"
+    ]
+  },
+  "treatment": {
+    "title": "Bademcik ve Geniz Eti Tedavisi",
+    "content": "Tedavi yaklaşımı belirtilerin siddeti ve siklligina göre belirlenir.",
+    "options": [
+      {
+        "name": "Medikal Tedavi",
+        "description": "Enfeksiyon tedavisi icin antibiyotikler, alerji varsa antihistaminikler ve nazal steroidler."
+      },
+      {
+        "name": "Tonsillektomi",
+        "description": "Tekrarlayan enfeksiyonlarda veya uyku apnesinde bademciklerin cerrahi olarak alinması."
+      },
+      {
+        "name": "Adenoidektomi",
+        "description": "Burun tikanıklığı, orta kulak sorunu veya uyku apnesinde geniz etinin alinması."
+      },
+      {
+        "name": "Adenotonsillektomi",
+        "description": "Her iki dokunun birlikte alinması. Cocuklarda sık tercih edilen yaklasim."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Cocuk hastallarda deneyim",
+      "Modern cerrahi teknikler",
+      "Agri yonetimine onem",
+      "Minimum komplikasyon orani",
+      "Ameliyat sonrasi detayli takip",
+      "Aile ile iletisim ve bilgilendirme"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Bademcik ameliyati ne zaman gerekli?",
+      "answer": "Yilda 7+, 2 yilda yillik 5+ veya 3 yilda yillik 3+ bogaz enfeksiyonu varsa veya uyku apnesi, yutma guclugu varsa onerilir."
+    },
+    {
+      "question": "Geniz eti ameliyati kac yasinda yapilir?",
+      "answer": "Belirtiler ciddi ise 2-3 yasindan itibaren yapilabilir. Ertelenmesi buyuume ve gelisimi etkileyebilir."
+    },
+    {
+      "question": "Bademcik almak bagisikligi zayiflatir mi?",
+      "answer": "Hayır. Vucutta baska lenfoid dokular bu gorevi ustlenir. Ameliyat sonrası enfeksiyon sikliği genellikle azalir."
+    },
+    {
+      "question": "Ameliyat sonrası ne kadar surede iyilesilir?",
+      "answer": "Cocuklar genellikle 7-10 gunde normal aktivitelere donebilir. Tam iyilesme 2-3 hafta surer."
+    },
+    {
+      "question": "Geniz eti tekrar buyur mu?",
+      "answer": "Nadir olmakla birlikte ozellikle kucuk yasta ameliyat edilenlerde kısmi buyume gorulebilir."
+    }
+  ],
+  "seo": {
+    "title": "Bademcik ve Geniz Eti Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de bademcik ve geniz eti tedavisi. Tonsillektomi, adenoidektomi ameliyatı. Cocuklarda KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "bademcik ameliyati",
+      "geniz eti ameliyati",
+      "tonsillektomi",
+      "adenoidektomi",
+      "cocuk KBB",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["bogaz-enfeksiyonlari", "horlama-uyku-apnesi", "kulak-enfeksiyonlari"]
+}

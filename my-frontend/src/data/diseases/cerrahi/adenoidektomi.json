@@ -1,0 +1,113 @@
+{
+  "id": "adenoidektomi",
+  "slug": "adenoidektomi",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Adenoidektomi",
+  "subtitle": "Geniz Eti Ameliyati",
+  "definition": {
+    "title": "Adenoidektomi Nedir?",
+    "content": "Adenoidektomi, burun arkasindaki geniz etinin (adenoid) cerrahi olarak cikarilmasidir. Cocuklarda burun tikanikligi, agizdan nefes alma, tekrarlayan kulak enfeksiyonlari ve uyku apnesinin tedavisinde uygulanir."
+  },
+  "symptoms": {
+    "title": "Adenoidektomi Gerektiren Durumlar",
+    "items": [
+      "Kronik burun tikanikligi",
+      "Agizdan nefes alma",
+      "Horlama ve uyku apnesi",
+      "Tekrarlayan orta kulak enfeksiyonlari",
+      "Kronik seroz otit media",
+      "Konusmaada genizden ses",
+      "Yuz ve dis gelisimii bozuklugu",
+      "Kronik sinuzit"
+    ]
+  },
+  "causes": {
+    "title": "Geniz Eti Buyumesi Nedenleri",
+    "items": [
+      "Tekrarlayan enfeksiyonlar",
+      "Alerji",
+      "Normal gelisim doneminde gecici buyume",
+      "Genetik faktorler"
+    ]
+  },
+  "diagnosis": {
+    "title": "Adenoidektomi Oncesi Degerlendirme",
+    "content": "Geniz eti buyuklugu ve iliskili sorunlar degerlendirilir.",
+    "methods": [
+      "Burun endoskopisi",
+      "Lateral boyun grafisi",
+      "Timpanometri",
+      "Uyku degerlendirmesi",
+      "Alerji testleri (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Adenoidektomi Cerrahi Yaklasimlar",
+    "content": "Ameliyat genel anestezi altinda, agiz yoluyla yapilir.",
+    "options": [
+      {
+        "name": "Klasik Adenoidektomi",
+        "description": "Kuret ile geniz etinin kazinarak cikarilmasi."
+      },
+      {
+        "name": "Endoskopik Adenoidektomi",
+        "description": "Kamera esliginde geniz etinin kontroll olarak alinmasi."
+      },
+      {
+        "name": "Adenotonsillektomi",
+        "description": "Bademcik ve geniz etinin birlikte cikarilmasi."
+      },
+      {
+        "name": "Power-Assisted Adenoidektomi",
+        "description": "Microdebrider ile hassas ve tam cikarim."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Cocuk KBB cerrahisi deneyimi",
+      "Endoskopik teknikler",
+      "Dusuk nuks orani",
+      "Guvenli anestezi ortami",
+      "Aile ile detayli iletisim",
+      "Ameliyat sonrasi yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Adenoidektomi kac yasinda yapilabilir?",
+      "answer": "Belirtiler ciddi ise 1-2 yasindan itibaren yapilabilir. Genellikle 2-6 yas arasi sik yapilir."
+    },
+    {
+      "question": "Ameliyat sonrasi iyilesme nasil olur?",
+      "answer": "Adenoidektomi tonsillektomiden daha kolay gecir. Cogu cocuk 2-3 gunde normale doner."
+    },
+    {
+      "question": "Geniz eti tekrar buyur mu?",
+      "answer": "Ozellikle kucuk yasta ameliyat edilenlerde kismi buyume gorulebilir. Endoskopik teknik bu riski azaltir."
+    },
+    {
+      "question": "Ameliyat bagisikligi etkiler mi?",
+      "answer": "Hayir. Adenoid alinmasi bagisikligi zayiflatmaz, aksine tekrarlayan enfeksiyonlari azaltir."
+    },
+    {
+      "question": "Ameliyat sonrasi dikkat edilmesi gerekenler?",
+      "answer": "Ilk gun yumusak ve ilik yiyecekler verilir. 1-2 hafta fiziksel aktivite kisitlanir."
+    }
+  ],
+  "seo": {
+    "title": "Adenoidektomi Izmir - Geniz Eti Ameliyati | Op. Dr. Banu Begen",
+    "description": "Izmir'de adenoidektomi ameliyati. Cocuklarda geniz eti buyumesi, burun tikanikligi ve horlama tedavisi. KBB uzmani.",
+    "keywords": [
+      "adenoidektomi",
+      "geniz eti ameliyati",
+      "geniz eti buyumesi",
+      "cocuk burun tikanikligi",
+      "cocuk KBB",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["bademcik-geniz-eti", "horlama-uyku-apnesi", "ventilasyon-tupu"]
+}

@@ -1,0 +1,107 @@
+{
+  "id": "nefertiti-boyun-germe",
+  "slug": "nefertiti-boyun-germe",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Nefertiti Boyun Germe",
+  "subtitle": "Boyun ve Cene Hatti Botoksu",
+  "definition": {
+    "title": "Nefertiti Boyun Germe Nedir?",
+    "content": "Nefertiti boyun germe, boyun ve cene hattini belirginlestirmek icin platisma kasina uygulanan botoks tedavisidir. Adini zarif boyun ve cene hatti ile bilinen Misir kralicesi Nefertiti'den alir. Non-cerrahi yuz ve boyun germe etkisi saglar."
+  },
+  "symptoms": {
+    "title": "Nefertiti Lift Kimlere Uygulanir?",
+    "items": [
+      "Cene hatti belirginligi isteyenler",
+      "Boyun bantlari (platisma bantlari) olanlar",
+      "Hafif cene sarkmasi olanlar",
+      "Cerrahi istemeyenler",
+      "Genc ve tanik boyun gorunumu isteyenler",
+      "40-55 yas arasi hastalar"
+    ]
+  },
+  "causes": {
+    "title": "Boyun Yaslanmasi Nedenleri",
+    "items": [
+      "Cilt elastikiyeti kaybi",
+      "Platisma kasinin gevsmesi",
+      "Yag birikimi",
+      "Genetik faktorler",
+      "Gunes hasari",
+      "Kilo degisimleri"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Boyun ve cene yapisi degerlendirilir, uygun adaylik belirlenir.",
+    "methods": [
+      "Yuz ve boyun analizi",
+      "Platisma kasi degerlendirmesi",
+      "Cilt kalitesi incelenmesi",
+      "Beklenti gorusmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Nefertiti Lift Uygulama",
+    "content": "Cene hatti ve boyun boyunca 20-30 noktaya mikro enjeksiyonlar yapilir.",
+    "options": [
+      {
+        "name": "Standart Nefertiti Lift",
+        "description": "Cene hatti ve boyun bantlarina botoks enjeksiyonu."
+      },
+      {
+        "name": "Full Nefertiti",
+        "description": "Cene hatti, boyun bantlari ve dekolte bolgesine genis tedavi."
+      },
+      {
+        "name": "Kombine Tedavi",
+        "description": "Nefertiti ile birlikte masseter ve cene dolgusu kombinasyonu."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Boyun anatomisi uzmanligi",
+      "Dogal sonuc odakli teknik",
+      "Non-cerrahi germe deneyimi",
+      "FDA onayli botoks",
+      "Kisisellestirilmis tedavi plani"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Nefertiti lift ne kadar surer?",
+      "answer": "Etki 3-4 ay surer. Duzenlii uygulamalarla daha uzun sureli etki elde edilebilir."
+    },
+    {
+      "question": "Sonuc ne zaman gorulur?",
+      "answer": "1-2 haftada etki baslar. Tam sonuc 3-4 haftada gorunur."
+    },
+    {
+      "question": "Kimlere uygun degildir?",
+      "answer": "Ileri derece boyun sarkmasi olanlarda cerrahi daha uygun olabilir."
+    },
+    {
+      "question": "Agri olur mu?",
+      "answer": "Minimal rahatsizlik hissedilir. Ince igneler kullanilir."
+    },
+    {
+      "question": "Yutma veya konusma etkilenir mi?",
+      "answer": "Dogru dozaj ve teknikle etkilenmez."
+    }
+  ],
+  "seo": {
+    "title": "Nefertiti Boyun Germe Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de Nefertiti lift uygulamasi. Boyun germe, cene hatti belirginlestirme, platisma botoksu. Medikal estetik.",
+    "keywords": [
+      "nefertiti lift",
+      "boyun botoksu",
+      "cene hatti botoks",
+      "platisma botoksu",
+      "boyun germe",
+      "medikal estetik izmir"
+    ]
+  },
+  "relatedDiseases": ["masseter-botoksu", "cene-jawline-dolgusu", "alin-botoksu"]
+}

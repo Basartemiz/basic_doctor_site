@@ -1,0 +1,122 @@
+{
+  "id": "ses-kisikligi",
+  "slug": "ses-kisikligi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Ses Kisikligi",
+  "subtitle": "Ses Bozukluklari Tani ve Tedavisi",
+  "definition": {
+    "title": "Ses Kisikligi Nedir?",
+    "content": "Ses kisikligi (disfoni), ses tellerinin titresimindeki bozukluk sonucu sesin normalden farkli cikmasi durumudur. Ses kalınlasabilir, kivriklaşabilir veya hafif cıkabilir. Akut veya kronik olabilir. Mesleki ses kullaniminda onemli sorunlara yol acabilir."
+  },
+  "symptoms": {
+    "title": "Ses Kisikligi Belirtileri",
+    "items": [
+      "Sesin boguk veya hıriltili cikmasi",
+      "Ses cikarirken zorlama",
+      "Sesin cift cıkmasi",
+      "Konusurken yorulma",
+      "Ses tasima guclugu",
+      "Bogaz agrisi ve kuruluk",
+      "Oksuruk ve bogaz temizleme ihtiyaci",
+      "Ses tonu degisiklikleri",
+      "Fısıltı seklinde konusma",
+      "Tam ses kaybi (afoni)"
+    ]
+  },
+  "causes": {
+    "title": "Ses Kisikligi Nedenleri",
+    "items": [
+      "Akut larenjit (viral enfeksiyon)",
+      "Ses telleri nodulleri",
+      "Ses telleri polipleri",
+      "Ses telleri felci",
+      "Laringofaringeal reflu",
+      "Ses telleri kistleri",
+      "Larinks kanseri",
+      "Asiri ses kullanimi",
+      "Sigara kullanimi",
+      "Tiroid cerrahisi komplikasyonu"
+    ]
+  },
+  "diagnosis": {
+    "title": "Ses Kisikligi Degerlendirmesi",
+    "content": "2 haftadan uzun suren ses kisikligi mutlaka degerlendirilmelidir. Ses telleri laringoskopi ile gozlenir.",
+    "methods": [
+      "Laringoskopik muayene",
+      "Videolaringostroboskopi",
+      "Ses analizi",
+      "Boyun ultrasonu",
+      "Tiroid fonksiyon testleri",
+      "BT veya MR (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Ses Kisikligi Tedavisi",
+    "content": "Tedavi nedene gore planlanir. Ses hijyeni ve ses terapisi cogu durumda ilk adimdir.",
+    "options": [
+      {
+        "name": "Ses Istirahatı ve Hijyeni",
+        "description": "Ses kullanıminin azaltilmasi, sigaranin birakılması ve reflunun tedavisi."
+      },
+      {
+        "name": "Ses Terapisi",
+        "description": "Ses ve konusma terapisti ile dogru ses kullanimi egitimi."
+      },
+      {
+        "name": "Medikal Tedavi",
+        "description": "Reflu ilaclari, steroidler veya antibiyotikler nedenine gore kullanilabilir."
+      },
+      {
+        "name": "Laringeal Cerrahi",
+        "description": "Ses telleri nodulu, polipi veya kisttlerinde mikrolaringoskopi ile cerrahi tedavi uygulanır."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Videolaringoskopi ile detayli degerlendirme",
+      "Ses bozukluklari deneyimi",
+      "Ses terapisti ile koordineli calisma",
+      "Gerektiginde mikrocerrahi uzmanligi",
+      "Mesleki ses kullananlar icin ozel yaklasim",
+      "Erken kanser tanisi icin dikkatli takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Ses kisikligi ne zaman ciddiye alinmali?",
+      "answer": "2 haftadan uzun suren ses kisikligi, ozellikle sigara kullananlarda, mutlaka KBB uzmaninca degerlendirilmelidir."
+    },
+    {
+      "question": "Ses telleri nodulu ameliyat gerektirir mi?",
+      "answer": "Cogu nodul ses terapisi ile kuculur. Tedaviye direncli veya buyuk nodullerde cerrahi onerilir."
+    },
+    {
+      "question": "Ses kisikligi kanser belirtisi olabilir mi?",
+      "answer": "Evet. Ozellikle sigara kullanan ve 2 haftadan uzun ses kisikligi olan kisilerde larinks kanseri ekarte edilmelidir."
+    },
+    {
+      "question": "Ses hijyeni nedir?",
+      "answer": "Sigaradan kacinma, bol su icme, bagirmama, fisildamamaa, refluyu tedavi etme gibi sesin korunmasina yonelik onlemlerdir."
+    },
+    {
+      "question": "Ses tellerimi korumak icin ne yapmaliyim?",
+      "answer": "Bagirmaktan ve fisildamaktan kacinin, bol su icin, sigara ve alkolden uzak durun, reflunuzu tedavi ettirin."
+    }
+  ],
+  "seo": {
+    "title": "Ses Kisikligi Tedavisi Izmir | Op. Dr. Banu Begen KBB",
+    "description": "Izmir'de ses kisikligi tedavisi. Ses telleri nodulu, polipi, larenjit ve ses bozukluklari. Laringoskopi ile degerlendirme. KBB uzmani.",
+    "keywords": [
+      "ses kisikligi",
+      "ses telleri nodulu",
+      "ses telleri polipi",
+      "larenjit tedavisi",
+      "ses bozuklugu",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["bogaz-enfeksiyonlari", "laringoskopi", "yutma-guclugu"]
+}

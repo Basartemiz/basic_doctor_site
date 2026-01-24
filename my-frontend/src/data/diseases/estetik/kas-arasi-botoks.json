@@ -1,0 +1,101 @@
+{
+  "id": "kas-arasi-botoks",
+  "slug": "kas-arasi-botoks",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Kas Arasi Botoks",
+  "subtitle": "Glabella Bolgesi Tedavisi",
+  "definition": {
+    "title": "Kas Arasi Botoks Nedir?",
+    "content": "Kas arası botoks, iki kaş arasındaki dikey çizgileri (glabella bölgesi, 11 çizgileri) tedavi eden botulinum toksin uygulamasıdır. Bu bölge kişiye sinirli veya yorgun bir ifade verebilir. Botoks ile daha rahat ve genç bir görünüm elde edilir."
+  },
+  "symptoms": {
+    "title": "Kas Arasi Botoks Kimlere Uygulanir?",
+    "items": [
+      "Kas arasi dikey cizgileri olanlar",
+      "Sinirli veya asik gorunumu olanlar",
+      "Sik kas catan kisiler",
+      "Genc gorunum isteyenler",
+      "Onleyici estetik isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Kas Arasi Kirisiklik Nedenleri",
+    "items": [
+      "Tekrarlayan kas catma hareketi",
+      "Goz kısma ve odaklanma",
+      "Stres ve konsantrasyon",
+      "Genetik yatkinlik",
+      "Gunes hasari",
+      "Yaslanma"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Cizgi yapisi ve kas gucu degerlendirilir.",
+    "methods": [
+      "Glabella bolge analizi",
+      "Kas gucu degerlendirmesi",
+      "Cizgi derinlligi olcumu",
+      "Kas catma testi"
+    ]
+  },
+  "treatment": {
+    "title": "Kas Arasi Botoks Uygulama",
+    "content": "Islem 5-10 dakika surer. Genellikle 3-5 noktaya enjeksiyon yapilir.",
+    "options": [
+      {
+        "name": "Standart Glabella Tedavisi",
+        "description": "Proserus ve korrugator kaslarina enjeksiyon."
+      },
+      {
+        "name": "Kombine Tedavi",
+        "description": "Kas arasi ile birlikte alin ve kaz ayagi tedavisi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Hassas enjeksiyon teknigi",
+      "Dogal ifade koruma",
+      "FDA onayli botoks urunleri",
+      "Kisisellestirilmis doz ayari",
+      "Deneyimli hekim uygulamasi"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Kas arasi botoks kas catmayi engeller mi?",
+      "answer": "Kas hareketi azalir ancak tamamen kaybolmaz. Dogal ifade korunur."
+    },
+    {
+      "question": "Ne siklikla tekraarlanmali?",
+      "answer": "Genellikle 3-4 ayda bir tekrarlanir. Duzenli uygulamalarla aralik uzayabilir."
+    },
+    {
+      "question": "Derin cizgiler tamamen gecer mi?",
+      "answer": "Dinamik cizgiler cok iyi yanit verir. Cok derin statik cizgiler icin dolgu kombinasyonu gerekebilir."
+    },
+    {
+      "question": "Yan etkileri nelerdir?",
+      "answer": "Enjeksiyon yerinde gecici kizariklik, morarma olabilir. Kas dusmesi (ptoz) nadirdir."
+    },
+    {
+      "question": "Sonuc ne kadar kalici?",
+      "answer": "Etki 3-4 ay surer. Duzenli uygulamalarla kaslar zayiflar ve cizgiler azalir."
+    }
+  ],
+  "seo": {
+    "title": "Kas Arasi Botoks Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de kas arasi botoks uygulamasi. Glabella cizgileri, 11 cizgileri tedavisi. Medikal estetik uzmani.",
+    "keywords": [
+      "kas arasi botoks",
+      "glabella botoks",
+      "11 cizgileri tedavisi",
+      "botoks izmir",
+      "medikal estetik"
+    ]
+  },
+  "relatedDiseases": ["alin-botoksu", "kaz-ayagi-botoksu"]
+}

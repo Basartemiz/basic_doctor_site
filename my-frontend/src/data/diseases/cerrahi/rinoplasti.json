@@ -1,0 +1,116 @@
+{
+  "id": "rinoplasti",
+  "slug": "rinoplasti",
+  "serviceId": "cerrahi",
+  "serviceSlug": "cerrahi-operasyonlar",
+  "title": "Rinoplasti",
+  "subtitle": "Burun Estetigi ve Fonksiyonel Cerrahi",
+  "definition": {
+    "title": "Rinoplasti Nedir?",
+    "content": "Rinoplasti, burunun sekil ve yapisini degistiren cerrahi islemdir. Estetik amacli veya nefes alma problemlerini duzeltmek icin fonksiyonel amacli yapilabilir. Cogu zaman her iki amac birlikte ele alinir (septo-rinoplasti)."
+  },
+  "symptoms": {
+    "title": "Rinoplasti Kimlere Uygulanir?",
+    "items": [
+      "Burun kemigi cıkıntisi (hump)",
+      "Geniss veya asimetrik burun ucu",
+      "Sivri veya dusuk burun ucu",
+      "Burun kanatlarında genişlik",
+      "Daha önce gecirilen travma izleri",
+      "Dogumsal burun deformiteleri",
+      "Nefes alma problemleri",
+      "Revizyon rinoplasti ihtiyaci"
+    ]
+  },
+  "causes": {
+    "title": "Rinoplasti Tercihi Nedenleri",
+    "items": [
+      "Estetik kaygılar",
+      "Dogumsal yapisal ozellikler",
+      "Travma sonrası sekil bozuklugu",
+      "Nefes alma guclugu",
+      "Yuz uyumsuzlugu",
+      "Ozguven sorunlari"
+    ]
+  },
+  "diagnosis": {
+    "title": "Rinoplasti Oncesi Degerlendirme",
+    "content": "Ameliyat oncesi detayli degerlendirme ile beklentiler ve olasi sonuclar konusulur.",
+    "methods": [
+      "Yuz analizi ve burun muayenesi",
+      "Burun endoskopisi",
+      "Fotografik dokumantasyon",
+      "Bilgisayarli simulasyon (gerekirse)",
+      "Nefes alma degerlendirmesi",
+      "Ameliyat oncesi testler"
+    ]
+  },
+  "treatment": {
+    "title": "Rinoplasti Cerrahi Yaklasimlar",
+    "content": "Ameliyat acik veya kapali teknikle yapilabilir. Yakklasım cerrahın deneyimi ve burun yapisina gore belirlenir.",
+    "options": [
+      {
+        "name": "Acik Rinoplasti",
+        "description": "Burun direği (kolumella) kesisi ile burun iskeleti tamamen gozlenir. Kompleks vakalarda tercih edilir."
+      },
+      {
+        "name": "Kapali Rinoplasti",
+        "description": "Tum kesiler burun icinde yapilir. Dis iz kalmaz, iyilesme daha hizlidir."
+      },
+      {
+        "name": "Septo-Rinoplasti",
+        "description": "Estetik rinoplasti ile septoplastinin birlikte yapilmasi."
+      },
+      {
+        "name": "Revizyon Rinoplasti",
+        "description": "Daha once yapilan rinoplasti sonrasi duzeltme ameliyati."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Hem estetik hem fonksiyonel bakis acisi",
+      "KBB uzmani olarak burun anatomisi hakimiyeti",
+      "Dogal sonuclar hedefi",
+      "Kisisellestirilmis cerrahi plan",
+      "Detayli ameliyat oncesi gorusme",
+      "Ameliyat sonrasi yakin takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Rinoplasti kac yasinda yapilabilir?",
+      "answer": "Burun gelisiminin tamamlandigi 17-18 yasindan sonra yapilabilir. Travma vakallarinda daha erken mudahale gerekebilir."
+    },
+    {
+      "question": "Rinoplasti agrili bir ameliyat mi?",
+      "answer": "Ameliyat genel anestezi altinda yapilir. Ameliyat sonrasi agri genellikle hafiftir, daha cok sislik ve rahatsizlik vardir."
+    },
+    {
+      "question": "Iyilesme sureci nasil ilerler?",
+      "answer": "Alci 7-10 gunde alinir. Sislik buyuk olcude 2-3 haftada iner. Nihai sonuc icin 1 yil beklemek gerekir."
+    },
+    {
+      "question": "Rinoplasti sonucu kalici mi?",
+      "answer": "Evet. Kemik ve kikirdak degisiklikleri kalicidir. Ancak yaslanma ile minimal degisiklikler olabilir."
+    },
+    {
+      "question": "SGK rinoplastiyi karsilar mi?",
+      "answer": "Salt estetik amacli rinoplasti karsilanmaz. Nefes alma problemi varsa fonksiyonel kisim karsilanabilir."
+    }
+  ],
+  "seo": {
+    "title": "Rinoplasti Izmir - Burun Estetigi | Op. Dr. Banu Begen",
+    "description": "Izmir'de rinoplasti ameliyati. Burun estetigi ve fonksiyonel burun cerrahisi. Acik ve kapali teknik. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "rinoplasti",
+      "burun estetigi",
+      "burun ameliyati izmir",
+      "septo-rinoplasti",
+      "burun sekillendirme",
+      "KBB cerrahisi izmir"
+    ]
+  },
+  "relatedDiseases": ["septoplasti", "burun-tikanikligi", "burun-dolgusu"]
+}

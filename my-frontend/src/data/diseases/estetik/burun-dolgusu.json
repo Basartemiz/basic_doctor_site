@@ -1,0 +1,104 @@
+{
+  "id": "burun-dolgusu",
+  "slug": "burun-dolgusu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Burun Dolgusu",
+  "subtitle": "Non-Cerrahi Burun Sekillendirme",
+  "definition": {
+    "title": "Burun Dolgusu Nedir?",
+    "content": "Burun dolgusu (non-surgical rhinoplasty), hyaluronik asit dolgu ile burun seklini duzeltmeye yarayan non-cerrahi bir islemdir. Burun sirtindaki cikintilari kamufle etmek, burun ucunu kalidiirmak veya asimetriyi duzeeltmek icin kullanilir."
+  },
+  "symptoms": {
+    "title": "Burun Dolgusu Kimlere Uygulanir?",
+    "items": [
+      "Kuçük burun duzensizlikleri olanlar",
+      "Burun sirtinda cikinti olanlar",
+      "Dusuk burun ucu olanlar",
+      "Burun asimetrisi olanlar",
+      "Ameliyat istemeyenler",
+      "Rinonoplasti sonrasi kucuk duzeltme gerekenler"
+    ]
+  },
+  "causes": {
+    "title": "Burun Sekil Sorunlari",
+    "items": [
+      "Dogal burun yapisi",
+      "Genetik faktorler",
+      "Travma sonrasi sekil bozuklugu",
+      "Onceki ameliyat sonrasi duzensizlik"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Burun yapisi ve beklentiler degerlendirilir.",
+    "methods": [
+      "Burun muayenesi",
+      "Profil analizi",
+      "Nefes alma degerlendirmesi",
+      "Beklenti ve sinirllarin belirlenmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Burun Dolgusu Uygulama",
+    "content": "Ince ignelerle stratejik noktalara dolgu enjeksiyonu yapilir.",
+    "options": [
+      {
+        "name": "Sirti Duzeltme",
+        "description": "Burun sirtindaki cikinti kamuflajı."
+      },
+      {
+        "name": "Burun Ucu Kaldirma",
+        "description": "Dusuk burun ucunun yukseltilmesi."
+      },
+      {
+        "name": "Asimetri Duzeltme",
+        "description": "Egri veya asimetrik burunun dengelenmesi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "KBB uzmani olarak burun anatomisi hakimiyeti",
+      "Hem estetik hem fonksiyonel bakis acisi",
+      "Guvenlik ve komplikasyon yonetimi",
+      "Dogal sonuc hedefi",
+      "Geri donusumluluk avantaji"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Burun dolgusu ameliyat yerine gecer mi?",
+      "answer": "Küçük duzeltmeler icin alternatif olabilir. Buyuk yapisal degisiklikler icin ameliyat gerekir."
+    },
+    {
+      "question": "Ne kadar surer?",
+      "answer": "12-18 ay etkili kalir. Burun az hareket eden bir bolgedir."
+    },
+    {
+      "question": "Riskli mi?",
+      "answer": "Burun bolgesinde damar yapisi kritik oneme sahiptir. Deneyimli hekim uygulamasi onemlidir."
+    },
+    {
+      "question": "Burunum buyur mu?",
+      "answer": "Hayir. Dolgu cikintilari kamufle eder, gercek buyukluguu artirmaz."
+    },
+    {
+      "question": "Begenmezsem geri alinabilir mi?",
+      "answer": "Evet. Hyaluronik asit dolgular enzim ile eritilebilir."
+    }
+  ],
+  "seo": {
+    "title": "Burun Dolgusu Izmir - Non-Cerrahi Rinoplasti | Op. Dr. Banu Begen",
+    "description": "Izmir'de burun dolgusu uygulamasi. Non-surgical rhinoplasty, burun sekillendirme. KBB uzmani ve medikal estetik.",
+    "keywords": [
+      "burun dolgusu",
+      "non-cerrahi rinoplasti",
+      "burun sekillendirme",
+      "burun filller",
+      "burun dolgusu izmir"
+    ]
+  },
+  "relatedDiseases": ["rinoplasti", "dudak-dolgusu", "yanak-dolgusu"]
+}

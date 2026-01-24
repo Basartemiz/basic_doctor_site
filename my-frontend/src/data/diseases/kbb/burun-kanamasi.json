@@ -1,0 +1,117 @@
+{
+  "id": "burun-kanamasi",
+  "slug": "burun-kanamasi",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Burun Kanamasi",
+  "subtitle": "Epistaksis Tani ve Tedavisi",
+  "definition": {
+    "title": "Burun Kanamasi (Epistaksis) Nedir?",
+    "content": "Burun kanamasi, burun icindeki damarlardan kaynaklanan kanamadir. En sik on bolge (Kiesselbach pleksusu) kanamalari gorunur. Cocuklarda ve yasillarda daha sik rastlanir. Cogu durumda basit onlemlerle durdurulabilir."
+  },
+  "symptoms": {
+    "title": "Burun Kanamasi Belirtileri",
+    "items": [
+      "Burundan kan gelmesi",
+      "Bogaza kan akisi",
+      "Kan yutma",
+      "Bulanti (kan yutulmasina bagli)",
+      "Solukluk (ciddi kanamalarda)",
+      "Tansiyon dususu (ciddi vakalarda)"
+    ]
+  },
+  "causes": {
+    "title": "Burun Kanamasi Nedenleri",
+    "items": [
+      "Burun karistirma",
+      "Kuru hava",
+      "Ust solunum yolu enfeksiyonlari",
+      "Alerjik rinit",
+      "Yuksek tansiyon",
+      "Kan sulandirici ilaclar",
+      "Septum deviasyonu",
+      "Burun travmasi",
+      "Pihtilasma bozukluklari",
+      "Burun tumorleri (nadir)"
+    ]
+  },
+  "diagnosis": {
+    "title": "Burun Kanamasi Degerlendirmesi",
+    "content": "Kanama kaynagi ve altta yatan neden belirlenir. Tekrarlayan kanamalarda kapsamli degerlendirme gerekir.",
+    "methods": [
+      "Burun muayenesi",
+      "Burun endoskopisi",
+      "Kan basinciı olcumu",
+      "Kanama-pihtilasma testleri",
+      "Tam kan sayimi",
+      "BT veya MR (gerekirse)"
+    ]
+  },
+  "treatment": {
+    "title": "Burun Kanamasi Tedavisi",
+    "content": "Tedavi kanama siddetine ve nedenine gore planlanir. Basit kanamalarda ev tedavisi yeterli olabilir.",
+    "options": [
+      {
+        "name": "Basit Basinc Uygulamasi",
+        "description": "Burun kanatlarinin 10-15 dakika bastirrilmasi ile cogu kanama durur."
+      },
+      {
+        "name": "Kimyasal Koterizasyon",
+        "description": "Gumus nitrat ile kanayan damar uclarinin yakilarak kapatilmasi."
+      },
+      {
+        "name": "Elektrokoterizasyon",
+        "description": "Elektrik enerjisi ile kanayan damarlarin kapatilmasi. Daha siddetli kanamalarda tercih edilir."
+      },
+      {
+        "name": "Burun Tamponu",
+        "description": "Siddetli kanamalarda burun bosluguna tampon yerlestirilerek kanama kontrol altina alinir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Hizli ve etkili kanama kontrolu",
+      "Endoskopik mudahale imkani",
+      "Altta yatan nedenin arastirilmasi",
+      "Tekrarlayan kanamalarin onlenmesi",
+      "Acil durumlarda ulasılabilirlik",
+      "Multidisipliner yaklasim"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Burun kanamasi sirasinda ne yapmaliyim?",
+      "answer": "Oturrr durun, basi hafif one egin, burun kanatlarini 10-15 dakika bastirin. Basi arkaya atmayin. Kanama durmazsa hastaneye gidin."
+    },
+    {
+      "question": "Ne zaman doktora basvurmaliyim?",
+      "answer": "20 dakikadan uzun suren, cok siddetli, kafa travmasi sonrasi veya sik tekrarlayan kanamalarda hemen basvurun."
+    },
+    {
+      "question": "Burun kanamasi nasil onlenir?",
+      "answer": "Burun icini nemli tutun, kuru havalarda nemlendirici kullanin, burun karistirmayin ve tansiyonunuzu kontrol altinda tutun."
+    },
+    {
+      "question": "Kan sulandirici kullaniyorum, ne yapmaliyim?",
+      "answer": "Kan sulandirici ilaç kullananlarda burun kanamasi daha sik gorulebilir. Doktorunuzla gorusun, ilac ayarlamasi gerekebilir."
+    },
+    {
+      "question": "Cocuklarda burun kanamasi normal mi?",
+      "answer": "Cocuklarda arasira burun kanamasi normal kabul edilir. Sik tekrarlayan kanamalarda KBB degerlendirmesi onerilir."
+    }
+  ],
+  "seo": {
+    "title": "Burun Kanamasi (Epistaksis) Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de burun kanamasi tedavisi. Tekrarlayan burun kanamasinin nedenleri ve tedavi yontemleri. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "burun kanamasi",
+      "epistaksis tedavisi",
+      "burun kanamasi nedenleri",
+      "burun kanamasi nasil durdurulur",
+      "KBB izmir"
+    ]
+  },
+  "relatedDiseases": ["burun-tikanikligi", "alerjik-rinit", "septoplasti"]
+}

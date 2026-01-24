@@ -1,0 +1,108 @@
+{
+  "id": "alin-botoksu",
+  "slug": "alin-botoksu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Alin Botoksu",
+  "subtitle": "Alin Kirişıklıgı Tedavisi",
+  "definition": {
+    "title": "Alin Botoksu Nedir?",
+    "content": "Alin botoksu, alin bolgesindeki yatay cizgileri ve kirisikliklari azaltmak icin yapilan botulinum toksin enjeksiyonudur. Kas hareketlerini gecici olarak zayiflatarak cildin dinlenmesini ve cizgilerin solmasini saglar."
+  },
+  "symptoms": {
+    "title": "Alin Botoksu Kimlere Uygulanir?",
+    "items": [
+      "Belirgin alin cizgileri olanlar",
+      "Kas arasi cizgileri olanlar",
+      "Yorgun ve kaygi gorunumu olanlar",
+      "Onleyici estetik isteyenler",
+      "Kaslarini sik calıstiranlar",
+      "Genc gorunum isteyenler"
+    ]
+  },
+  "causes": {
+    "title": "Alin Kirisikligi Nedenleri",
+    "items": [
+      "Tekrarlayan yuz ifadeleri",
+      "Gunes hasari",
+      "Yaslanma",
+      "Genetik faktorler",
+      "Sigara kullanimi",
+      "Cildin nem kaybi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Yuz analizi yapilarak en uygun tedavi plani olusturulur.",
+    "methods": [
+      "Yuz ve mimik analizi",
+      "Cizgi derinligi degerlendirmesi",
+      "Kas hareketleri incelenmesi",
+      "Beklenti gorusmesi",
+      "Saglik oykusu sorgulamasi"
+    ]
+  },
+  "treatment": {
+    "title": "Alin Botoksu Uygulama",
+    "content": "Islem 10-15 dakika surer. Ince ignelerle belli noktalara enjeksiyon yapilir.",
+    "options": [
+      {
+        "name": "Klasik Alin Botoksu",
+        "description": "Frontal kasa 4-6 noktadan enjeksiyon. Yatay cizgiler icin etkili."
+      },
+      {
+        "name": "Baby Botoks",
+        "description": "Dusuk dozlu, dogal ifadeyi koruyan yaklasim. Genc hastalara uygun."
+      },
+      {
+        "name": "Full Upper Face",
+        "description": "Alin, kas arasi ve kaz ayagi bolgeleriinin birlikte tedavisi."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuz anatomisi uzmanligi",
+      "Dogal sonuc odakli yaklasim",
+      "FDA onayli urunler",
+      "Kisisellestirilmis dozaj",
+      "Minimal rahatsizlik",
+      "Uygulama sonrasi takip"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Alin botoksu ne kadar surer?",
+      "answer": "Etki 3-6 ay surer. Duzenli uygulamalarla etki suresi uzayabilir."
+    },
+    {
+      "question": "Botoks agrili midir?",
+      "answer": "Cok ince igneler kullanilir, minimal agri hissedilir. Istenirse topikal uyusturucu krem uygulanabilir."
+    },
+    {
+      "question": "Etki ne zaman baslar?",
+      "answer": "Etki 3-5 gunde baslar, tam etki 10-14 gunde gorulur."
+    },
+    {
+      "question": "Yuzum donuk gorunur mu?",
+      "answer": "Dogru teknik ve dozajla dogal ifade korunur. Abartili gorunum onlenir."
+    },
+    {
+      "question": "Botoks birakildliginda ne olur?",
+      "answer": "Kirisikliklar yavas yavas eski haline doner. Kalici hasar olmaz."
+    }
+  ],
+  "seo": {
+    "title": "Alin Botoksu Izmir | Op. Dr. Banu Begen Medikal Estetik",
+    "description": "Izmir'de alin botoksu uygulamasi. Alin kirisikliklari tedavisi, dogal sonuclar. Medikal estetik uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "alin botoksu",
+      "alin kirisiikligi tedavisi",
+      "botoks izmir",
+      "yuz botoksu",
+      "medikal estetik izmir"
+    ]
+  },
+  "relatedDiseases": ["kas-arasi-botoks", "kaz-ayagi-botoksu", "masseter-botoksu"]
+}

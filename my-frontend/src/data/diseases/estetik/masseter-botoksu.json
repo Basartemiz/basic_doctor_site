@@ -1,0 +1,106 @@
+{
+  "id": "masseter-botoksu",
+  "slug": "masseter-botoksu",
+  "serviceId": "estetik",
+  "serviceSlug": "medikal-estetik",
+  "title": "Masseter Botoksu",
+  "subtitle": "Yuz Inceltme ve Cene Sikma Tedavisi",
+  "definition": {
+    "title": "Masseter Botoksu Nedir?",
+    "content": "Masseter botoksu, cene kosesindeki çiğneme kasına (masseter) uygulanan botulinum toksin enjeksiyonudur. Hem yuz seklini inceltmek hem de bruksizm (dis gicirdatma/cene sikma) tedavisi icin kullanilir."
+  },
+  "symptoms": {
+    "title": "Masseter Botoksu Kimlere Uygulanir?",
+    "items": [
+      "Genis cene yapisi olanlar",
+      "Yuz inceltme isteyenler",
+      "Bruksizm (dis gicirdatma) sorunu olanlar",
+      "Cene sikma aliskanligi olanlar",
+      "Cene agrisi cekernler",
+      "Kare yuz sekli olanlar"
+    ]
+  },
+  "causes": {
+    "title": "Masseter Hipertrofisi Nedenleri",
+    "items": [
+      "Genetik yapi",
+      "Bruksizm (gece dis sikma)",
+      "Asiri sakiz cigneme",
+      "Stres",
+      "Cene sikma aliskanligi"
+    ]
+  },
+  "diagnosis": {
+    "title": "Uygulama Oncesi Degerlendirme",
+    "content": "Kas boyutu ve sikma aliskanligi degerlendirilir.",
+    "methods": [
+      "Yuz analizi",
+      "Masseter kasi palpasyonu",
+      "Dis sikma/gicirdatma sorgulamasi",
+      "Cene eklemi degerlendirmesi"
+    ]
+  },
+  "treatment": {
+    "title": "Masseter Botoksu Uygulama",
+    "content": "Her iki tarafa 3-5 noktadan enjeksiyon yapilir. Islem 10-15 dakika surer.",
+    "options": [
+      {
+        "name": "Estetik Amacli",
+        "description": "Yuz inceltme icin her tarafa 25-50 unite botoks uygulanir."
+      },
+      {
+        "name": "Bruksizm Tedavisi",
+        "description": "Dis sikma ve cene agrisi tedavisi icin hedefli enjeksiyon."
+      },
+      {
+        "name": "Kombine Tedavi",
+        "description": "Masseter ile birlikte cene ve boyun hatti botoksu."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Yuz anatomisi uzmanligi",
+      "Hem estetik hem tedavi odakli yaklasim",
+      "Simetrik sonuclar",
+      "FDA onayli urunler",
+      "Kisisellestirilmis dozaj"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Masseter botoksu ne kadar surer?",
+      "answer": "Etki 4-6 ay surer. Yuz inceltme etkisi zamanla daha kalici olabilir."
+    },
+    {
+      "question": "Cigneme gucu azalir mi?",
+      "answer": "Normal cigneme etkilenmez. Sadece asiri kas gucu azalir."
+    },
+    {
+      "question": "Yuz ne kadar incelir?",
+      "answer": "Kas boyutuna bagli olarak belirgin incelme gorulebilir. Tam etki 4-6 haftada gorunur."
+    },
+    {
+      "question": "Bruksizmde ne kadar etkili?",
+      "answer": "Cok etkili. Dis sikma ve cene agrisi onemli olcude azalir."
+    },
+    {
+      "question": "Dis hekimi ile koordinasyon gerekir mi?",
+      "answer": "Bruksizm hastalarinda dis hekimi takibi onemlidir. Botoks, plak tedavisine ek olarak uygulanabilir."
+    }
+  ],
+  "seo": {
+    "title": "Masseter Botoksu Izmir - Yuz Inceltme | Op. Dr. Banu Begen",
+    "description": "Izmir'de masseter botoksu uygulamasi. Yuz inceltme, bruksizm ve dis sikma tedavisi. Medikal estetik uzmani.",
+    "keywords": [
+      "masseter botoksu",
+      "yuz inceltme",
+      "bruksizm tedavisi",
+      "cene sikma tedavisi",
+      "dis gicirdatma",
+      "botoks izmir"
+    ]
+  },
+  "relatedDiseases": ["nefertiti-boyun-germe", "cene-jawline-dolgusu", "alin-botoksu"]
+}

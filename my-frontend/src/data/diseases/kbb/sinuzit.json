@@ -1,0 +1,124 @@
+{
+  "id": "sinuzit",
+  "slug": "sinuzit",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Sinuzit",
+  "subtitle": "Akut ve Kronik Sinuzit Tedavisi",
+  "definition": {
+    "title": "Sinuzit Nedir?",
+    "content": "Sinuzit, burun cevresindeki hava boslukları olan sinuslerin iltihaplanmasidir. Akut sinuzit genellikle viral enfeksiyonlar sonrasi gelisirken, kronik sinuzit 12 haftadan uzun suren belirtilerle karakterizedir. Sinusler, yuz kemikleri icindeki hava dolu bosluklar olup, nefes alinan havanin nemlendirilmesi ve isitilmasinda rol oynar."
+  },
+  "symptoms": {
+    "title": "Sinuzit Belirtileri",
+    "items": [
+      "Yuz bolgesinde basinc ve agri hissi",
+      "Burun tikanikligi ve nefes almada zorluk",
+      "Koyu kivamli burun akintisi (sari-yesil)",
+      "Koku alma duyusunda azalma",
+      "Bas agrisi, ozellikle one egilince artan",
+      "Dis agrisi ve ust cene hassasiyeti",
+      "Bogaz arkasina akinti (postnazal drip)",
+      "Yorgunluk ve halsizlik",
+      "Ates (akut sinuzitte)",
+      "Agiz kokusu"
+    ]
+  },
+  "causes": {
+    "title": "Sinuzit Nedenleri ve Risk Faktorleri",
+    "items": [
+      "Viral ust solunum yolu enfeksiyonlari (soguk alginligi)",
+      "Bakteriyel enfeksiyonlar",
+      "Alerjik rinit ve mevsimsel alerjiler",
+      "Burun yapisi bozukluklari (septum deviasyonu)",
+      "Burun polipleri",
+      "Dis enfeksiyonlari",
+      "Bagisiklik sistemi zayifligi",
+      "Sigara ve hava kirliligi maruziyeti",
+      "Yuzme ve dalış",
+      "Gastroozofageal reflu (GERD)"
+    ]
+  },
+  "diagnosis": {
+    "title": "Sinuzit Tanisi",
+    "content": "Sinuzit tanisi, detayli hasta oykusu, fizik muayene ve gerekli durumlarda goruntuleme yontemleriyle konur. Kronik veya komplike vakalarda ek testler gerekebilir.",
+    "methods": [
+      "Detayli KBB muayenesi",
+      "Endoskopik burun incelemesi",
+      "Paranazal sinus tomografisi (BT)",
+      "Alerji testleri",
+      "Burun akintisi kulturi",
+      "Manyetik rezonans goruntuleme (MR) - ozel durumlarda"
+    ]
+  },
+  "treatment": {
+    "title": "Sinuzit Tedavisi",
+    "content": "Sinuzit tedavisi, hastaligin tipine ve siddetine gore kisisellestirilir. Tedavi medikal veya cerrahi yontemler icerebilir.",
+    "options": [
+      {
+        "name": "Medikal Tedavi",
+        "description": "Antibiyotik tedavisi, nazal kortikosteroid spreyler, dekonjestanlar, mukolitik ilaclar ve agri kesiciler kullanilir. Burun yikamasi (serum fizyolojik) tedavinin onemli bir parcasidir."
+      },
+      {
+        "name": "Alerji Tedavisi",
+        "description": "Alerjik nedenli sinuzitte antihistaminikler, alerjen asisi ve cevre duzenleme onerilir."
+      },
+      {
+        "name": "Endoskopik Sinus Cerrahisi",
+        "description": "Medikal tedaviye yanit vermeyen kronik sinuzitte, polipli hastalarda veya yapısal bozukluklarda minimal invaziv cerrahi uygulanir."
+      },
+      {
+        "name": "Balon Sinuplasti",
+        "description": "Secilmis vakalarda, sinus agizlarini genisleten daha az invaziv bir prosedur uygulanabilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "25 yili askin KBB uzmanligi deneyimi",
+      "Ileri teknoloji endoskopik muayene imkani",
+      "Kisisellestirilmis tedavi yaklasimi",
+      "Modern cerrahi teknikler ve minimal invaziv yontemler",
+      "Ameliyat sonrasi yakin takip",
+      "Izmir Karsiyaka'da kolay ulasim"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Sinuzit ne kadar surede gecer?",
+      "answer": "Akut sinuzit genellikle 2-4 hafta icinde duzulur. Kronik sinuzit ise 12 haftadan uzun surer ve tedavi suresi daha uzun olabilir. Dogru tani ve tedavi ile cogu hasta iyilesir."
+    },
+    {
+      "question": "Sinuzit bulasici midir?",
+      "answer": "Sinuzitin kendisi bulasici degildir, ancak sinuzite neden olan viral enfeksiyonlar bulasici olabilir. Bu nedenle soguk alginligi doneminde hijyen kurallarina dikkat edilmelidir."
+    },
+    {
+      "question": "Sinuzit ameliyati gerekli midir?",
+      "answer": "Cogu sinuzit vakasi medikal tedaviyle iyilesir. Cerrahi, kronik sinuzitte medikal tedaviye yanit alinmadığinda, burun poliplerinde veya anatomik bozukluklarda onerilir."
+    },
+    {
+      "question": "Sinuziti onlemek icin ne yapmaliyim?",
+      "answer": "Elleri sik yikamak, sigara ve kirli havadan kacinmak, alerjenlere maruziyeti azaltmak, burun nemli tutmak ve bol sivi tuketmek sinuzit riskini azaltir."
+    },
+    {
+      "question": "Hangi durumlarda hekime basvurmaliyim?",
+      "answer": "Yuksek ates, siddetli yuz agrisi, gorme bozukluklari, boyun sertligi veya 10 gundan uzun suren belirtilerde mutlaka bir KBB uzmanina basvurulmalidir."
+    }
+  ],
+  "seo": {
+    "title": "Sinuzit Tedavisi Izmir | Op. Dr. Banu Begen KBB Uzmani",
+    "description": "Izmir'de sinuzit tedavisi. Akut ve kronik sinuzit belirtileri, tanisi ve modern tedavi yontemleri. Op. Dr. Banu Begen KBB Klinigi. Randevu alin.",
+    "keywords": [
+      "sinuzit tedavisi",
+      "sinuzit belirtileri",
+      "kronik sinuzit",
+      "akut sinuzit",
+      "KBB uzmani izmir",
+      "sinuzit ameliyati",
+      "endoskopik sinus cerrahisi",
+      "burun tikanikligi tedavisi"
+    ]
+  },
+  "relatedDiseases": ["alerjik-rinit", "burun-tikanikligi", "burun-polipleri"]
+}

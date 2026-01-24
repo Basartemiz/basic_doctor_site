@@ -1,0 +1,122 @@
+{
+  "id": "kulak-cinlamasi-tinnitus",
+  "slug": "kulak-cinlamasi-tinnitus",
+  "serviceId": "kbb",
+  "serviceSlug": "kbb-hastaliklari",
+  "title": "Kulak Cinlamasi (Tinnitus)",
+  "subtitle": "Tinnitus Degerlendirme ve Tedavisi",
+  "definition": {
+    "title": "Tinnitus Nedir?",
+    "content": "Tinnitus, dis ortamda herhangi bir ses kaynagi olmaksizin kulakta veya kafada duyulan cinlama, ugultu, vizildama veya cir cir sesi olarak tanimlanan bir semptomdur. Tek kulakta veya her iki kulakta olabilir. Surekli veya aralıklı gorulebilir. Yasam kalitesini ciddi sekilde etkileyebilir."
+  },
+  "symptoms": {
+    "title": "Tinnitus Belirtileri",
+    "items": [
+      "Kulakta cinlama veya vizildama sesi",
+      "Ugultu veya rusgiar sesi",
+      "Cir cir bocegi sesi",
+      "Nabiz atisi gibi ritmik sesler",
+      "Uyku bozuklugu",
+      "Konsantrasyon guclugu",
+      "Stres ve anksiyete",
+      "Depresyon",
+      "Isitme guclugu eslik edebilir",
+      "Sessiz ortamlarda sesin artmasi"
+    ]
+  },
+  "causes": {
+    "title": "Tinnitus Nedenleri",
+    "items": [
+      "Gurultuye maruziyet",
+      "Yaslanmaya bagli isitme kaybi",
+      "Kulak kiri tikaci",
+      "Orta kulak enfeksiyonlari",
+      "Meniere hastaligi",
+      "Otoskleroz",
+      "Akustik noroma",
+      "Boyun ve cene sorunlari",
+      "Yuksek tansiyon",
+      "Bazi ilaclar (aspirin, antibiyotikler)"
+    ]
+  },
+  "diagnosis": {
+    "title": "Tinnitus Tanisi",
+    "content": "Tinnitus tanisi icin altta yatan neden arastirilir. Isitme testleri ve gerekli goruntuleme yontemleri kullanilir.",
+    "methods": [
+      "Detayli KBB ve kulak muayenesi",
+      "Saf ses odyometrisi",
+      "Timpanometri",
+      "Tinnitus eslestirme testi",
+      "Kranial MR (gerekirse)",
+      "Kardiyovaskuler degerlendirme"
+    ]
+  },
+  "treatment": {
+    "title": "Tinnitus Tedavisi",
+    "content": "Tinnitus tedavisi nedene yonelik ve semptomatik olarak planlanir. Tamamen ortadan kaldirmak her zaman mumkun olmasa da belirtiler onemli olcude azaltilabilir.",
+    "options": [
+      {
+        "name": "Altta Yatan Nedenin Tedavisi",
+        "description": "Kulak kiri temizligi, enfeksiyon tedavisi veya ilac degisikligi gibi neden odakli tedaviler yapilir."
+      },
+      {
+        "name": "Ses Terapisi",
+        "description": "Beyaz gurultu cihazlari, maskeleme teknikleri ve cevre sesleri kullanilarak tinnitus algisi azaltilir."
+      },
+      {
+        "name": "Tinnitus Retraining Terapisi (TRT)",
+        "description": "Uzun vadeli bir program ile beynin tinnitus sesine alistirilmasi hedeflenir."
+      },
+      {
+        "name": "Bilissel Davranisci Terapi",
+        "description": "Tinnitus ile basa cikma stratejileri ve stres yonetimi teknikleri ogretilir."
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "title": "Neden Op. Dr. Banu Begen?",
+    "points": [
+      "Tinnitus degerlendirmesinde deneyim",
+      "Kapsamli odyolojik testler",
+      "Multidisipliner tedavi yaklasimi",
+      "Hasta egitimi ve danismanlik",
+      "Guncel tedavi yontemleri",
+      "Uzun vadeli takip ve destek"
+    ]
+  },
+  "faq": [
+    {
+      "question": "Tinnitus tehlikeli midir?",
+      "answer": "Cogu durumda tinnitus ciddi bir saglik sorununun habercisi degildir. Ancak ani baslangicli, tek tarafli veya nabizli tinnitus mutlaka arastirilmalidir."
+    },
+    {
+      "question": "Tinnitus tamamen iyilesebilir mi?",
+      "answer": "Bazi durumlarda neden tedavi edildiginde tinnitus kaybolabilir. Kronik tinnitusta ise tam iyilesme yerine belirtilerin yonetimi hedeflenir."
+    },
+    {
+      "question": "Kahve ve alkol tinnitusü arttirir mi?",
+      "answer": "Bazı kisilerde kafein ve alkol tinnitusu artırabilir. Kisisel tetikleyicileri belirlemek onemlidir."
+    },
+    {
+      "question": "Tinnitus icin isitme cihazi faydali midir?",
+      "answer": "Isitme kaybi eslik eden tinnitusta isitme cihazlari hem duymayı iyilestirir hem de tinnitus algisini azaltabilir."
+    },
+    {
+      "question": "Stresi azaltmak tinnitusa yardimci olur mu?",
+      "answer": "Evet. Stres tinnitus algisini arttirir. Stres yonetimi, uyku duzeni ve rahatlatici aktiviteler tinnitus ile basa cikmada onemlidir."
+    }
+  ],
+  "seo": {
+    "title": "Kulak Cinlamasi (Tinnitus) Tedavisi Izmir | Op. Dr. Banu Begen",
+    "description": "Izmir'de kulak cinlamasi tedavisi. Tinnitus nedenleri, belirtileri ve tedavi yontemleri. KBB uzmani Op. Dr. Banu Begen.",
+    "keywords": [
+      "kulak cinlamasi",
+      "tinnitus tedavisi",
+      "kulak ugultusu",
+      "kulakta ses",
+      "tinnitus izmir",
+      "KBB uzmani"
+    ]
+  },
+  "relatedDiseases": ["isitme-kaybi", "bas-donmesi-vertigo", "kulak-enfeksiyonlari"]
+}
