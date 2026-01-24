@@ -1,0 +1,76 @@
+.ingredients-list {
+  margin-top: 1rem;
+}
+
+.ingredients-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--color-ink, #2C3E3B);
+  margin-bottom: 1rem;
+}
+
+.key-ingredients,
+.other-ingredients {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.ingredient-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 0.75rem 1rem;
+  background: var(--color-bg-soft, #F8F6F3);
+  border-radius: var(--radius-md, 12px);
+  transition: background 0.2s ease;
+}
+
+.ingredient-card.key {
+  background: linear-gradient(135deg, var(--color-primary-light, #A3C4B0) 0%, var(--color-primary, #7D9F8C) 100%);
+  color: #fff;
+}
+
+.ingredient-name {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.ingredient-benefit {
+  font-size: 0.85rem;
+  opacity: 0.85;
+}
+
+.ingredient-card:not(.key) .ingredient-name {
+  color: var(--color-ink, #2C3E3B);
+}
+
+.ingredient-card:not(.key) .ingredient-benefit {
+  color: var(--color-muted, #6B7C78);
+}
+
+.ingredients-toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  padding: 0;
+  border: none;
+  background: none;
+  color: var(--color-primary, #7D9F8C);
+  font-size: 0.9rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: color 0.2s ease;
+}
+
+.ingredients-toggle:hover {
+  color: var(--color-primary-dark, #5A7A66);
+}
+
+.ingredients-toggle svg {
+  transition: transform 0.2s ease;
+}

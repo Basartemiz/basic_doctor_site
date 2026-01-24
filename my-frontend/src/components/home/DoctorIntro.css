@@ -1,0 +1,77 @@
+.doctor-intro-section {
+  background: linear-gradient(135deg, var(--color-primary-dark, #5A7A66) 0%, var(--color-primary, #7D9F8C) 100%);
+  color: #fff;
+}
+
+.doctor-intro-grid {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.doctor-intro-image {
+  position: relative;
+}
+
+.doctor-intro-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: var(--radius-xl, 24px);
+  box-shadow: var(--shadow-xl, 0 16px 48px rgba(44, 62, 59, 0.16));
+}
+
+.doctor-intro-content .eyebrow {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.doctor-intro-content .section-title {
+  color: #fff;
+}
+
+.doctor-quote {
+  font-family: var(--display-font, 'Playfair Display', serif);
+  font-size: 1.35rem;
+  font-style: italic;
+  line-height: 1.6;
+  margin: 0 0 1.5rem;
+  padding-left: 1.5rem;
+  border-left: 3px solid var(--color-accent, #C9B896);
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.doctor-bio {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.doctor-intro-section .btn-primary {
+  background: #fff;
+  color: var(--color-primary-dark, #5A7A66);
+  border: none;
+}
+
+.doctor-intro-section .btn-primary:hover {
+  background: var(--color-accent, #C9B896);
+  color: var(--color-ink, #2C3E3B);
+}
+
+@media (max-width: 991px) {
+  .doctor-intro-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+    text-align: center;
+  }
+
+  .doctor-intro-image img {
+    margin: 0 auto;
+  }
+
+  .doctor-quote {
+    padding-left: 0;
+    border-left: none;
+    border-top: 3px solid var(--color-accent, #C9B896);
+    padding-top: 1.5rem;
+  }
+}

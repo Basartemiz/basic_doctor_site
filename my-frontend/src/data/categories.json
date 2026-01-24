@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cilt-bakimi",
+    "name": "Cilt Bakimi",
+    "slug": "cilt-bakimi",
+    "description": "Profesyonel cilt bakim urunleri",
+    "subcategories": ["serumlar", "nemlendiriciler", "temizleyiciler", "maskeler"]
+  },
+  {
+    "id": "makyaj",
+    "name": "Makyaj",
+    "slug": "makyaj",
+    "description": "Premium makyaj urunleri",
+    "subcategories": ["fondoten", "ruj", "goz-makyaji"]
+  },
+  {
+    "id": "sac-bakimi",
+    "name": "Sac Bakimi",
+    "slug": "sac-bakimi",
+    "description": "Profesyonel sac bakim urunleri",
+    "subcategories": ["sampuanlar", "bakim-urunleri", "yaglar"]
+  },
+  {
+    "id": "vucut-bakimi",
+    "name": "Vucut Bakimi",
+    "slug": "vucut-bakimi",
+    "description": "Vucut bakim urunleri",
+    "subcategories": ["losyonlar", "peeling", "vucut-yaglari"]
+  }
+]

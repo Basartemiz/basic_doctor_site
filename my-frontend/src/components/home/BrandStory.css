@@ -1,0 +1,91 @@
+.brand-story-section {
+  background: var(--color-surface, #fff);
+}
+
+.brand-story-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  align-items: center;
+}
+
+.brand-story-content .eyebrow {
+  color: var(--color-primary, #7D9F8C);
+}
+
+.brand-story-text {
+  color: var(--color-muted, #6B7C78);
+  line-height: 1.8;
+  margin-bottom: 1.25rem;
+}
+
+.brand-story-signature {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--color-line, #E8E4DF);
+}
+
+.signature-name {
+  display: block;
+  font-family: var(--display-font, 'Playfair Display', serif);
+  font-size: 1.25rem;
+  color: var(--color-ink, #2C3E3B);
+  margin-bottom: 0.25rem;
+}
+
+.signature-title {
+  font-size: 0.9rem;
+  color: var(--color-muted, #6B7C78);
+}
+
+.brand-story-values {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.value-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  padding: 1.5rem;
+  background: var(--color-bg-soft, #F8F6F3);
+  border-radius: var(--radius-lg, 16px);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.value-card:hover {
+  transform: translateX(8px);
+  box-shadow: var(--shadow-md, 0 4px 16px rgba(44, 62, 59, 0.08));
+}
+
+.value-icon {
+  flex-shrink: 0;
+  width: 56px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-primary, #7D9F8C);
+  color: #fff;
+  border-radius: var(--radius-md, 12px);
+}
+
+.value-title {
+  margin: 0 0 0.25rem;
+  font-size: 1.1rem;
+  color: var(--color-ink, #2C3E3B);
+}
+
+.value-text {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--color-muted, #6B7C78);
+}
+
+@media (max-width: 991px) {
+  .brand-story-grid {
+    grid-template-columns: 1fr;
+    gap: 2.5rem;
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "kbb": {
+    "id": "kbb",
+    "slug": "kbb-hastaliklari",
+    "title": "KBB Hastaliklari",
+    "subtitle": "Kulak Burun Bogaz Hastaliklari Tani ve Tedavisi",
+    "description": "Kulak, burun ve bogaz hastaliklarinin tani ve tedavisinde uzman ekibimizle, en guncel tibbi yaklasimlarla hastalarimiza hizmet vermekteyiz.",
+    "icon": "ear",
+    "image": "/images/kbb-hero.jpg",
+    "categories": [
+      {
+        "name": "Kulak Hastaliklari",
+        "items": [
+          {
+            "title": "Kulak Enfeksiyonlari",
+            "description": "Dis kulak iltihabı (otitis eksterna), orta kulak iltihabı (otitis media) ve ic kulak enfeksiyonlarinin tani ve tedavisi."
+          },
+          {
+            "title": "Isitme Kaybi",
+            "description": "Iletim tipi ve sinirsel isitme kayiplarinin degerlendirilmesi, odyolojik testler ve tedavi secenekleri."
+          },
+          {
+            "title": "Kulak Cinlamasi (Tinnitus)",
+            "description": "Kulakta cinlama, ugultu veya ses duyma sikayetlerinin arastirilmasi ve tedavi yontemleri."
+          },
+          {
+            "title": "Bas Donmesi ve Denge Bozukluklari",
+            "description": "Vertigo, meniere hastaligi ve diger vestibular bozukluklarin tani ve tedavisi."
+          },
+          {
+            "title": "Kulak Kiri ve Tikaclik",
+            "description": "Kulak kiri birikimi ve tikacligin guvenli temizligi ve tedavisi."
+          }
+        ]
+      },
+      {
+        "name": "Burun Hastaliklari",
+        "items": [
+          {
+            "title": "Sinuzit",
+            "description": "Akut ve kronik sinuzit tedavisi, endoskopik degerlendirme ve medikal/cerrahi tedavi secenekleri."
+          },
+          {
+            "title": "Alerjik Rinit",
+            "description": "Mevsimsel ve yilboyu alerjik burun tikanikligi, aksirma ve burun akintisi tedavisi."
+          },
+          {
+            "title": "Burun Tikanikligi",
+            "description": "Septum deviasyonu, konka hipertrofisi ve diger yapısal sorunlarin degerlendirmesi."
+          },
+          {
+            "title": "Burun Kanamasi (Epistaksis)",
+            "description": "Tekrarlayan burun kanamalarinin nedeni ve tedavisi."
+          },
+          {
+            "title": "Koku Alma Bozukluklari",
+            "description": "Koku kaybi (anosmi) ve azalmis koku alma (hiposmi) tani ve tedavisi."
+          }
+        ]
+      },
+      {
+        "name": "Bogaz Hastaliklari",
+        "items": [
+          {
+            "title": "Bogaz Enfeksiyonlari",
+            "description": "Farenjit, tonsillit ve larenjit gibi ust solunum yolu enfeksiyonlarinin tedavisi."
+          },
+          {
+            "title": "Ses Kisilikligi",
+            "description": "Ses teli nodulleri, polipleri ve diger ses bozukluklarinin tani ve tedavisi."
+          },
+          {
+            "title": "Yutma Guclugu (Disfaji)",
+            "description": "Yutma problemlerinin arastirilmasi ve tedavi planlamasi."
+          },
+          {
+            "title": "Horlama ve Uyku Apnesi",
+            "description": "Horlama ve obstruktif uyku apne sendromunun degerlendirmesi ve tedavisi."
+          },
+          {
+            "title": "Bademcik ve Geniz Eti",
+            "description": "Tekrarlayan enfeksiyonlar ve buyumis bademcik/geniz eti degerlendirmesi."
+          }
+        ]
+      }
+    ],
+    "treatments": [
+      "Detayli KBB muayenesi",
+      "Endoskopik degerlendirme",
+      "Odyometri ve timpanometri",
+      "Alerji testleri",
+      "Medikal tedavi planlama",
+      "Cerrahi tedavi onerileri"
+    ]
+  },
+  "cerrahi": {
+    "id": "cerrahi",
+    "slug": "cerrahi-operasyonlar",
+    "title": "Cerrahi Operasyonlar",
+    "subtitle": "Modern Cerrahi Tekniklerle Guvenli Tedavi",
+    "description": "Deneyimli cerrahi ekibimiz ve modern teknolojik altyapimizla, KBB alanindaki cerrahi operasyonlari basariyla gerceklestirmekteyiz.",
+    "icon": "scalpel",
+    "image": "/images/cerrahi-hero.jpg",
+    "categories": [
+      {
+        "name": "Burun Cerrahisi",
+        "items": [
+          {
+            "title": "Septoplasti",
+            "description": "Burun kemiği ve kikirdak egriliginin duzeltilmesi, nefes almayı kolaylastiran cerrahi islem."
+          },
+          {
+            "title": "Endoskopik Sinus Cerrahisi",
+            "description": "Kronik sinuzit tedavisinde kullanilan minimal invaziv cerrahi teknik."
+          },
+          {
+            "title": "Konka Cerrahisi",
+            "description": "Buyumis burun etlerinin (konka hipertrofisi) cerrahi tedavisi."
+          },
+          {
+            "title": "Rinoplasti",
+            "description": "Burun estetigi ve fonksiyonel burun cerrahisi."
+          }
+        ]
+      },
+      {
+        "name": "Kulak Cerrahisi",
+        "items": [
+          {
+            "title": "Timpanoplasti",
+            "description": "Yirtik kulak zari onarimi ve orta kulak cerrahisi."
+          },
+          {
+            "title": "Mastoidektomi",
+            "description": "Kronik orta kulak iltihabinda mastoid kemik cerrahisi."
+          },
+          {
+            "title": "Ventilasyon Tupu",
+            "description": "Tekrarlayan orta kulak iltihabinda ve sivi birikiminde tup takilmasi."
+          },
+          {
+            "title": "Otoplasti",
+            "description": "Kepce kulak duzeltme ameliyati."
+          }
+        ]
+      },
+      {
+        "name": "Bogaz Cerrahisi",
+        "items": [
+          {
+            "title": "Tonsillektomi",
+            "description": "Bademcik ameliyati - tekrarlayan enfeksiyonlarda veya uyku apnesinde."
+          },
+          {
+            "title": "Adenoidektomi",
+            "description": "Geniz eti ameliyati - cocuklarda sik gorulen buyume ve tikaclik durumunda."
+          },
+          {
+            "title": "Laringoskopi",
+            "description": "Ses telleri ve girtlak bolgesi incelemesi ve cerrahisi."
+          },
+          {
+            "title": "Tiroid Cerrahisi",
+            "description": "Tiroid nodulleri ve hastaliklari icin cerrahi tedavi."
+          }
+        ]
+      }
+    ],
+    "features": [
+      "Deneyimli cerrahi ekip",
+      "Modern ameliyathane",
+      "Minimal invaziv teknikler",
+      "Hizli iyilesme sureci",
+      "Ameliyat sonrasi takip"
+    ]
+  },
+  "estetik": {
+    "id": "estetik",
+    "slug": "medikal-estetik",
+    "title": "Medikal Estetik",
+    "subtitle": "Dogal Guzellik, Profesyonel Dokunuslar",
+    "description": "Yuz ve boyun bolgesinde, tibbi bilgi ve estetik bakis acisiyla, dogal ve genc gorunumunuzu korumak icin kisisellestirilmis tedaviler sunuyoruz.",
+    "icon": "sparkle",
+    "image": "/images/estetik-hero.jpg",
+    "categories": [
+      {
+        "name": "Botoks Uygulamalari",
+        "items": [
+          {
+            "title": "Alin Botoksu",
+            "description": "Alin cizgilerinin ve kirisiklarinin azaltilmasi icin botulinum toksin uygulamasi."
+          },
+          {
+            "title": "Kas Arasi Botoks",
+            "description": "Glabella bolgesi (kas arasi) cizgilerin giderilmesi."
+          },
+          {
+            "title": "Kaz Ayagi Botoksu",
+            "description": "Goz cevresi kirisiklarinin tedavisi."
+          },
+          {
+            "title": "Masseter Botoksu",
+            "description": "Yuz inceltme ve cene sikma tedavisi."
+          },
+          {
+            "title": "Nefertiti Boyun Germe",
+            "description": "Boyun ve cene hattini belirginlestiren botoks uygulamasi."
+          }
+        ]
+      },
+      {
+        "name": "Dolgu Uygulamalari",
+        "items": [
+          {
+            "title": "Dudak Dolgusu",
+            "description": "Dudak hacim artirma ve sekillendirme."
+          },
+          {
+            "title": "Yanak Dolgusu",
+            "description": "Yanak hacmi ve konturu icin hyaluronik asit dolgusu."
+          },
+          {
+            "title": "Cene ve Jawline",
+            "description": "Cene hatti belirginlestirme ve profil duzeltme."
+          },
+          {
+            "title": "Goz Alti Isik Dolgusu",
+            "description": "Goz alti morluklari ve cokukluklari icin dolgu tedavisi."
+          },
+          {
+            "title": "Burun Dolgusu",
+            "description": "Non-cerrahi burun sekillendirme (non-surgical rhinoplasty)."
+          }
+        ]
+      },
+      {
+        "name": "Cilt Yenileme",
+        "items": [
+          {
+            "title": "Mezoterapi",
+            "description": "Cilde vitamin, mineral ve hyaluronik asit enjeksiyonu."
+          },
+          {
+            "title": "PRP Tedavisi",
+            "description": "Kendi kaninizdan elde edilen plazmyla cilt yenileme."
+          },
+          {
+            "title": "Kimyasal Peeling",
+            "description": "Cilt lekesi, akne izi ve kirisilik tedavisi."
+          },
+          {
+            "title": "Radyofrekans",
+            "description": "Cilt sikilastirma ve kollajen stimulasyonu."
+          }
+        ]
+      }
+    ],
+    "benefits": [
+      "Dogal sonuclar",
+      "Minimal iyilesme suresi",
+      "FDA onayli urunler",
+      "Kisisellestirilmis tedavi plani",
+      "Uzman hekim uygulamasi"
+    ]
+  }
+}
