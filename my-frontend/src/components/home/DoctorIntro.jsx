@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import aboutPhoto from '../../assets/banu2.png'
+import aboutPhoto from '../../assets/banu2.jpeg'
 import './DoctorIntro.css'
 
 function DoctorIntro() {

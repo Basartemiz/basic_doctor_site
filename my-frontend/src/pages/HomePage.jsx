@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import heroPhoto from '../assets/banu1.jpeg'
-import aboutPhoto from '../assets/banu2.png'
+import aboutPhoto from '../assets/banu2.jpeg'
 import services from '../data/services.json'
 import './HomePage.css'
 

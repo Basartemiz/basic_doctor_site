@@ -1,4 +1,4 @@
-import aboutPhoto from '../assets/banu2.png'
+import aboutPhoto from '../assets/banu2.jpeg'
 import heroPhoto from '../assets/banu1.jpeg'
 import './AboutDoctorPage.css'
 
